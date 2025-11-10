@@ -41,18 +41,20 @@ app.get('/api/posts/:id', (req, res) => {
 
 // Add a new post
 app.post('/api/posts', (req, res) => {
-  const { title, content } = req.body;
+  const { title, content, link } = req.body;  // <-- LINK bhi destructure karo
   if (!title || !content) {
     return res.status(400).json({ message: 'Title and content are required' });
   }
   const newPost = {
     id: posts.length ? posts[posts.length - 1].id + 1 : 1,
     title,
-    content
+    content,
+    link: link || ""     // <-- LINK property hamesha daalo (empty string agar nahi diya)
   };
   posts.push(newPost);
-  res.status(201).json(newPost);
+  res.status(201).json(newPost);  // <-- Response me NEWPOST bhejna, jisme LINK bhi hoga
 });
+
 
 // Update a post
 app.put('/api/posts/:id', (req, res) => {
