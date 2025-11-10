@@ -1,13 +1,3 @@
-// java.js
-
-// Section switching (Home, About, Contact)
-function showSection(sectionId) {
-  document.getElementById('home-section').classList.add('hidden');
-  document.getElementById('about-section').classList.add('hidden');
-  document.getElementById('contact-section').classList.add('hidden');
-  document.getElementById(sectionId).classList.remove('hidden');
-}
-
 // Fetch and render blog posts
 async function fetchPosts(url = '/api/posts') {
   try {
@@ -25,6 +15,7 @@ async function fetchPosts(url = '/api/posts') {
       postCard.innerHTML = `
         <h2 class="font-bold text-lg text-blue-400 mb-2">${post.title}</h2>
         <p class="text-gray-200">${post.content}</p>
+        ${post.link ? `<a href="${post.link}" class="text-blue-300 underline" target="_blank">Go to link</a>` : ''}
       `;
       postsDiv.appendChild(postCard);
     });
@@ -33,18 +24,3 @@ async function fetchPosts(url = '/api/posts') {
   }
 }
 
-// Search posts on input
-document.getElementById('searchInput').addEventListener('input', function(e) {
-  const query = e.target.value.trim();
-  if (query) {
-    fetchPosts(`/api/posts/search?q=${encodeURIComponent(query)}`);
-  } else {
-    fetchPosts();
-  }
-});
-
-// Initial fetch on page load
-window.onload = function() {
-  fetchPosts();
-  showSection('home-section');
-};
