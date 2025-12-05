@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tutorials - Shopify</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="output.css" />
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+
+  <!-- Navbar (same pattern as index/about) -->
+  <header class="sticky top-0 z-50 border-b border-slate-800 bg-slate-950/80 backdrop-blur-xl">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-3">
+      <div class="flex items-center gap-2">
+        <div class="h-8 w-8 rounded-xl bg-gradient-to-tr from-indigo-500 via-sky-400 to-violet-500"></div>
+        <span class="font-semibold text-base sm:text-lg tracking-tight">Shopify</span>
+      </div>
+      <nav class="hidden md:flex items-center gap-6 text-xs sm:text-sm text-slate-300">
+        <a href="index.html" class="hover:text-white transition-colors">Home</a>
+        <a href="about.html" class="hover:text-white transition-colors">About</a>
+        <a href="tutorials.html" class="text-white font-semibold hover:text-indigo-400 transition-colors">Tutorials</a>
+        <a href="contact.html" class="hover:text-white transition-colors">Contact</a>
+      </nav>
+      <button
+        id="mobile-menu-button"
+        class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-full border border-slate-700 text-slate-200"
+      >
+        ☰
+      </button>
+    </div>
+    <nav
+      id="mobile-menu"
+      class="md:hidden hidden flex flex-col gap-3 px-6 pb-4 text-slate-300 border-t border-slate-800"
+    >
+      <a href="index.html" class="hover:text-white">Home</a>
+      <a href="about.html" class="hover:text-white">About</a>
+      <a href="tutorials.html" class="hover:text-white">Tutorials</a>
+      <a href="contact.html" class="hover:text-white">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Tutorials content -->
+  <main class="max-w-5xl mx-auto px-4 py-14 sm:py-16">
+    <header class="mb-8 sm:mb-10">
+      <p class="text-[11px] uppercase tracking-[0.25em] text-sky-400 mb-2">
+        Guides & Tutorials
+      </p>
+      <h1 class="text-3xl sm:text-4xl font-bold mb-3">Shopping tutorials for developers and students</h1>
+      <p class="text-sm sm:text-base text-slate-300 max-w-2xl">
+        Short, practical guides to help you pick the right laptops, phones, and accessories,
+        and to get the most value from Amazon and other marketplaces. [web:96][web:109]
+      </p>
+    </header>
+
+    <section class="space-y-4 sm:space-y-5">
+      <!-- Tutorial 1 -->
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/60 p-5 sm:p-6">
+        <h2 class="text-xl font-semibold mb-2 text-sky-400">
+          How to choose a coding laptop under ₹60,000
+        </h2>
+        <p class="text-sm sm:text-[15px] text-slate-300 mb-3">
+          Learn which specs actually matter for programming—CPU, RAM, SSD, display—and
+          which features you can safely ignore when you are on a budget. This tutorial
+          walks through a simple checklist you can apply to any laptop listing. [web:96][web:98]
+        </p>
+        <a
+          href="#"
+          class="inline-flex items-center text-xs sm:text-sm font-medium text-sky-400 hover:text-sky-300"
+        >
+          Coming soon
+        </a>
+      </article>
+
+      <!-- Tutorial 2 -->
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/60 p-5 sm:p-6">
+        <h2 class="text-xl font-semibold mb-2 text-sky-400">
+          How to read Amazon ratings the right way
+        </h2>
+        <p class="text-sm sm:text-[15px] text-slate-300 mb-3">
+          Ratings and reviews can be noisy. This guide explains how to spot fake‑looking
+          reviews, what to check in the 3–4 star reviews, and how to compare similar
+          products using rating patterns instead of just the average score. [web:77][web:115]
+        </p>
+        <a
+          href="#"
+          class="inline-flex items-center text-xs sm:text-sm font-medium text-sky-400 hover:text-sky-300"
+        >
+          Coming soon
+        </a>
+      </article>
+
+      <!-- Tutorial 3 -->
+      <article class="rounded-2xl border border-slate-800 bg-slate-900/60 p-5 sm:p-6">
+        <h2 class="text-xl font-semibold mb-2 text-sky-400">
+          Picking the right phone for study, work, and gaming
+        </h2>
+        <p class="text-sm sm:text-[15px] text-slate-300 mb-3">
+          Not everyone needs a flagship. This tutorial breaks down what to prioritise for
+          note‑taking, online classes, content creation, and gaming, so you can match a
+          phone category to your real use‑case before looking at specific models. [web:79][web:83]
+        </p>
+        <a
+          href="#"
+          class="inline-flex items-center text-xs sm:text-sm font-medium text-sky-400 hover:text-sky-300"
+        >
+          Coming soon
+        </a>
+      </article>
+    </section>
+  </main>
+
+  <!-- Footer with legal links (same pattern as about) -->
+  <footer class="border-t border-slate-800 mt-10">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-[11px] sm:text-xs text-slate-500">
+      <span>© 2025 Shopify. All rights reserved.</span>
+      <div class="flex items-center gap-3">
+        <a href="privacy.html" class="hover:text-slate-300">Privacy Policy</a>
+        <span class="text-slate-600">•</span>
+        <a href="terms.html" class="hover:text-slate-300">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const mobileMenuButton = document.getElementById("mobile-menu-button");
+    const mobileMenu = document.getElementById("mobile-menu");
+    mobileMenuButton.addEventListener("click", () => {
+      mobileMenu.classList.toggle("hidden");
+    });
+  </script>
+</body>
+</html>

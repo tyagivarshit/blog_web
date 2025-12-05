@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy Policy - Shopify</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="output.css" />
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+  
+  <!-- Navbar (same as shopping.html) -->
+  <header class="sticky top-0 z-50 border-b border-slate-800 bg-slate-950/80 backdrop-blur-xl">
+    <!-- Copy navbar from shopping.html -->
+    <div class="max-w-6xl mx-auto px-3 sm:px-4 lg:px-6 py-3 flex items-center justify-between gap-3">
+      <div class="flex items-center gap-2">
+        <div class="h-8 w-8 rounded-xl bg-gradient-to-tr from-indigo-500 via-sky-400 to-violet-500"></div>
+        <span class="font-semibold text-base sm:text-lg tracking-tight">Shopify</span>
+      </div>
+      <nav class="hidden md:flex items-center gap-6 text-slate-300">
+        <a href="index.html" class="hover:text-white">Home</a>
+        <a href="shopping.html" class="hover:text-white">Shopping</a>
+        <a href="about.html" class="hover:text-white">About</a>
+        <a href="privacy.html" class="text-white font-semibold">Privacy</a>
+      </nav>
+      <button id="mobile-menu-button" class="md:hidden h-9 w-9 rounded-full border border-slate-700 text-slate-200">☰</button>
+    </div>
+  </header>
+
+  <main class="max-w-4xl mx-auto px-4 py-16">
+    <div class="bg-slate-900/60 rounded-2xl border border-slate-800 p-8 mb-8">
+      <h1 class="text-3xl font-bold mb-6">Privacy Policy</h1>
+      <div class="space-y-6 text-sm leading-relaxed">
+        <p><strong>Last Updated:</strong> December 2025</p>
+        
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">1. Information We Collect</h2>
+          <p>We collect minimal information including IP addresses, browser type, and pages visited for analytics and improving user experience.</p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">2. Cookies & Tracking</h2>
+          <p>This website uses Amazon affiliate cookies to track purchases you make after clicking our links. These cookies expire within 24 hours (or 90 days if purchase completed).</p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">3. Amazon Affiliate Disclosure</h2>
+          <p>Shopify participates in the Amazon Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.in.</p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">4. Your Rights</h2>
+          <p>You can opt-out of cookies through your browser settings. We do not sell or share personal data with third parties.</p>
+        </section>
+
+        
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer (same as shopping.html) -->
+  <footer class="border-t border-slate-800 bg-slate-950/80 py-8 px-4">
+    <div class="max-w-6xl mx-auto text-center text-sm text-slate-400">
+      <p>© 2025 Shopify. <a href="privacy.html" class="hover:text-white">Privacy Policy</a></p>
+    </div>
+  </footer>
+
+  <script>
+    // Mobile menu toggle
+    document.getElementById('mobile-menu-button')?.addEventListener('click', () => {
+      document.getElementById('mobile-menu')?.classList.toggle('hidden');
+    });
+  </script>
+</body>
+</html>

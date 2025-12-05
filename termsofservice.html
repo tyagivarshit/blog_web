@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Terms of Service - Shopify</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="output.css" />
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+  
+  <!-- Navbar (same as other pages) -->
+  <header class="sticky top-0 z-50 border-b border-slate-800 bg-slate-950/80 backdrop-blur-xl">
+    <div class="max-w-6xl mx-auto px-3 sm:px-4 lg:px-6 py-3 flex items-center justify-between gap-3">
+      <div class="flex items-center gap-2">
+        <div class="h-8 w-8 rounded-xl bg-gradient-to-tr from-indigo-500 via-sky-400 to-violet-500"></div>
+        <span class="font-semibold text-base sm:text-lg tracking-tight">Shopify</span>
+      </div>
+      <nav class="hidden md:flex items-center gap-6 text-slate-300">
+        <a href="index.html" class="hover:text-white">Home</a>
+        <a href="shopping.html" class="hover:text-white">Shopping</a>
+        <a href="about.html" class="hover:text-white">About</a>
+        <a href="privacy.html" class="hover:text-white">Privacy</a>
+        <a href="terms.html" class="text-white font-semibold">Terms</a>
+      </nav>
+      <button id="mobile-menu-button" class="md:hidden h-9 w-9 rounded-full border border-slate-700 text-slate-200">☰</button>
+    </div>
+    <nav id="mobile-menu" class="md:hidden hidden flex flex-col gap-3 px-6 pb-4 text-slate-300 border-t border-slate-800">
+      <a href="index.html" class="hover:text-white">Home</a>
+      <a href="shopping.html" class="hover:text-white">Shopping</a>
+      <a href="about.html" class="hover:text-white">About</a>
+      <a href="privacy.html" class="hover:text-white">Privacy</a>
+      <a href="terms.html" class="hover:text-white">Terms</a>
+    </nav>
+  </header>
+
+  <main class="max-w-4xl mx-auto px-4 py-16">
+    <div class="bg-slate-900/60 rounded-2xl border border-slate-800 p-8 mb-8">
+      <h1 class="text-3xl font-bold mb-6">Terms of Service</h1>
+      <div class="space-y-6 text-sm leading-relaxed">
+        <p><strong>Effective Date:</strong> December 2025</p>
+        
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">1. Acceptance of Terms</h2>
+          <p>By accessing Shopify website, you agree to be bound by these Terms of Service, our <a href="privacy.html" class="text-sky-400 hover:text-sky-300">Privacy Policy</a>, and all applicable laws.</p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">2. Use of Content</h2>
+          <ul class="list-disc list-inside space-y-1 ml-4">
+            <li>Content is for informational purposes only</li>
+            <li>Product reviews are based on research and testing</li>
+            <li>Affiliate links may earn us commission (no extra cost to you)</li>
+            <li>You may not reproduce content without permission</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">3. Affiliate Disclosure</h2>
+          <p>Shopify participates in Amazon Associates Program. Some links are affiliate links. We earn commission from qualifying purchases made through these links.</p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">4. Product Recommendations</h2>
+          <p>Product recommendations are based on research, user reviews, and market analysis. We are not responsible for product quality or seller performance.</p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">5. Limitation of Liability</h2>
+          <p>Shopify is not liable for any damages arising from use of this website or products purchased through affiliate links.</p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">6. Changes to Terms</h2>
+          <p>We may update these Terms periodically. Continued use after changes constitutes acceptance.</p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-3 text-sky-400">7. Contact Information</h2>
+          <p>For questions about these Terms: <a href="mailto:hello@shopify.com" class="text-sky-400 hover:text-sky-300">hello@shopify.com</a></p>
+        </section>
+
+        <div class="border-t border-slate-700 pt-6 mt-8">
+          <p class="text-xs text-slate-500">© 2025 Shopify. All rights reserved.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-800 bg-slate-950/80 py-8 px-4">
+    <div class="max-w-6xl mx-auto text-center text-sm text-slate-400 space-y-2">
+      <p>© 2025 Shopify. All rights reserved.</p>
+      <div class="flex flex-wrap justify-center gap-4 text-xs">
+        <a href="privacy.html" class="hover:text-white">Privacy Policy</a>
+        <a href="about.html" class="hover:text-white">About</a>
+        <a href="contact.html" class="hover:text-white">Contact</a>
+        <a href="terms.html" class="text-white font-semibold">Terms of Service</a>
+      </div>
+      <p class="text-[10px]">Amazon affiliate site - We earn from qualifying purchases.</p>
+    </div>
+  </footer>
+
+  <script>
+    // Mobile menu toggle
+    const mobileMenuButton = document.getElementById('mobile-menu-button');
+    const mobileMenu = document.getElementById('mobile-menu');
+    if (mobileMenuButton && mobileMenu) {
+      mobileMenuButton.addEventListener('click', () => mobileMenu.classList.toggle('hidden'));
+    }
+  </script>
+</body>
+</html>

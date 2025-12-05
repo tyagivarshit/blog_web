@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Product Review – DevBlog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="output.css" />
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+  <!-- Navbar -->
+  <header class="sticky top-0 z-50 border-b border-slate-800 bg-slate-950/80 backdrop-blur-xl">
+    <div class="max-w-6xl mx-auto px-3 sm:px-4 lg:px-6 py-3 flex items-center justify-between gap-3">
+      <div class="flex items-center gap-2">
+        <div class="h-8 w-8 rounded-xl bg-gradient-to-tr from-indigo-500 via-sky-400 to-violet-500"></div>
+        <span class="font-semibold text-base sm:text-lg tracking-tight">DevBlog</span>
+      </div>
+      <nav class="hidden md:flex items-center gap-6 text-xs sm:text-sm text-slate-300">
+        <a href="index.html" class="hover:text-white transition-colors">Home</a>
+        <a href="#" class="hover:text-white transition-colors">Shopping</a>
+        <a href="#" class="hover:text-white transition-colors">About</a>
+      </nav>
+      <button class="hidden sm:inline-flex px-4 py-2 text-xs sm:text-sm font-medium rounded-full bg-slate-100 text-slate-900 hover:bg-white transition-colors">
+        Subscribe
+      </button>
+    </div>
+  </header>
+
+  <!-- Post layout -->
+  <main class="max-w-6xl mx-auto px-3 sm:px-4 lg:px-6 py-10 lg:py-14">
+    <div class="grid grid-cols-1 lg:grid-cols-[minmax(0,3fr)_minmax(0,1fr)] gap-10 lg:gap-12">
+      <!-- Main content -->
+      <article class="prose prose-invert max-w-none">
+        <div class="mb-6">
+          <span id="post-category-badge" class="inline-flex items-center rounded-full bg-sky-500/10 px-3 py-1 text-[11px] font-medium text-sky-400">
+            Product
+          </span>
+          <h1 id="post-title" class="mt-4 text-3xl sm:text-4xl font-semibold tracking-tight">Loading...</h1>
+          <div id="post-meta" class="mt-4 flex flex-wrap items-center gap-3 text-xs text-slate-400">
+            Author • Date • Read time
+          </div>
+        </div>
+
+        <div class="h-px w-full bg-gradient-to-r from-transparent via-slate-700 to-transparent mb-8"></div>
+
+        <!-- Intro section -->
+        <section id="intro" class="mb-8">
+          <h2 class="text-xl font-semibold mb-3">Introduction</h2>
+          <div id="intro-content"></div>
+        </section>
+
+        <!-- Features -->
+        <section id="features" class="mb-8">
+          <h2 class="text-xl font-semibold mb-3">Features & Specs</h2>
+          <div id="features-content"></div>
+        </section>
+
+        <!-- Pros & cons -->
+        <section id="proscons" class="mb-8 grid grid-cols-1 sm:grid-cols-2 gap-6">
+          <div class="bg-slate-800 rounded-xl p-4">
+            <h3 class="text-lg font-semibold text-green-400 mb-2">Pros</h3>
+            <ul id="pros-content" class="list-disc list-inside text-slate-300"></ul>
+          </div>
+          <div class="bg-slate-800 rounded-xl p-4">
+            <h3 class="text-lg font-semibold text-red-400 mb-2">Cons</h3>
+            <ul id="cons-content" class="list-disc list-inside text-slate-300"></ul>
+          </div>
+        </section>
+
+        <!-- Conclusion -->
+        <section id="conclusion" class="mb-10">
+          <h2 class="text-xl font-semibold mb-3">Conclusion</h2>
+          <div id="conclusion-content" class="mb-6"></div>
+          <a id="affiliate-cta" href="#" target="_blank" rel="noopener" class="inline-block rounded-full bg-sky-500 hover:bg-sky-400 text-slate-900 font-semibold px-6 py-3 shadow-lg transition-colors">
+            Check Best Price & Buy Now →
+          </a>
+        </section>
+      </article>
+
+      <!-- Sidebar -->
+      <aside class="lg:self-start lg:sticky lg:top-24 space-y-6">
+        <div class="rounded-2xl border border-slate-800 bg-slate-900/70 p-4 sm:p-5">
+          <h3 class="text-sm font-semibold mb-3 text-slate-100">On this page</h3>
+          <nav class="text-xs sm:text-sm text-slate-300 space-y-2">
+            <a href="#intro" class="block hover:text-sky-400">Introduction</a>
+            <a href="#features" class="block hover:text-sky-400">Features & Specs</a>
+            <a href="#proscons" class="block hover:text-sky-400">Pros & Cons</a>
+            <a href="#conclusion" class="block hover:text-sky-400">Conclusion</a>
+          </nav>
+        </div>
+
+        <div class="rounded-2xl border border-sky-500/40 bg-gradient-to-br from-sky-500/10 via-slate-900/90 to-indigo-500/10 p-4 sm:p-5">
+          <h3 class="text-sm font-semibold mb-2">Tools used in this guide</h3>
+          <p class="text-xs sm:text-sm text-slate-200 mb-3">
+            Hosting, domain aur analytics ke liye recommended stack. Yahan apne affiliate links daal sakte ho.
+          </p>
+          <ul class="text-xs sm:text-sm text-slate-200 space-y-1.5 mb-4">
+            <li>• Fast hosting for small SaaS</li>
+            <li>• Simple analytics dashboard</li>
+            <li>• Design assets & icons pack</li>
+          </ul>
+          <a href="#" class="inline-flex items-center justify-center w-full rounded-full bg-sky-500 text-slate-950 text-xs sm:text-sm font-semibold py-2.5 hover:bg-sky-400 transition-colors">
+            Get the full stack →
+          </a>
+          <p class="mt-2 text-[10px] text-slate-400">
+            Affiliate disclosure can go here.
+          </p>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <!-- Scripts -->
+  <script src="data.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const slug = params.get("slug") || "best-budget-laptop-2025";
+
+    const post = posts.find(p => p.slug === slug) || posts[0];
+
+    document.title = post.title + " – DevBlog";
+
+    document.getElementById("post-title").textContent = post.title;
+    document.getElementById("post-meta").textContent =
+      `${post.author} • ${post.date} • ${post.readTime}`;
+
+    // Category badge & color
+    const badgeEl = document.getElementById("post-category-badge");
+    badgeEl.textContent = post.category;
+    const badgeColorClasses = {
+      Laptop: "bg-sky-500/10 text-sky-400",
+      Hosting: "bg-indigo-500/10 text-indigo-400",
+      Tool: "bg-violet-500/10 text-violet-400",
+      Tutorial: "bg-sky-500/10 text-sky-400",
+      AI: "bg-indigo-500/10 text-indigo-400",
+      Money: "bg-violet-500/10 text-violet-400"
+    };
+    badgeEl.className =
+      "inline-flex items-center rounded-full px-3 py-1 text-[11px] font-medium " +
+      (badgeColorClasses[post.category] || "bg-slate-500/10 text-slate-400");
+
+    // Sections filling funcs
+    function fillSection(id, lines) {
+      const el = document.getElementById(id);
+      if (!el || !lines) return;
+      if (Array.isArray(lines)) {
+        el.innerHTML = lines.map(line => `<p class="text-slate-300 mb-3">${line}</p>`).join("");
+      } else if (typeof lines === "string") {
+        el.innerHTML = `<p class="text-slate-300 mb-3">${lines}</p>`;
+      } else {
+        el.innerHTML = "";
+      }
+    }
+
+    fillSection("intro-content", post.sections?.intro);
+    fillSection("features-content", post.sections?.layout);
+    fillSection("pros-content", post.sections?.pros || []);
+    fillSection("cons-content", post.sections?.cons || []);
+    fillSection("conclusion-content", post.sections?.conclusion);
+
+    // Affiliate CTA
+    const cta = post.cta || {};
+    const ctaBtn = document.getElementById("affiliate-cta");
+    if (cta.url) {
+      ctaBtn.href = cta.url;
+      ctaBtn.textContent = cta.text || "Check Best Price & Buy Now →";
+      ctaBtn.style.display = "inline-block";
+    } else {
+      ctaBtn.style.display = "none";
+    }
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-G-2984BWSZDG"></script>
+</body>
+</html>

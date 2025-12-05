@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About - Shopify</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="output.css" />
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen">
+
+  <!-- Navbar -->
+  <header class="sticky top-0 z-50 border-b border-slate-800 bg-slate-950/80 backdrop-blur-xl">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between gap-3">
+      <div class="flex items-center gap-2">
+        <div class="h-8 w-8 rounded-xl bg-gradient-to-tr from-indigo-500 via-sky-400 to-violet-500"></div>
+        <span class="font-semibold text-base sm:text-lg tracking-tight">Shopify</span>
+      </div>
+      <nav class="hidden md:flex items-center gap-6 text-xs sm:text-sm text-slate-300">
+        <a href="index.html" class="hover:text-white transition-colors">Home</a>
+        <a href="about.html" class="text-white font-semibold hover:text-indigo-400 transition-colors">About</a>
+        <a href="contact.html" class="hover:text-white transition-colors">Contact</a>
+      </nav>
+      <button
+        id="mobile-menu-button"
+        class="md:hidden inline-flex items-center justify-center h-9 w-9 rounded-full border border-slate-700 text-slate-200"
+      >
+        ☰
+      </button>
+    </div>
+    <nav
+      id="mobile-menu"
+      class="md:hidden hidden flex flex-col gap-3 px-6 pb-4 text-slate-300 border-t border-slate-800"
+    >
+      <a href="index.html" class="hover:text-white">Home</a>
+      <a href="about.html" class="hover:text-white">About</a>
+      <a href="contact.html" class="hover:text-white">Contact</a>
+    </nav>
+  </header>
+
+  <main class="max-w-4xl mx-auto px-4 py-14 sm:py-16">
+    <div class="bg-slate-900/60 rounded-2xl border border-slate-800 p-6 sm:p-8">
+      <p class="text-[11px] uppercase tracking-[0.25em] text-sky-400 mb-3">
+        About this project
+      </p>
+      <h1 class="text-3xl sm:text-4xl font-bold mb-4">About Shopify</h1>
+      <p class="text-sm sm:text-base text-slate-300 mb-6">
+        Shopify is a curated tech product review and recommendation site built for developers, students,
+        and serious buyers who want Amazon-style convenience with focused, honest insights.  
+        You will find laptops, phones, accessories, and developer gear presented in clear, practical reviews.
+      </p>
+
+      <div class="space-y-6 text-sm sm:text-[15px] leading-relaxed text-slate-200">
+        <section>
+          <h2 class="text-xl font-semibold mb-2 text-sky-400">What Shopify does</h2>
+          <ul class="list-disc list-inside space-y-1 text-slate-300">
+            <li>Handpicked product lists for laptops, mobiles, accessories, and developer tools.</li>
+            <li>Short highlights: pros, cons, price, and use‑case instead of long walls of text.</li>
+            <li>Direct “Buy” buttons that open trusted marketplaces like Amazon in a new tab.</li>
+          </ul>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-2 text-sky-400">Who it is for</h2>
+          <p>
+            This website is designed for people who code, study engineering or computer science,
+            or simply want reliable gadgets for work and everyday life. The main focus is
+            performance, value for money, and real‑world usage rather than just raw specifications. [web:76][web:83]
+          </p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-2 text-sky-400">How reviews work</h2>
+          <p>
+            Products are shortlisted based on price, performance, user feedback, and
+            developer‑friendly features. Each card shows a quick summary, rating, and
+            current price so that you can make a fast decision without opening multiple tabs. [web:76][web:79]
+          </p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-2 text-sky-400">Amazon affiliate disclosure</h2>
+          <p>
+            Shopify participates in the Amazon Associates Program. Some links are affiliate links,
+            which means a small commission may be earned if you purchase through them,
+            at no additional cost to you. This helps keep the site free and lightweight on ads. [web:77][web:86]
+          </p>
+        </section>
+
+        <section>
+          <h2 class="text-xl font-semibold mb-2 text-sky-400">Contact</h2>
+          <p>
+            For suggestions, collaboration ideas, or product requests, email:
+            <a href="mailto:hello@shopify.com" class="text-sky-400 hover:text-sky-300">
+              hello@shopify.com
+            </a>
+          </p>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer with Privacy & Terms -->
+  <footer class="border-t border-slate-800 mt-10">
+    <div class="max-w-6xl mx-auto px-4 py-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-[11px] sm:text-xs text-slate-500">
+      <span>© 2025 Shopify. All rights reserved.</span>
+      <div class="flex items-center gap-3">
+        <a href="privacy.html" class="hover:text-slate-300">Privacy Policy</a>
+        <span class="text-slate-600">•</span>
+        <a href="terms.html" class="hover:text-slate-300">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const mobileMenuButton = document.getElementById("mobile-menu-button");
+    const mobileMenu = document.getElementById("mobile-menu");
+    mobileMenuButton.addEventListener("click", () => {
+      mobileMenu.classList.toggle("hidden");
+    });
+  </script>
+</body>
+</html>
