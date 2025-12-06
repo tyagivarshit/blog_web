@@ -827,7 +827,441 @@ const posts = [
       url: "https://amzn.to/4rE6i9s",
       text: "Buy Lymio Lightweight Jacket →"
     }
+  },
+  {
+  slug: "alan-jones-women-solid-zip-hoodie",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "violet",
+  title: "Alan Jones Women’s Solid Zipper Hooded Sweatshirt",
+  excerpt: "Front zip, ribbed hem, lined hood – a cozy casual winter hoodie for everyday wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/alan-jones-women-solid-zip-hoodie.png",
+  price: "₹676",
+  rating: 4.2,
+  ctaLabel: "Buy Alan Jones Hoodie",
+  ctaUrl: "https://amzn.to/48CuhgJ",
+  sections: {
+    intro: [
+      "The Alan Jones Women’s Solid Zipper Hooded Sweatshirt is a stylish and comfortable winter essential, perfect for college, office commutes, and everyday casual wear.[web:8][web:9]"
+    ],
+    layout: [
+      "It features a full front zipper, lined hood, ribbed hem and cuffs, and a clean solid-color design that gives a relaxed yet neat look and makes layering effortless.[web:8][web:30]"
+    ],
+    pros: [
+      "Soft fleece/cotton-blend fabric that feels light on the body while still keeping you warm.[web:3][web:28]",
+      "Front zip design lets you quickly throw it on over a tee and adjust warmth as needed.[web:8]",
+      "Lined hood and ribbed cuffs help block cold air and keep the fit snug and structured.[web:9][web:29]"
+    ],
+    cons: [
+      "Some color–size combinations can go out of stock or show slight price variation.[web:28][web:30]",
+      "For very harsh winters or heavy snow, you will still need an extra jacket on top.[web:3]"
+    ],
+    conclusion: [
+      "Overall, this Alan Jones hoodie is a great value pick if you want an affordable branded sweatshirt that works for daily winter outfits without feeling too heavy.[web:8][web:9]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48CuhgJ",
+    text: "Buy Alan Jones Hoodie →"
   }
+},
+{
+  slug: "mack-jonney-women-fleece-halfzip-jm4380",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "red",
+  badgeText: "Limited-time deal",
+  title: "Mack Jonney Women’s Fleece Half-Zip High Neck Sweatshirt (JM.4380)",
+  excerpt: "Warm fleece, half-zip high neck, cozy winter sweatshirt that looks stylish with jeans or joggers.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Mack Jonney Women’s Fleece Half-Zip High Neck Sweatshirt.png",
+  price: "₹479",
+  rating: 4.3,
+  ctaLabel: "Buy Mack Jonney Sweatshirt",
+  ctaUrl: "https://amzn.to/4pmxoAq",
+  sections: {
+    intro: [
+      "The Mack Jonney Women’s Fleece Half-Zip High Neck Sweatshirt (JM.4380) combines soft fleece warmth with a trendy high-neck design, making it a great pick for everyday winter wear.[web:31][web:38]"
+    ],
+    layout: [
+      "It features a half-zip closure, high-neck collar, long sleeves and a straight or ribbed hem, giving a clean, structured look that pairs well with jeans, cargo pants or joggers.[web:31][web:40]"
+    ],
+    pros: [
+      "Cozy inner fleece keeps you comfortably warm without feeling too bulky, ideal for mild to moderate winters and travel.[web:32][web:38]",
+      "High neck plus half-zip lets you adjust coverage and ventilation, so you can style it zipped up for chill or slightly open for a relaxed vibe.[web:32][web:39]",
+      "Versatile solid colors work for college, café outings and casual office days, and layer easily under jackets or over basic tees.[web:35][web:38]"
+    ],
+    cons: [
+      "Some users may find the high neck a bit warm for indoor use if the heater is on, so you might need to open the zip for comfort.[web:39]",
+      "Limited pocket options on some variants, so you may still rely on your jeans or bag for carrying essentials.[web:31][web:40]"
+    ],
+    conclusion: [
+      "If you want a warm, stylish fleece that looks cleaner than a hoodie and works both solo and as a layering piece, this Mack Jonney half-zip high-neck sweatshirt is a strong value pick for your winter wardrobe.[web:32][web:38]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pmxoAq",
+    text: "Buy Mack Jonney Sweatshirt →"
+  }
+},
+{
+  slug: "boldfit-women-winter-hoodie-zip",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "sky",
+  badgeText: "Limited-time deal",
+  title: "Boldfit Women Hoodie for Winter – Moisture-Wicking, Anti-Static & Lightweight",
+  excerpt: "Soft cotton-blend hoodie with moisture-wicking, anti-static fabric, raglan sleeves, kangaroo pocket and zip – perfect for workouts, walks and travel.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Boldfit Women Hoodie for Winter Soft.png",
+  price: "₹794",
+  rating: 4.4,
+  ctaLabel: "Buy Boldfit Women Hoodie",
+  ctaUrl: "https://amzn.to/4oPq7IA",
+  sections: {
+    intro: [
+      "The Boldfit Women Hoodie for Winter is designed to keep you warm, dry and comfortable with a soft moisture-wicking, anti-static fabric that works well for walks, light workouts and everyday wear.[web:42][web:48]"
+    ],
+    layout: [
+      "It features a front zip, raglan sleeves for better movement, a kangaroo pocket for hand warmth and essentials, plus a ribbed hem that keeps the fit neat and snug while still feeling lightweight on the body.[web:3][web:45][web:48]"
+    ],
+    pros: [
+      "Cotton-blend fleece with moisture-wicking and anti-static properties helps manage sweat and reduces cling, making it comfortable for active days and commuting.[web:42][web:47][web:48]",
+      "Raglan sleeves and zip-front design give a sporty look and allow easy layering over tees or sports bras, ideal for gym-to-street outfits.[web:3][web:46]",
+      "Kangaroo pocket adds both function and style, keeping hands warm and giving a classic hoodie vibe that pairs well with leggings, joggers or jeans.[web:45][web:48]"
+    ],
+    cons: [
+      "Being lightweight, it is best suited for mild to moderate winters; you may need an extra jacket in very low temperatures.[web:3][web:48]",
+      "Exact fit and feel can vary slightly between sellers and batches, so checking size charts and reviews before ordering online is recommended.[web:42][web:43]"
+    ],
+    conclusion: [
+      "If you want a sporty-looking women’s hoodie that stays light, manages sweat and still feels warm and cozy for winter walks, gym sessions and casual outings, this Boldfit hoodie is a strong value option to add to your wardrobe.[web:3][web:42][web:48]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oPq7IA",
+    text: "Buy Boldfit Women Hoodie →"
+  }
+},
+{
+  slug: "womens-printed-winter-sweatshirt",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "violet",
+  title: "Women’s Printed Sweatshirt – Cozy & Stylish Winter Wear",
+  excerpt: "Soft printed sweatshirt for women with warm winter-ready fabric, casual fit and trendy graphics for everyday wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Women's Sweatshirt.png",
+  price: " ₹499",
+  rating: 4.3,
+  ctaLabel: "Shop Printed Winter Sweatshirts",
+  ctaUrl: "https://amzn.to/4iCKxTm",
+  sections: {
+    intro: [
+      "This women’s printed sweatshirt is designed as an easy winter go-to: warm enough for chilly days, light enough for daily use, and stylish enough to wear for college, café outings or travel.[web:50][web:55]"
+    ],
+    layout: [
+      "Most printed winter sweatshirts use a soft cotton- or fleece-blend fabric, long sleeves and a relaxed or oversized fit, with fun graphics or quotes that add personality to basic jeans-and-sneakers outfits.[web:50][web:52]"
+    ],
+    pros: [
+      "Printed designs let you show your mood or aesthetic, from minimal graphics to bold quirky prints, without needing extra styling effort.[web:51][web:52]",
+      "Cozy brushed or fleece inner fabric keeps you warm and comfortable for everyday winter wear, especially when layered over a tee.[web:50][web:55]",
+      "Pairs easily with denim, joggers or leggings, so one sweatshirt can work for classes, casual office, movie nights and short trips.[web:52][web:58]"
+    ],
+    cons: [
+      "Very thin fashion sweatshirts may not be enough on their own in harsh winter; you might need to layer a jacket on top.[web:55]",
+      "Fit and print quality can vary a lot between low-budget sellers, so checking reviews and size charts is important when ordering online.[web:56][web:57]"
+    ],
+    conclusion: [
+      "If you want women’s winter wear that feels like a hoodie-level comfort but looks a little more playful and trendy, a printed sweatshirt is a solid choice to rotate with your basic solids all season.[web:52][web:55]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iCKxTm",
+    text: "Browse Women’s Printed Sweatshirts →"
+  }
+},
+{
+  slug: "boldfit-woolen-winter-cap-neck-warmer-grey",
+  category: "Clothing",
+  readTime: "2 min read",
+  badgeColor: "sky",
+  badgeText: "Limited-time deal",
+  title: "Boldfit Woolen Winter Cap for Women with Neck Warmer – Grey",
+  excerpt: "Soft woolen beanie cap with attached neck warmer – cozy thermal winter wear for women and girls.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Boldfit Woolen Winter Cap for Women with Neck.png",
+  price: "₹299",
+  rating: 4.1,
+  ctaLabel: "Buy Boldfit Woolen Cap + Neck Warmer",
+  ctaUrl: "https://amzn.to/4iHxtMt",
+  sections: {
+    intro: [
+      "The Boldfit Woolen Winter Cap for Women with Neck Warmer is a soft thermal beanie designed to keep both your head and neck warm in cold weather while still looking stylish.[web:61][web:66]"
+    ],
+    layout: [
+      "This beanie-style cap uses a dual-layer woolen or acrylic knit with a stretch fit, paired with a matching neck warmer or scarf-style extension, giving full coverage around the ears and neck for extra warmth.[web:63][web:65]"
+    ],
+    pros: [
+      "Soft, warm knit and fleece-style inner lining help trap heat effectively, making it great for early-morning walks, bike rides and winter travel.[web:65][web:66]",
+      "Neck warmer attached or included means you do not need a separate scarf, reducing bulk while still covering your throat against cold winds.[web:61][web:69]",
+      "Stylish branded beanie look in neutral grey matches most winter jackets and hoodies, and works for both women and older girls.[web:63][web:67]"
+    ],
+    cons: [
+      "Because it is quite warm and close-fitting, some users may find it too hot for indoor use or mild winter days.[web:66][web:69]",
+      "One-size stretch fit may not suit everyone perfectly, so people with very small or very large head sizes should double-check sizing info and reviews.[web:61][web:63]"
+    ],
+    conclusion: [
+      "If you want a budget-friendly, branded woolen ‘topi’ that covers ears and neck together and looks good with casual winter outfits, this Boldfit grey winter cap with neck warmer is an easy, practical addition to your cold-weather essentials.[web:61][web:67]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iHxtMt",
+    text: "Buy Boldfit Woolen Winter Cap →"
+  }
+},
+{
+  slug: "fabseasons-women-fauxfur-touchscreen-gloves",
+  category: "Clothing",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "FabSeasons Winter Gloves for Girls & Women – Faux Fur Inner & Touchscreen Finger",
+  excerpt: "Soft winter gloves with faux fur inner lining and touchscreen-enabled fingertips for cozy, phone-friendly winters.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/FabSeasons Winter Gloves For Girls & Women.png",
+  price: "₹389",
+  rating: 4.4,
+  ctaLabel: "Buy FabSeasons Winter Gloves",
+  ctaUrl: "https://amzn.to/4a6vjnH",
+  sections: {
+    intro: [
+      "FabSeasons Winter Gloves for Girls & Women are designed for cold weather with a cozy faux fur inner and touchscreen-enabled fingertips so you can stay warm and still use your phone comfortably.[web:70][web:76]"
+    ],
+    layout: [
+      "These gloves typically use a windproof, water-resistant outer shell with a soft faux fur or fleece inner, pull-on closure and a snug cuff that helps seal in warmth around the wrist.[web:72][web:75][web:77]"
+    ],
+    pros: [
+      "Conductive touchscreen fabric on the fingertips lets you tap, swipe and type on smartphones without removing your gloves, which is ideal for commuting and outdoor use.[web:73][web:74][web:76]",
+      "Faux fur inner lining feels soft and plush against the skin while providing good insulation for chilly mornings and evenings.[web:70][web:74]",
+      "Windproof and light water-resistant outer helps keep hands comfortable in light rain or cold breeze, useful for bike rides or walks.[web:73][web:75][web:77]"
+    ],
+    cons: [
+      "Touch accuracy can be slightly less precise than using bare fingers, especially for very small on-screen buttons.[web:73][web:76]",
+      "Because of the thicker insulated build, they may feel a bit warm for indoor use or milder winter days.[web:74][web:75]"
+    ],
+    conclusion: [
+      "For anyone who wants stylish winter gloves that keep hands cozy while still allowing easy phone use, these FabSeasons faux fur touchscreen gloves offer a practical balance of warmth, comfort and functionality at an affordable price.[web:72][web:74][web:76]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4a6vjnH",
+    text: "Buy FabSeasons Winter Gloves →"
+  }
+},
+{
+  slug: "funky-monkey-womens-cute-zip-hoodie",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "violet",
+  title: "FUNKY MONKEY Women’s Cute Zip-Up Hoodie with Pocket",
+  excerpt: "Casual zip-up hoodie for teen girls and women with drawstring hood, pockets and cozy winter-ready fabric.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/FUNKY MONKEY - Women's Cute Hoodies Teen Girl Winter Jacket Sweatshirts.png",
+  price: "₹759",
+  rating: 4.0,
+  ctaLabel: "Buy FUNKY MONKEY Zip Hoodie",
+  ctaUrl: "https://amzn.to/4oC0gmY",
+  sections: {
+    intro: [
+      "The FUNKY MONKEY Women’s Cute Hoodies range is designed as casual winter jackets for teen girls and women, combining a soft zip-up sweatshirt feel with a playful, everyday look.[web:79][web:87]"
+    ],
+    layout: [
+      "This hoodie typically uses a cotton or cotton-blend fabric with a full front zipper, adjustable drawstring hood, kangaroo-style pockets and a medium length regular fit that works well over tees or tanks.[web:80][web:85]"
+    ],
+    pros: [
+      "Zip-up design makes it easy to throw on or off during changing winter temperatures and gives more styling flexibility than a closed pullover.[web:85][web:89]",
+      "Front pockets add both utility and comfort, letting you keep small essentials handy or simply warm your hands on colder days.[web:80][web:84]",
+      "Cute, casual styling is targeted at teens and young women, making it a good match with jeans, joggers, skirts and sneakers for daily wear.[web:79][web:87]"
+    ],
+    cons: [
+      "Being a fashion hoodie, the fabric weight is usually suited to mild to moderate winters; in very low temperatures you may still need a heavier jacket on top.[web:82][web:89]",
+      "Size and fit can vary between sellers, so checking chest/shoulder measurements and user reviews is important before choosing a size.[web:80][web:86]"
+    ],
+    conclusion: [
+      "If you are looking for an affordable, cute-looking zip hoodie that works as a casual winter jacket for college, outings or travel, the FUNKY MONKEY Women’s Cute Hoodies line is a solid option to add to your wardrobe.[web:79][web:85][web:87]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oC0gmY",
+    text: "Buy FUNKY MONKEY Zip Hoodie →"
+  }
+},
+{
+  slug: "TAGAS Women's Sweatshirt| Women Winter Wear",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "violet",
+  title: "Women’s Printed Sweatshirt – Cozy & Stylish Winter Wear",
+  excerpt: "Soft printed sweatshirt for women with warm winter-ready fabric, casual fit and trendy graphics for everyday wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/TAGAS Women's Sweatshirt Women Winter Wear.png",
+  price: " ₹589",
+  rating: 4.3,
+  ctaLabel: "Shop Printed Winter Sweatshirts",
+  ctaUrl: "https://amzn.to/48F7UXS",
+  sections: {
+    intro: [
+      "This women’s printed sweatshirt is designed as an easy winter go-to: warm enough for chilly days, light enough for daily use, and stylish enough to wear for college, café outings or travel.[web:50][web:55]"
+    ],
+    layout: [
+      "Most printed winter sweatshirts use a soft cotton- or fleece-blend fabric, long sleeves and a relaxed or oversized fit, with fun graphics or quotes that add personality to basic jeans-and-sneakers outfits.[web:50][web:52]"
+    ],
+    pros: [
+      "Printed designs let you show your mood or aesthetic, from minimal graphics to bold quirky prints, without needing extra styling effort.[web:51][web:52]",
+      "Cozy brushed or fleece inner fabric keeps you warm and comfortable for everyday winter wear, especially when layered over a tee.[web:50][web:55]",
+      "Pairs easily with denim, joggers or leggings, so one sweatshirt can work for classes, casual office, movie nights and short trips.[web:52][web:58]"
+    ],
+    cons: [
+      "Very thin fashion sweatshirts may not be enough on their own in harsh winter; you might need to layer a jacket on top.[web:55]",
+      "Fit and print quality can vary a lot between low-budget sellers, so checking reviews and size charts is important when ordering online.[web:56][web:57]"
+    ],
+    conclusion: [
+      "If you want women’s winter wear that feels like a hoodie-level comfort but looks a little more playful and trendy, a printed sweatshirt is a solid choice to rotate with your basic solids all season.[web:52][web:55]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48F7UXS",
+    text: "Browse Women’s Printed Sweatshirts →"
+  }
+},
+{
+  slug: "greciilooks-women-warm-coord-hoodie-set",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "GRECIILOOKS Co-ord Set for Women – Warm Hooded Hoodie & Pant Winter Outfit",
+  excerpt: "Matching warm hoodie and jogger-style pant set for women – perfect for winter travel, casual outings and loungewear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GRECIILOOKS Co-ord Set for Women Stylish  Warm Hooded Hoodie & Pant Set.png",
+  price: "₹849",
+  rating: 4.5,
+  ctaLabel: "Buy GRECIILOOKS Co-ord Set",
+  ctaUrl: "https://amzn.to/3XBpxTB",
+  sections: {
+    intro: [
+      "The GRECIILOOKS Co-ord Set for Women pairs a warm hooded hoodie with matching pants, giving a ready-made winter outfit that works for casual travel, airport looks, loungewear and everyday outings.[web:90][web:91]"
+    ],
+    layout: [
+      "Most variants use a wool-blend or lycra-blend winter fabric, full-sleeve hoodie with hood and drawstring, and jogger-style or straight-fit pants with an elastic waistband, creating a coordinated, relaxed-fit silhouette.[web:91][web:92][web:94]"
+    ],
+    pros: [
+      "Matching top and bottom mean you do not have to think about styling; just wear the set and add sneakers for an instantly put-together winter look.[web:91][web:94]",
+      "Warm yet comfortable fabric makes it suitable for long travel hours, home lounging and casual coffee runs in cooler weather.[web:90][web:94]",
+      "Co-ord design is currently trendy, especially among younger women, and can be mixed and matched: hoodie with jeans, pants with other sweaters or tees.[web:91][web:92]"
+    ],
+    cons: [
+      "Some sets are crop-fit or body-hugging, which may not suit everyone’s comfort preference for very cold days.[web:92]",
+      "Color and size options can vary between different sellers, so checking size charts, length details and user reviews is important before ordering.[web:91][web:93]"
+    ],
+    conclusion: [
+      "If you want a stylish winter outfit that doubles as cozy loungewear and a casual travel look, this GRECIILOOKS hooded hoodie and pant co-ord set is a strong, budget-friendly option to keep in your women’s winter wardrobe.[web:90][web:91][web:94]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3XBpxTB",
+    text: "Buy GRECIILOOKS Co-ord Set →"
+  }
+},
+{
+  slug: "fabseasons-foldable-winter-ear-muffs-kids-girls-women",
+  category: "Clothing",
+  readTime: "2 min read",
+  badgeColor: "sky",
+  title: "FabSeasons Adjustable Winter Ear Muffs for Kids, Girls & Women – Foldable & Handbag-Friendly",
+  excerpt: "Lightweight, foldable ear muffs with soft inner padding – a cute head accessory that keeps ears warm in winter.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/FabSeasons Winter Outdoor Wear Adjustable Size Ear Muffs.png",
+  price: "₹379",
+  rating: 4.2,
+  ctaLabel: "Buy FabSeasons Winter Ear Muffs",
+  ctaUrl: "https://amzn.to/4pO0Fnn",
+  sections: {
+    intro: [
+      "FabSeasons Winter Outdoor Wear Ear Muffs are designed as a cute and practical head accessory that keeps ears warm for kids, girls and women during chilly days.[web:95][web:99]"
+    ],
+    layout: [
+      "They use a soft faux-fur or plush inner lining for warmth, an adjustable over-the-head band to fit different head sizes, and a foldable design so the muffs can be compactly stored in a handbag or pocket when not in use.[web:99][web:101][web:103]"
+    ],
+    pros: [
+      "Adjustable size and one-size-fits-most design make them suitable for older kids and adults, so the same pair can often be shared in the family.[web:99][web:103][web:105]",
+      "Soft, furry inner cushions the ears and helps block cold wind, ideal for morning school runs, walks and outdoor activities in winter.[web:99][web:104]",
+      "Foldable construction makes them easy to carry in a handbag or backpack without taking much space, unlike bulky ear-covering caps or hoods.[web:95][web:100]"
+    ],
+    cons: [
+      "Because they sit over the head, they may slightly disturb certain hairstyles or feel tighter if worn with very thick caps.[web:101][web:105]",
+      "They cover ears well but do not protect the top of the head or neck, so in extreme cold you may still need a cap or scarf along with them.[web:99][web:103]"
+    ],
+    conclusion: [
+      "If you want a small, affordable winter accessory that keeps ears warm and can simply fold into your handbag when indoors, these FabSeasons adjustable ear muffs are a handy pick for kids and women alike.[web:95][web:99][web:102]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pO0Fnn",
+    text: "Buy FabSeasons Ear Muffs →"
+  }
+},
+{
+  slug: "lymio-unisex-hoodie-sweatshirt-h18-19",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "red",
+  badgeText: "Limited-time deal",
+  title: "Lymio Hoodie || Unisex Sweatshirt (H-18-19)",
+  excerpt: "Budget-friendly unisex hoodie with full sleeves and hooded neck – cozy winter layer for men and women.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Lymio Hoodie Sweatshirt for Unisex .png",
+  price: "₹569",
+  rating: 3.8,
+  ctaLabel: "Buy Lymio Unisex Hoodie H-18-19",
+  ctaUrl: "https://amzn.to/4pQMuxQ",
+  sections: {
+    intro: [
+      "The Lymio Hoodie / Sweatshirt for Unisex (H-18-19) is a budget winter layer designed to work for both men and women, offering a simple hooded sweatshirt style at an affordable online price.[web:108][web:113]"
+    ],
+    layout: [
+      "Typically made with a wool-blend or cotton-blend fabric, this hoodie features full sleeves, a hooded neck, solid colours and a regular fit that pairs easily with jeans or joggers.[web:110][web:113]"
+    ],
+    pros: [
+      "Unisex design makes it easy to buy for yourself or share/coordinate with friends or siblings, especially in basic shades like black and grey.[web:108][web:114]",
+      "Discounted online pricing often brings it close to the ₹500–₹600 range while the MRP is much higher, giving good value-for-money on sale days.[web:109][web:111][web:112]",
+      "Simple solid look is versatile for college, casual outings and home wear, without loud prints that can go out of trend quickly.[web:108][web:113]"
+    ],
+    cons: [
+      "As a budget hoodie, fabric thickness and long-term durability may not match premium winter brands, so it is best for light to moderate winter rather than extreme cold.[web:108][web:112]",
+      "Sizing and fit can vary slightly across men’s and women’s listings, so checking the size chart and user reviews before ordering is important.[web:110][web:113]"
+    ],
+    conclusion: [
+      "If you want an affordable, no-fuss unisex hoodie for everyday winter use and do not need heavy insulation, the Lymio H-18-19 sweatshirt is a decent pick, especially when available closer to its lowest tracked price.[web:109][web:112][web:113]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pQMuxQ",
+    text: "Buy Lymio Unisex Hoodie H-18-19 →"
+  }
+}
+
 ];
 
 
