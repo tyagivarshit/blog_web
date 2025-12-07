@@ -1260,11 +1260,123 @@ const posts = [
     url: "https://amzn.to/4pQMuxQ",
     text: "Buy Lymio Unisex Hoodie H-18-19 →"
   }
-}
+},
+{
+  slug: "shining-diva-blue-butterfly-crystal-set",
+  category: "Accessories",
+  readTime: "3 min read",
+  badgeColor: "violet",
+  title: "Shining Diva Italian Designer Platinum Plated Blue Butterfly Jewellery Set",
+  excerpt: "Platinum-plated crystal butterfly earrings with matching chain pendant necklace – a cute gift set for women and girls.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Shining Diva Fashion Italian Designer Platinum Plated Crystal Butterfly Earrings.png",
+  price: "₹448",
+  rating: 4.3,
+  ctaLabel: "Buy Shining Diva Butterfly Set",
+  ctaUrl: "https://amzn.to/4rCFtTj",
+  sections: {
+    intro: [
+      "This Shining Diva Italian Designer combo features platinum-plated crystal butterfly earrings paired with a matching chain pendant necklace in blue, designed as a budget-friendly fashion jewellery set for women and girls.[web:116][web:118][web:121]"
+    ],
+    layout: [
+      "The set usually uses an alloy base with platinum-like rhodium plating, a delicate link chain, crystal-studded butterfly motifs and matching stud or drop earrings, making it suitable for both casual and occasion wear.[web:116][web:118][web:121]"
+    ],
+    pros: [
+      "Coordinated earrings and pendant create a complete look without needing extra styling, making it ideal as a quick gift or ready-to-wear set.[web:118][web:121]",
+      "Platinum-tone finish and blue crystals give a slightly premium, Italian-inspired look while still staying in an affordable price bracket.[web:116][web:121]",
+      "Lightweight build makes it comfortable for long wear, suitable for parties, dinners, college functions and festive outings.[web:118][web:120]"
+    ],
+    cons: [
+      "As it is fashion jewellery with plating over alloy, it is not meant for daily rough use; keeping it away from water, perfume and sweat is important for longer life.[web:116][web:119]",
+      "Those with very sensitive skin or metal allergies may need to be careful, as budget fashion sets may not always be hypoallergenic.[web:119][web:124]"
+    ],
+    conclusion: [
+      "If you need an affordable yet pretty butterfly-themed jewellery combo for gifting or styling blue and pastel outfits, this Shining Diva platinum-plated crystal set is a strong option in the under-₹500 range.[web:117][web:118][web:121]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4rCFtTj",
+    text: "Buy Shining Diva Butterfly Set →"
+  }
+},
+{
+  slug: "sannidhi-4pcs-crystal-butterfly-jewellery-set",
+  category: "Accessories",
+  readTime: "3 min read",
+  badgeColor: "violet",
+  title: "SANNIDHI 4 Pcs Crystal Butterfly Jewellery Set for Women & Girls",
+  excerpt: "Gold-plated crystal butterfly necklace, adjustable ring and stud earrings – a cute 4-piece gift set for birthdays and Valentine’s Day.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/SANNIDHI® 4 Pcs Jewellery Set for Women Girls Crystal Butterfly Chain Pendant.png",
+  price: "₹323",
+  rating: 4.2,
+  ctaLabel: "Buy SANNIDHI Butterfly Jewellery Set",
+  ctaUrl: "https://amzn.to/3Mqjfnd",
+  sections: {
+    intro: [
+      "The SANNIDHI 4 Pcs Jewellery Set combines a crystal butterfly chain pendant necklace, adjustable finger ring and stud earrings into one stylish gift set for women and girls.[web:125][web:126]"
+    ],
+    layout: [
+      "It usually features a metal base with gold plating, cubic zirconia or American diamond stones, a butterfly-themed pendant on a fine chain, matching stud earrings and an open adjustable ring to fit different finger sizes.[web:125][web:128][web:129]"
+    ],
+    pros: [
+      "Four coordinated pieces in one set give multiple styling options – you can wear all together for occasions or mix and match the necklace, ring or studs for daily use.[web:127][web:129]",
+      "Gold-plated finish with crystal butterfly details delivers a cute, feminine look that works well for parties, college functions and festive outfits.[web:125][web:128]",
+      "Adjustable ring sizing and necklace extension chain help it fit a wider range of users, making it easier to gift without worrying too much about exact size.[web:125][web:129]"
+    ],
+    cons: [
+      "As with most fashion jewellery, regular contact with water, perfume or sweat can reduce the life of the plating, so some care is needed while using and storing.[web:125][web:130]",
+      "Those with very sensitive or allergy-prone skin may prefer to limit wear time or check material details carefully before daily use.[web:128][web:129]"
+    ],
+    conclusion: [
+      "If you are looking for an affordable butterfly-themed jewellery combo that feels gift-ready for birthdays, Valentine’s Day or casual occasions, this SANNIDHI 4-piece set is a good value option in the lower price bracket.[web:125][web:127][web:129]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3Mqjfnd",
+    text: "Buy SANNIDHI 4 Pcs Jewellery Set →"
+  }
+},
+{
+  slug: "MEENAZ Pendant For Women",
+  category: "Accessories",
+  readTime: "3 min read",
+  badgeColor: "violet",
+  title: "Shining Diva Italian Designer Silver Jewellery Set",
+  excerpt: "silver crystal heart earrings with matching chain pendant necklace – a cute gift set for women and girls.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/MEENAZ Pendant For Women Girls Ladies girlfriend Wife Jewellery.png",
+  price: "₹188",
+  rating: 4.3,
+  ctaLabel: "Buy Shining Diva Butterfly Set",
+  ctaUrl: "https://amzn.to/4pvvzBy",
+  sections: {
+    intro: [
+      "This Shining Diva Italian Designer combo features platinum-plated crystal butterfly earrings paired with a matching chain pendant necklace in blue, designed as a budget-friendly fashion jewellery set for women and girls.[web:116][web:118][web:121]"
+    ],
+    layout: [
+      "The set usually uses an alloy base with platinum-like rhodium plating, a delicate link chain, crystal-studded butterfly motifs and matching stud or drop earrings, making it suitable for both casual and occasion wear.[web:116][web:118][web:121]"
+    ],
+    pros: [
+      "Coordinated earrings and pendant create a complete look without needing extra styling, making it ideal as a quick gift or ready-to-wear set.[web:118][web:121]",
+      "Platinum-tone finish and blue crystals give a slightly premium, Italian-inspired look while still staying in an affordable price bracket.[web:116][web:121]",
+      "Lightweight build makes it comfortable for long wear, suitable for parties, dinners, college functions and festive outings.[web:118][web:120]"
+    ],
+    cons: [
+      "As it is fashion jewellery with plating over alloy, it is not meant for daily rough use; keeping it away from water, perfume and sweat is important for longer life.[web:116][web:119]",
+      "Those with very sensitive skin or metal allergies may need to be careful, as budget fashion sets may not always be hypoallergenic.[web:119][web:124]"
+    ],
+    conclusion: [
+      "If you need an affordable yet pretty butterfly-themed jewellery combo for gifting or styling blue and pastel outfits, this Shining Diva platinum-plated crystal set is a strong option in the under-₹500 range.[web:117][web:118][web:121]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pvvzBy",
+    text: "Buy Shining Diva Butterfly Set →"
+  }
+},
 
 ];
-
-
-
-// Add 15 more posts following the same pattern...
-// Total 30 posts ready for your affiliate marketing
