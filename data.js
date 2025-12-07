@@ -1380,7 +1380,7 @@ const posts = [
 },
 {
   slug: "zovira-foldable-storage-bins-38x26x26",
-  category: "Home",
+  category: "Clothing",
   readTime: "2 min read",
   badgeColor: "indigo",
   title: "ZOVIRA Foldable Storage Bins with Lids (Set of 2) – Grey & White",
@@ -1416,5 +1416,317 @@ const posts = [
     url: "https://amzn.to/4oHgwU6",
     text: "Buy ZOVIRA Storage Bins →"
   }
-}
-];
+},
+{
+  slug: "noise-buds-n1-pro-chrome-purple",
+  category: "Accessories",
+  readTime: "3 min read",
+  badgeColor: "sky",
+  title: "Noise Buds N1 Pro – Chrome Purple ANC TWS",
+  excerpt: "Metallic finish TWS with up to 30–32 dB ANC, 60 hours playtime, dual pairing and Instacharge (10 min = 200 min).",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Noise Buds N1 Pro Truly Wireless Earbuds with Metallic Finish.png",
+  price: "₹1,599",
+  rating: 4.4,
+  ctaLabel: "Buy Noise Buds N1 Pro",
+  ctaUrl: "https://amzn.to/3KNZrtz",
+  sections: {
+    intro: [
+      "Noise Buds N1 Pro are in-ear truly wireless earbuds with a shiny metallic ‘Chrome Purple’ finish, targeting users who want strong features like ANC and long battery life without crossing the 2K budget. [web:133][web:136][web:139]"
+    ],
+    layout: [
+      "They come with Bluetooth 5.3, 11 mm drivers, IPX5 water resistance, touch controls and a compact chrome-finish charging case, supporting ultra‑low latency up to 40 ms for gaming and videos. [web:133][web:136][web:141]"
+    ],
+    pros: [
+      "Active Noise Cancellation up to about 30–32 dB helps cut down ambient noise in traffic, metro or office, and you also get decent call quality via quad mics with ENC. [web:133][web:136][web:141]",
+      "Battery backup is rated up to 60 hours total, plus Instacharge gives about 200 minutes of playtime from a 10‑minute top‑up over USB‑C, which is excellent for travel and daily commuting. [web:133][web:134][web:136]",
+      "Bluetooth 5.3 with dual‑device pairing lets you connect to two devices (like phone + laptop) at once, and the Chrome Purple metallic design makes them stand out compared to basic plastic buds. [web:133][web:134][web:138]"
+    ],
+    cons: [
+      "ANC and sound tuning are very good for the price bracket but will not match premium flagship earbuds that cost several times more. [web:141][web:144]",
+      "Best experience needs a proper in‑ear seal; users with unusual ear canal sizes may need to spend time trying the included ear tips for comfort and bass. [web:133][web:136]"
+    ],
+    conclusion: [
+      "For a sub‑₹1,600 price range, Noise Buds N1 Pro in Chrome Purple deliver a rare combo of 30 dB‑class ANC, 60‑hour battery, dual pairing and flashy metallic styling, making them a strong pick for budget‑conscious users who still want modern TWS features. [web:136][web:139][web:143]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3KNZrtz",
+    text: "Buy Noise Buds N1 Pro →"
+  }
+},
+{
+  slug: "portronics-konnect-l-typec-2m-3a-white",
+  category: "Accessories",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "Portronics Konnect L 3A Fast Charging Type‑C Cable (2 m, White)",
+  excerpt: "2‑meter 3A USB‑to‑Type‑C cable with charging + data sync, nylon-braided for durability – works with all Type‑C phones and gadgets.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Portronics Konnect L Fast Charging 3A Type-C Cable 2 Meter with Charge.png",
+  price: "₹229",
+  rating: 4.4,
+  ctaLabel: "Buy Portronics Konnect L Type‑C Cable",
+  ctaUrl: "https://amzn.to/4rFqFTI",
+  sections: {
+    intro: [
+      "The Portronics Konnect L is a 3A fast‑charging USB to Type‑C cable with a long 2‑meter length, designed to handle both charging and data sync for most modern Type‑C devices.[web:145][web:149][web:152]"
+    ],
+    layout: [
+      "It uses a USB‑A to USB‑C connector, supports up to 3A output, and is built from TPE plus nylon-braided outer material to increase durability while giving enough flexibility for everyday use.[web:150][web:152]"
+    ],
+    pros: [
+      "Extra‑long 2 m cord makes it convenient to use your phone on the bed/sofa or at your desk even when the wall socket is far away.[web:150][web:152]",
+      "Supports both fast charging (up to 3A, depending on charger and phone) and data transfer, so one cable is enough for charging and PC connection.[web:145][web:150][web:155]",
+      "Nylon-braided outer with strain‑relief design improves longevity compared to thin basic cables, making it better for daily heavy use.[web:150][web:156]"
+    ],
+    cons: [
+      "It is USB‑A to Type‑C, not USB‑C to Type‑C, so it is best suited for older/adaptor‑based chargers rather than latest USB‑C PD bricks.[web:145][web:156]",
+      "Maximum 3A output is fine for most phones but will not fully utilise very high‑wattage proprietary fast‑charge standards on some flagship devices.[web:145][web:153]"
+    ],
+    conclusion: [
+      "If you need a long, reliable and affordable Type‑C cable for everyday charging and syncing that can survive rough use, the Portronics Konnect L 3A 2 m cable in white is a solid pick in the budget accessories segment.[web:145][web:149][web:150]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4rFqFTI",
+    text: "Buy Portronics Konnect L Cable →"
+  }
+},
+{
+  slug: "designer-ethnic-cotton-coord-set-festival",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "Designer Women’s Ethnic Co-Ord Set – Cotton Kurta Pant/Palazzo Suit for Festivals",
+  excerpt: "Stylish cotton kurta with matching pants or palazzos – ready-made ethnic co-ord set for festive functions and casual outings.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Designer Women's Ethnic Co-Ord Set .png",
+  price: "₹749",
+  rating: 4.5,
+  ctaLabel: "Browse Ethnic Co-Ord Sets",
+  ctaUrl: "https://amzn.to/3YhOfbC",
+  sections: {
+    intro: [
+      "This designer women’s ethnic co-ord set combines a matching kurta with pants or palazzos in soft cotton, giving a ready-to-wear suit-style outfit that works perfectly for festivals, family functions and casual get-togethers.[web:157][web:159]"
+    ],
+    layout: [
+      "Ethnic co-ord sets usually feature coordinated prints or solid colours across the kurta and bottom, with options like straight-cut or A-line kurtas and slim pants or flared palazzos, often in breathable cotton or cotton blends.[web:157][web:159][web:161]"
+    ],
+    pros: [
+      "Co-ord styling means the top and bottom are already matched in print and colour, so you get a polished Indo-fusion look with almost zero styling effort.[web:157][web:159]",
+      "Cotton fabric keeps the outfit light and comfortable for long hours during pujas, festive lunches or travel, especially in warmer climates.[web:159][web:161]",
+      "Versatile design lets you pair the kurta separately with jeans or another palazzo, and reuse the pants with different kurtis or shirts for more outfit combinations.[web:159][web:161]"
+    ],
+    cons: [
+      "Some heavily printed or bright sets may feel too dressy for very casual daily wear, so you might reserve them mainly for outings and occasions.[web:157][web:162]",
+      "Fit and silhouette vary widely across brands; getting the right size in bust, hip and length is important so the co-ord set looks sharp, not sloppy.[web:159][web:161]"
+    ],
+    conclusion: [
+      "If you want an easy ethnic outfit that still looks designer-level for festivals and small functions, a cotton kurta–pant or kurta–palazzo co-ord set is a great wardrobe staple that balances comfort with stylish traditional vibes.[web:157][web:159][web:161]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3YhOfbC",
+    text: "Shop Designer Ethnic Co-Ord Sets →"
+  }
+},
+{
+  slug: "grey-art-silk-vneck-peplum-sharara-set",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "Women’s Grey Art Silk V‑Neck Peplum Kurta Sharara Set – Lace Wedding & Festival Wear",
+  excerpt: "Elegant grey art silk peplum kurta with sharara pants and lace embellishment – perfect for weddings, receptions and festive occasions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Women's V-Neck Peplum Kurta Sharara Set.png",
+  price: "₹899",
+  rating: 4.6,
+  ctaLabel: "Browse Peplum Sharara Sets",
+  ctaUrl: "https://amzn.to/4pkYO9P",
+  sections: {
+    intro: [
+      "This women’s V‑neck peplum kurta sharara set in grey art silk is a statement ethnic outfit designed for weddings, receptions and festive events where you want something dressy but still comfortable.[web:163][web:167][web:168]"
+    ],
+    layout: [
+      "The set usually includes a long‑sleeve V‑neck peplum kurta with a flared hem, matching sharara pants and often a coordinating dupatta, all crafted in art silk with lace or sequin embellishment along the neckline, waist or hem.[web:163][web:167]"
+    ],
+    pros: [
+      "Peplum silhouette over sharara gives a very flattering shape by defining the waist and adding movement, making it ideal for dance functions like sangeet or festive parties.[web:163][web:167]",
+      "Art silk fabric offers a rich, slightly glossy look similar to silk while remaining lighter and easier to manage than heavy bridal fabrics, suitable for long ceremonies.[web:164][web:168]",
+      "Lace and sequin detailing along the V‑neck and borders adds just the right amount of sparkle for weddings and festivals without feeling overly heavy.[web:163][web:167]"
+    ],
+    cons: [
+      "Art silk and embellished fabric often require gentle hand wash or dry cleaning, so maintenance is a bit higher than simple cotton suits.[web:164][web:168]",
+      "Peplum + sharara combinations can be dressy for everyday errands, so this set is best reserved mainly for occasions and special functions.[web:166][web:167]"
+    ],
+    conclusion: [
+      "If you are looking for a stylish ethnic outfit that feels modern yet traditional for weddings, engagements or festive nights, a grey art silk V‑neck peplum kurta sharara set with lace work is a chic, photo‑friendly option to add to your wardrobe.[web:163][web:167][web:168]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pkYO9P",
+    text: "Shop Peplum Sharara Sets →"
+  }
+},
+{
+  slug: "gosriki-rayon-bandhej-kurta-pant-dupatta",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "GoSriKi Women’s Rayon Viscose Bandhej Kurta with Pant & Dupatta",
+  excerpt: "Straight-fit bandhej printed kurta set in soft rayon-viscose with matching pants and dupatta – easy ethnic look for daily wear and small functions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GoSriKi Women's Rayon Viscose Straight Bandhej Printed Kurta with Pant.png",
+  price: "₹599",
+  rating: 4.2,
+  ctaLabel: "Buy GoSriKi Bandhej Kurta Set",
+  ctaUrl: "https://amzn.to/3XCsfbt",
+  sections: {
+    intro: [
+      "The GoSriKi Women’s Rayon Viscose Straight Bandhej Printed Kurta Set pairs a straight-cut kurta with matching pants and dupatta, giving a complete ethnic outfit in one purchase.[web:171][web:172]"
+    ],
+    layout: [
+      "It typically features a straight rayon-viscose kurta with bandhej/bandhani-style print, coordinated solid or printed pants and a lightweight dupatta that completes the look for office, college or casual functions.[web:171]"
+    ],
+    pros: [
+      "Rayon-viscose fabric drapes well and feels soft and breathable on the skin, making it comfortable for long wear in Indian weather.[web:171]",
+      "Bandhej-style print adds a traditional touch without heavy embroidery, so the set works for both everyday wear and small festive gatherings.[web:171][web:172]",
+      "Because kurta, pant and dupatta come as a set, you get a ready-to-style outfit that can also be mixed and matched with other pieces in your wardrobe.[web:171]"
+    ],
+    cons: [
+      "Rayon needs gentle washing and can shrink or lose shape if handled roughly or washed in very hot water.[web:171]",
+      "As a budget ethnic set, fabric thickness and opacity can vary by colour, so nude innerwear or a slip may be needed under very light shades.[web:171][web:172]"
+    ],
+    conclusion: [
+      "If you want an affordable ethnic suit set that looks traditional but stays light and easy to maintain, this GoSriKi bandhej printed rayon-viscose kurta with pant and dupatta is a solid everyday-and-festive option in the sub‑₹1,000 range.[web:171][web:172]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3XCsfbt",
+    text: "Buy GoSriKi Bandhej Kurta Set →"
+  }
+},
+{
+  slug: "gosriki-rayon-bandhej-kurta-pant-dupatta",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "GoSriKi Women’s Rayon Viscose Bandhej Kurta with Pant & Dupatta",
+  excerpt: "Straight-fit bandhej printed kurta set in soft rayon-viscose with matching pants and dupatta – easy ethnic look for daily wear and small functions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GoSriKi Women's Rayon Viscose Straight Bandhej Printed Kurta with Pant & Dupatta.png",
+  price: "₹829",
+  rating: 4.2,
+  ctaLabel: "Buy GoSriKi Bandhej Kurta Set",
+  ctaUrl: "https://amzn.to/4poNKc1",
+  sections: {
+    intro: [
+      "The GoSriKi Women’s Rayon Viscose Straight Bandhej Printed Kurta Set gives you a complete ethnic outfit with a straight-fit kurta, coordinated pants and matching dupatta in one purchase.[web:171][web:172]"
+    ],
+    layout: [
+      "This set usually features a bandhej/bandhani-style printed kurta in rayon-viscose, straight or tapered pants and a lightweight dupatta that ties the whole look together for office, college or festive pujas.[web:171]"
+    ],
+    pros: [
+      "Soft rayon-viscose fabric drapes well and feels breathable, making it comfortable for all-day wear in Indian weather.[web:171]",
+      "Bandhej print adds a traditional Rajasthani/Gujarati touch without heavy embroidery, so it works for both daily wear and small family functions.[web:171][web:172]",
+      "Kurta, pant and dupatta can be mixed and matched separately with jeans, palazzos or other kurtis to create more outfits from one set.[web:171]"
+    ],
+    cons: [
+      "Rayon needs gentle care; harsh washing or very hot water can cause shrinkage or loss of shape, so hand wash or mild cycle is recommended.[web:171]",
+      "Lighter colour variants may be slightly sheer and can need suitable innerwear for full comfort.[web:171][web:172]"
+    ],
+    conclusion: [
+      "If you want an affordable, ready-made ethnic suit set that feels light yet festive enough for everyday functions, this GoSriKi bandhej printed rayon-viscose kurta with pant and dupatta is a reliable choice under ₹1,000.[web:171][web:172]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4poNKc1",
+    text: "Buy GoSriKi Bandhej Kurta Set →"
+  }
+},
+{
+  slug: "GoSriKi Women's Rayon Blend Straight Bandhej Printed Kurta",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "Women’s Grey Art Silk V‑Neck Peplum Kurta Sharara Set – Lace Wedding & Festival Wear",
+  excerpt: "Elegant grey art silk peplum kurta with sharara pants and lace embellishment – perfect for weddings, receptions and festive occasions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Women's V-Neck Peplum Kurta Sharara Set.png",
+  price: "₹899",
+  rating: 4.6,
+  ctaLabel: "Browse Peplum Sharara Sets",
+  ctaUrl: "https://amzn.to/4pkYO9P",
+  sections: {
+    intro: [
+      "This women’s V‑neck peplum kurta sharara set in grey art silk is a statement ethnic outfit designed for weddings, receptions and festive events where you want something dressy but still comfortable.[web:163][web:167][web:168]"
+    ],
+    layout: [
+      "The set usually includes a long‑sleeve V‑neck peplum kurta with a flared hem, matching sharara pants and often a coordinating dupatta, all crafted in art silk with lace or sequin embellishment along the neckline, waist or hem.[web:163][web:167]"
+    ],
+    pros: [
+      "Peplum silhouette over sharara gives a very flattering shape by defining the waist and adding movement, making it ideal for dance functions like sangeet or festive parties.[web:163][web:167]",
+      "Art silk fabric offers a rich, slightly glossy look similar to silk while remaining lighter and easier to manage than heavy bridal fabrics, suitable for long ceremonies.[web:164][web:168]",
+      "Lace and sequin detailing along the V‑neck and borders adds just the right amount of sparkle for weddings and festivals without feeling overly heavy.[web:163][web:167]"
+    ],
+    cons: [
+      "Art silk and embellished fabric often require gentle hand wash or dry cleaning, so maintenance is a bit higher than simple cotton suits.[web:164][web:168]",
+      "Peplum + sharara combinations can be dressy for everyday errands, so this set is best reserved mainly for occasions and special functions.[web:166][web:167]"
+    ],
+    conclusion: [
+      "If you are looking for a stylish ethnic outfit that feels modern yet traditional for weddings, engagements or festive nights, a grey art silk V‑neck peplum kurta sharara set with lace work is a chic, photo‑friendly option to add to your wardrobe.[web:163][web:167][web:168]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pkYO9P",
+    text: "Shop Peplum Sharara Sets →",
+  }
+},
+{
+  slug: "Naixa Women's Rayon Slub Embroidered Straight Kurta with Pant and Dupatta Sets",
+  category: "Clothing",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "Women’s Grey Art Silk V‑Neck Peplum Kurta Sharara Set – Lace Wedding & Festival Wear",
+  excerpt: "Elegant grey art silk peplum kurta with sharara pants and lace embellishment – perfect for weddings, receptions and festive occasions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Naixa Women's Rayon.jpg",
+  price: "₹839",
+  rating: 4.6,
+  ctaLabel: "Browse Peplum Sharara Sets",
+  ctaUrl: "https://amzn.to/44hxAsq",
+  sections: {
+    intro: [
+      "This women’s V‑neck peplum kurta sharara set in grey art silk is a statement ethnic outfit designed for weddings, receptions and festive events where you want something dressy but still comfortable.[web:163][web:167][web:168]"
+    ],
+    layout: [
+      "The set usually includes a long‑sleeve V‑neck peplum kurta with a flared hem, matching sharara pants and often a coordinating dupatta, all crafted in art silk with lace or sequin embellishment along the neckline, waist or hem.[web:163][web:167]"
+    ],
+    pros: [
+      "Peplum silhouette over sharara gives a very flattering shape by defining the waist and adding movement, making it ideal for dance functions like sangeet or festive parties.[web:163][web:167]",
+      "Art silk fabric offers a rich, slightly glossy look similar to silk while remaining lighter and easier to manage than heavy bridal fabrics, suitable for long ceremonies.[web:164][web:168]",
+      "Lace and sequin detailing along the V‑neck and borders adds just the right amount of sparkle for weddings and festivals without feeling overly heavy.[web:163][web:167]"
+    ],
+    cons: [
+      "Art silk and embellished fabric often require gentle hand wash or dry cleaning, so maintenance is a bit higher than simple cotton suits.[web:164][web:168]",
+      "Peplum + sharara combinations can be dressy for everyday errands, so this set is best reserved mainly for occasions and special functions.[web:166][web:167]"
+    ],
+    conclusion: [
+      "If you are looking for a stylish ethnic outfit that feels modern yet traditional for weddings, engagements or festive nights, a grey art silk V‑neck peplum kurta sharara set with lace work is a chic, photo‑friendly option to add to your wardrobe.[web:163][web:167][web:168]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/44hxAsq",
+    text: "Shop Peplum Sharara Sets →"
+  }
+},
+]
