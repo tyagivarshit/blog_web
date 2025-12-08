@@ -5,15 +5,29 @@
   <title>Shopify</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="output.css" />
+  
+  <!-- 🔥 LAYOUT JUMP FIX + SHUFFLE FEATURE -->
+  <style>
+    html { scroll-behavior: smooth; }
+    body { 
+      padding-top: 5px !important; /* Navbar space reserve */
+      overflow-x: hidden; 
+    }
+    #posts-grid img { 
+      opacity: 0; 
+      transition: opacity 0.3s ease-in; 
+    }
+    #posts-grid img[src] { opacity: 1; } /* Loaded images show */
+  </style>
+  
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-:2984BWSZDG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-2984BWSZDG');
-</script>
-
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2984BWSZDG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2984BWSZDG');
+  </script>
 </head>
 <body class="bg-slate-950 text-slate-100 min-h-screen">
 
@@ -70,7 +84,7 @@
       <div class="hidden sm:block">
         <div class="rounded-3xl border border-slate-800/80 bg-slate-900/60 backdrop-blur-xl p-4 sm:p-5 shadow-[0_20px_60px_rgba(15,23,42,0.9)]">
           <div class="flex items-center justify-between mb-3 text-[10px] sm:text-xs text-slate-400">
-            <span>Today’s top picks</span>
+            <span>Today's top picks</span>
             <span>● ● ●</span>
           </div>
           <div class="space-y-3">
@@ -87,9 +101,9 @@
               </p>
             </div>
             <div class="rounded-2xl bg-slate-900/40 px-3 sm:px-4 py-3 border border-slate-800/60">
-              <p class="text-[10px] sm:text-[11px] text-violet-400 mb-1">Sports • Gear</p>
+              <p class="text-[10px] sm:text-[11px] text-violet-400 mb-1">Makeup • Beauty</p>
               <p class="text-xs sm:text-sm font-medium">
-                Premium sportswear designed for comfort and power.
+                Velvet Bliss Lipstick - Long-lasting matte finish.
               </p>
             </div>
           </div>
@@ -156,7 +170,8 @@
     let currentQuery = "";
     let currentCategory = "All";
 
-    const categories = ["All", ...productCategories.filter(cat => cat !== "Hosting" && cat !== "Tool")];
+    // ✅ MAKEUP + ACCESSORIES CATEGORIES ADDED
+    const categories = ["All", "Makeup", "Accessories", "Skincare", "Fashion", "Electronics", "Sports"];
 
     function renderCategoryChips() {
       categoryChips.innerHTML = "";
@@ -191,11 +206,9 @@
     function getFilteredPosts() {
       const q = currentQuery.toLowerCase().trim();
       return posts.filter(post => {
-        const isShoppingCategory = productCategories.includes(post.category);
         const matchesCategory =
-          currentCategory === "All"
-            ? isShoppingCategory
-            : post.category === currentCategory;
+          currentCategory === "All" ||
+          post.category === currentCategory;
         const matchesQuery =
           !q ||
           post.title.toLowerCase().includes(q) ||
@@ -205,11 +218,15 @@
       });
     }
 
+    // 🔥 UPDATED renderPosts() WITH SHUFFLE + FIXED MOBILE IMAGE HEIGHT
     function renderPosts() {
       const filtered = getFilteredPosts();
-      container.innerHTML = "";
-
+      
+      // ✨ MAGIC SHUFFLE - Har refresh pe nayi order!
+      filtered.sort(() => Math.random() - 0.5);
+      
       const isMobile = window.innerWidth < 640;
+      container.innerHTML = "";
 
       filtered.forEach(post => {
         const badgeColor = badgeColorMap[post.badgeColor] || "text-sky-400";
@@ -218,7 +235,7 @@
         const article = document.createElement("article");
 
         if (isMobile) {
-          // AMAZON-LIKE MOBILE CARD: image left, content right in compact row
+          // AMAZON-LIKE MOBILE CARD: FIXED IMAGE HEIGHT ✅
           article.className =
             "w-full bg-slate-900 rounded-xl border border-slate-800 " +
             "flex flex-row gap-3 px-3 py-3 hover:bg-slate-800/80 " +
@@ -230,6 +247,7 @@
                 src="${post.image || 'https://via.placeholder.com/80'}"
                 alt="${post.title}"
                 class="w-16 h-16 rounded-md object-cover bg-slate-950"
+                loading="lazy"
               />
             </div>
             <div class="flex-1 min-w-0 flex flex-col justify-between">
@@ -257,7 +275,7 @@
             </div>
           `;
         } else {
-          // Tablet / Desktop: grid cards with image top
+          // Desktop cards (already fixed)
           article.className =
             "group relative overflow-hidden rounded-2xl border border-slate-800 bg-slate-900/60 p-4 sm:p-5 hover:-translate-y-1 transition-all duration-200 " +
             borderHover;
@@ -269,6 +287,7 @@
                   src="${post.image || 'https://via.placeholder.com/150'}"
                   alt="${post.title}"
                   class="w-full h-40 object-contain rounded-lg bg-slate-950"
+                  loading="lazy"
                 />
                 <div class="flex-1 flex flex-col justify-between">
                   <div>

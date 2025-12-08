@@ -6,7 +6,7 @@ const posts = [
   // LAPTOPS (8 posts)
   {
     slug: "dell-15",
-    category: "Laptop",
+    category: "Electronics",
     readTime: "3 min read",
     badgeColor: "silver",
     title: "Dell Inspiron 15 5502 Laptop",
@@ -29,7 +29,7 @@ const posts = [
   },
   {
     slug: "HP Victus",
-    category: "Laptop",
+    category: "Electronics",
     readTime: "4 min read",
     badgeColor: "mica silver",
     title: "HP Victus gaming laptop",
@@ -102,7 +102,7 @@ const posts = [
   // MOBILES (5 posts)
   {
     slug: "samsung-galaxy-a35",
-    category: "Mobile",
+    category: "Electronics",
     readTime: "4 min read",
     badgeColor: "sky",
     title: "Samsung Galaxy A35 5G",
@@ -127,7 +127,7 @@ const posts = [
   // TABLETS (4 posts)
   {
     slug: "samsung-galaxy-tab-a9",
-    category: "Tablet",
+    category: "Electronics",
     readTime: "3 min read",
     badgeColor: "indigo",
     title: "Samsung Galaxy Tab A9",
@@ -152,7 +152,7 @@ const posts = [
   // CLOTHES (5 posts)
   {
     slug: "levi-straight-fit-jeans",
-    category: "Clothing",
+    category: "Fashion",
     readTime: "2 min read",
     badgeColor: "blue",
     title: "Levi's Men's Straight Fit Jeans",
@@ -177,7 +177,7 @@ const posts = [
   // 5 MacBook Posts
   {
     slug: "macbook-air-m2",
-    category: "Laptop",
+    category: "Electronics",
     readTime: "4 min read",
     badgeColor: "silver",
     title: "Apple MacBook Air M2 - Best for Developers",
@@ -201,7 +201,7 @@ const posts = [
 
   {
     slug: "macbook-pro-14-m3",
-    category: "Laptop",
+    category: "Electronics",
     readTime: "5 min read",
     badgeColor: "silver",
     title: "MacBook Pro 14-inch M3 - Pro Developer Machine",
@@ -225,7 +225,7 @@ const posts = [
 
   {
     slug: "macbook-air-m3-13inch",
-    category: "Laptop",
+    category: "Electronics",
     readTime: "4 min read",
     badgeColor: "Midnight",
     title: "MacBook Air 13-inch M3 - Latest & Greatest",
@@ -249,7 +249,7 @@ const posts = [
 
   {
     slug: "macbook-pro-14-m4",
-    category: "Laptop",
+    category: "Electronics",
     readTime: "6 min read",
     badgeColor: "indigo",
     title: "MacBook Pro 16-inch M4  - Beast Mode",
@@ -273,7 +273,7 @@ const posts = [
 
   {
     slug: "samsung-galaxy-s24-ultra",
-    category: "Mobile",
+    category: "Electronics",
     readTime: "5 min read",
     badgeColor: "indigo",
     title: "Samsung Galaxy S24 Ultra - Flagship Beast",
@@ -297,7 +297,7 @@ const posts = [
 
   {
     slug: "iphone-17-pro-max",
-    category: "Mobile",
+    category: "Electronics",
     readTime: "5 min read",
     badgeColor: "sky",
     title: "iPhone 17 Pro Max - iOS Powerhouse",
@@ -321,7 +321,7 @@ const posts = [
 
   {
     slug: "oneplus-12",
-    category: "Mobile",
+    category: "Electronics",
     readTime: "4 min read",
     badgeColor: "violet",
     title: "OnePlus 12 - Flagship Killer Returns",
@@ -345,7 +345,7 @@ const posts = [
 
   {
     slug: "google-pixel-8-pro",
-    category: "Mobile",
+    category: "Electronics",
     readTime: "4 min read",
     badgeColor: "sky",
     title: "Google Pixel 8 Pro - Camera King",
@@ -369,7 +369,7 @@ const posts = [
 
   {
     slug: "poco-x7-pro",
-    category: "Mobile",
+    category: "Electronics",
     readTime: "3 min read",
     badgeColor: "violet",
     title: "POCO X7 Pro - Gaming Budget Beast",
@@ -393,7 +393,7 @@ const posts = [
 
   {
     slug: "motorola-edge-60-pro",
-    category: "Mobile",
+    category: "Electronics",
     readTime: "4 min read",
     badgeColor: "indigo",
     title: "Motorola Edge 60 Pro - Clean Premium Midrange",
@@ -675,7 +675,7 @@ const posts = [
 
   {
     slug: "airpods-max",
-    category: "Accessories",
+    category: "Electronics",
     readTime: "5 min read",
     badgeColor: "indigo",
     title: "AirPods Max - Premium Over-Ear Headphones",
@@ -699,7 +699,7 @@ const posts = [
 
   {
     slug: "airpods-4th-gen-anc",
-    category: "Accessories",
+    category: "Electronics",
     readTime: "3 min read",
     badgeColor: "sky",
     title: "AirPods 4th Gen with Active Noise Cancellation",
@@ -723,7 +723,7 @@ const posts = [
 
   {
     slug: "beats-studio-buds-plus",
-    category: "Accessories",
+    category: "Electronics",
     readTime: "3 min read",
     badgeColor: "violet",
     title: "Beats Studio Buds Plus - Apple Approved",
@@ -748,7 +748,7 @@ const posts = [
   // CLOTHES
   {
     slug: "alan-jones-women-zipper-hoodie",
-    category: "Clothing",
+    category: "Fashion",
     readTime: "3 min read",
     badgeColor: "violet",
     title: "Alan Jones Women's Solid Zipper Hooded Sweatshirt",
@@ -775,7 +775,7 @@ const posts = [
 
   {
     slug: "alan-jones-womens-fluffy-yarn-fleece-jacket",
-    category: "Clothing",
+    category: "Fashion",
     readTime: "3 min read",
     badgeColor: "red",
     badgeText: "Limited-time deal",
@@ -803,7 +803,7 @@ const posts = [
 
   {
     slug: "lymio-men-lightweight-outerwear-jacket-j10-11",
-    category: "Clothing",
+    category: "Fashion",
     readTime: "3 min read",
     badgeColor: "red",
     badgeText: "Limited-time deal",
@@ -830,7 +830,7 @@ const posts = [
   },
   {
   slug: "alan-jones-women-solid-zip-hoodie",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "violet",
   title: "Alan Jones Women’s Solid Zipper Hooded Sweatshirt",
@@ -869,7 +869,7 @@ const posts = [
 },
 {
   slug: "mack-jonney-women-fleece-halfzip-jm4380",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "red",
   badgeText: "Limited-time deal",
@@ -909,7 +909,7 @@ const posts = [
 },
 {
   slug: "boldfit-women-winter-hoodie-zip",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "sky",
   badgeText: "Limited-time deal",
@@ -949,7 +949,7 @@ const posts = [
 },
 {
   slug: "womens-printed-winter-sweatshirt",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "violet",
   title: "Women’s Printed Sweatshirt – Cozy & Stylish Winter Wear",
@@ -988,7 +988,7 @@ const posts = [
 },
 {
   slug: "boldfit-woolen-winter-cap-neck-warmer-grey",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "2 min read",
   badgeColor: "sky",
   badgeText: "Limited-time deal",
@@ -1028,7 +1028,7 @@ const posts = [
 },
 {
   slug: "fabseasons-women-fauxfur-touchscreen-gloves",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "2 min read",
   badgeColor: "indigo",
   title: "FabSeasons Winter Gloves for Girls & Women – Faux Fur Inner & Touchscreen Finger",
@@ -1067,7 +1067,7 @@ const posts = [
 },
 {
   slug: "funky-monkey-womens-cute-zip-hoodie",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "violet",
   title: "FUNKY MONKEY Women’s Cute Zip-Up Hoodie with Pocket",
@@ -1106,7 +1106,7 @@ const posts = [
 },
 {
   slug: "TAGAS Women's Sweatshirt| Women Winter Wear",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "violet",
   title: "Women’s Printed Sweatshirt – Cozy & Stylish Winter Wear",
@@ -1145,7 +1145,7 @@ const posts = [
 },
 {
   slug: "greciilooks-women-warm-coord-hoodie-set",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "indigo",
   title: "GRECIILOOKS Co-ord Set for Women – Warm Hooded Hoodie & Pant Winter Outfit",
@@ -1184,7 +1184,7 @@ const posts = [
 },
 {
   slug: "fabseasons-foldable-winter-ear-muffs-kids-girls-women",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "2 min read",
   badgeColor: "sky",
   title: "FabSeasons Adjustable Winter Ear Muffs for Kids, Girls & Women – Foldable & Handbag-Friendly",
@@ -1223,7 +1223,7 @@ const posts = [
 },
 {
   slug: "lymio-unisex-hoodie-sweatshirt-h18-19",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "red",
   badgeText: "Limited-time deal",
@@ -1263,7 +1263,7 @@ const posts = [
 },
 {
   slug: "shining-diva-blue-butterfly-crystal-set",
-  category: "Accessories",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "violet",
   title: "Shining Diva Italian Designer Platinum Plated Blue Butterfly Jewellery Set",
@@ -1302,7 +1302,7 @@ const posts = [
 },
 {
   slug: "sannidhi-4pcs-crystal-butterfly-jewellery-set",
-  category: "Accessories",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "violet",
   title: "SANNIDHI 4 Pcs Crystal Butterfly Jewellery Set for Women & Girls",
@@ -1341,7 +1341,7 @@ const posts = [
 },
 {
   slug: "MEENAZ Pendant For Women",
-  category: "Accessories",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "violet",
   title: "Shining Diva Italian Designer Silver Jewellery Set",
@@ -1380,7 +1380,7 @@ const posts = [
 },
 {
   slug: "zovira-foldable-storage-bins-38x26x26",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "2 min read",
   badgeColor: "indigo",
   title: "ZOVIRA Foldable Storage Bins with Lids (Set of 2) – Grey & White",
@@ -1419,7 +1419,7 @@ const posts = [
 },
 {
   slug: "noise-buds-n1-pro-chrome-purple",
-  category: "Accessories",
+  category: "Electronics",
   readTime: "3 min read",
   badgeColor: "sky",
   title: "Noise Buds N1 Pro – Chrome Purple ANC TWS",
@@ -1497,7 +1497,7 @@ const posts = [
 },
 {
   slug: "designer-ethnic-cotton-coord-set-festival",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "indigo",
   title: "Designer Women’s Ethnic Co-Ord Set – Cotton Kurta Pant/Palazzo Suit for Festivals",
@@ -1536,7 +1536,7 @@ const posts = [
 },
 {
   slug: "grey-art-silk-vneck-peplum-sharara-set",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "indigo",
   title: "Women’s Grey Art Silk V‑Neck Peplum Kurta Sharara Set – Lace Wedding & Festival Wear",
@@ -1575,7 +1575,7 @@ const posts = [
 },
 {
   slug: "gosriki-rayon-bandhej-kurta-pant-dupatta",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "indigo",
   title: "GoSriKi Women’s Rayon Viscose Bandhej Kurta with Pant & Dupatta",
@@ -1614,7 +1614,7 @@ const posts = [
 },
 {
   slug: "gosriki-rayon-bandhej-kurta-pant-dupatta",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "indigo",
   title: "GoSriKi Women’s Rayon Viscose Bandhej Kurta with Pant & Dupatta",
@@ -1653,7 +1653,7 @@ const posts = [
 },
 {
   slug: "GoSriKi Women's Rayon Blend Straight Bandhej Printed Kurta",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "indigo",
   title: "Women’s Grey Art Silk V‑Neck Peplum Kurta Sharara Set – Lace Wedding & Festival Wear",
@@ -1692,7 +1692,7 @@ const posts = [
 },
 {
   slug: "Naixa Women's Rayon Slub Embroidered Straight Kurta with Pant and Dupatta Sets",
-  category: "Clothing",
+  category: "Fashion",
   readTime: "3 min read",
   badgeColor: "indigo",
   title: "Women’s Grey Art Silk V‑Neck Peplum Kurta Sharara Set – Lace Wedding & Festival Wear",
@@ -1729,4 +1729,958 @@ const posts = [
     text: "Shop Peplum Sharara Sets →"
   }
 },
+{
+  slug: "klosia-rayon-printed-anarkali-kurta-pant-dupatta",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "KLOSIA Women’s Rayon Printed Anarkali Kurta & Pant with Dupatta",
+  excerpt: "Flowy rayon printed Anarkali kurta with matching pants and dupatta – elegant ethnic set for parties, festivals and family functions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/KLOSIA Women's Rayon Printed Anarkali Kurta and Pant with Dupatta Set.jpg",
+  price: "₹729",
+  rating: 4.4,
+  ctaLabel: "Buy KLOSIA Anarkali Kurta Set",
+  ctaUrl: "https://amzn.to/4iF6qBy",
+  sections: {
+    intro: [
+      "The KLOSIA Women’s Rayon Printed Anarkali Kurta and Pant with Dupatta Set is a ready-made ethnic outfit that combines a flared Anarkali kurta with straight pants and a coordinating dupatta for festive and semi-formal occasions.[web:174][web:176]"
+    ],
+    layout: [
+      "Made from soft rayon/viscose, the set usually features a calf-length printed Anarkali kurta with 3/4 sleeves, a comfortable elastic or drawstring waist pant and a lightweight printed dupatta in a matching colour story.[web:175][web:177][web:178]"
+    ],
+    pros: [
+      "Rayon fabric drapes beautifully and feels smooth on the skin, making the Anarkali flare look elegant while staying comfortable for long events.[web:175][web:178]",
+      "Complete three-piece set (kurta, pant, dupatta) saves styling time and can still be mixed and matched with other pieces in your wardrobe.[web:176][web:178]",
+      "Printed design and Anarkali silhouette give a festive look suitable for poojas, family gatherings, small weddings and festive office parties.[web:174][web:179]"
+    ],
+    cons: [
+      "Rayon needs gentle handling; machine washing on harsh cycles or very hot water can cause shrinkage or fading over time.[web:175][web:178]",
+      "As with most ready-made ethnic sets, exact fit in bust, waist and pant length can vary, so checking the size chart and reviews before ordering is important.[web:175][web:180]"
+    ],
+    conclusion: [
+      "If you want an affordable yet graceful Anarkali-style kurta set that comes with matching pants and dupatta, this KLOSIA rayon printed set is a strong option in the sub‑₹800 range for festivals and special outings.[web:176][web:179][web:180]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iF6qBy",
+    text: "Buy KLOSIA Anarkali Kurta Set →"
+  }
+},
+{
+  slug: "meera-fab-cotton-floral-kurta-palazzo",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "MEERA FAB Women’s Cotton Floral Kurta & Palazzo Set",
+  excerpt: "Pure cotton floral printed kurta with matching palazzos – breathable everyday and festive ethnic wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/MEERA FAB Women's Cotton Floral Kurta and Palazzo Set.jpg",
+  price: "₹739",
+  rating: 4.3,
+  ctaLabel: "Buy MEERA FAB Cotton Floral Set",
+  ctaUrl: "https://amzn.to/44ehsbb",
+  sections: {
+    intro: [
+      "The MEERA FAB Women’s Cotton Floral Kurta and Palazzo Set is a light, breathable ethnic outfit designed for daily wear, office, college and small festive gatherings.[web:182][web:190]"
+    ],
+    layout: [
+      "These sets typically feature a knee-length straight or A-line kurta in pure cotton, all-over floral print, three-quarter sleeves and matching printed or solid palazzos with an elasticated waist and drawstring for comfort.[web:187][web:188]"
+    ],
+    pros: [
+      "Pure cotton fabric makes the set very comfortable in warm and humid weather, ideal for long days at work or travel.[web:187][web:188]",
+      "Floral prints add a soft, feminine look that works well for casual outings as well as simple poojas or family lunches.[web:182][web:191]",
+      "Palazzo bottom gives extra legroom and airflow compared to churidar or straight pants, which many people find more comfortable for everyday use.[web:186][web:187]"
+    ],
+    cons: [
+      "Cotton can wrinkle easily, so the set may need light ironing to look crisp, especially for office or events.[web:187][web:191]",
+      "Very light colours might be slightly sheer and could need appropriate innerwear or a slip for full coverage.[web:187][web:190]"
+    ],
+    conclusion: [
+      "If you want a comfortable, easy-to-style ethnic outfit that you can wear regularly and still dress up with jewellery for small functions, the MEERA FAB cotton floral kurta and palazzo set is a solid value pick in the budget kurta-set segment.[web:182][web:187][web:190]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/44ehsbb",
+    text: "Buy MEERA FAB Cotton Floral Set →"
+  }
+},
+{
+  slug: "siddhanam-cotton-a-line-kurta",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "SIDDHANAM Women’s Cotton A-Line Kurta",
+  excerpt: "Pure cotton A-line kurta with flattering flare – comfortable everyday ethnic wear that can be dressed up or down.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/SIDDHANAM Women's Cotton A Line Kurta.jpg",
+  price: "₹449",
+  rating: 4.3,
+  ctaLabel: "Buy SIDDHANAM Cotton A-Line Kurta",
+  ctaUrl: "https://amzn.to/44cyG8P",
+  sections: {
+    intro: [
+      "The SIDDHANAM Women’s Cotton A-Line Kurta is a pure-cotton everyday kurta designed with a slight flare, giving a comfortable yet polished look for office, college or casual outings.[web:192][web:194][web:197]"
+    ],
+    layout: [
+      "Most variants feature printed or striped cotton fabric, A-line shape with calf-length hem, three-quarter sleeves and necklines like round, V-neck or mandarin collar, making them easy to pair with leggings, jeans or palazzos.[web:194][web:195][web:200]"
+    ],
+    pros: [
+      "Pure cotton material is breathable and ideal for Indian weather, especially for long days when you need comfort plus decent coverage.[web:194][web:196]",
+      "A-line silhouette flatters different body shapes by skimming over the hips without being too tight, suitable for both casual and semi-formal settings.[web:194][web:200]",
+      "Heavy discounts often bring the price down to the ₹350–₹500 range, giving strong value compared to the listed MRP.[web:196][web:197]"
+    ],
+    cons: [
+      "Cotton tends to wrinkle, so the kurta may need light ironing if you want a crisp look for office or events.[web:194][web:199]",
+      "Some prints and colours are light, so they might need appropriate innerwear for full opacity depending on your comfort level.[web:192][web:199]"
+    ],
+    conclusion: [
+      "If you are looking for a budget-friendly, pure-cotton kurta that works for daily wear and can be styled up with jewellery and a dupatta, the SIDDHANAM Cotton A-Line Kurta is a reliable pick in the sub-₹500 sale range.[web:196][web:197][web:200]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/44cyG8P",
+    text: "Buy SIDDHANAM Cotton A-Line Kurta →"
+  }
+},
+{
+  slug: "anni-designer-cotton-kurta-palazzo",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "ANNI DESIGNER Women’s Cotton Kurta with Palazzo",
+  excerpt: "Straight or A-line cotton printed kurta paired with comfy palazzos – budget ethnic set for daily wear and small functions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/ANNI DESIGNER Cotton Women Kurta With Palazzo.jpg",
+  price: "₹599",
+  rating: 4.1,
+  ctaLabel: "Buy ANNI DESIGNER Kurta Palazzo Set",
+  ctaUrl: "https://amzn.to/4iIhmOZ",
+  sections: {
+    intro: [
+      "The ANNI DESIGNER Women’s Cotton Kurta with Palazzo set is a budget-friendly ethnic outfit that pairs a printed kurta with matching wide-leg palazzos for everyday comfort and style.[web:201][web:202][web:210]"
+    ],
+    layout: [
+      "Most sets use cotton or cotton-blend fabric with calf-length straight or slight A-line kurtas, three-quarter sleeves and elasticated palazzos, often in coordinated prints or soft florals.[web:202][web:205][web:210]"
+    ],
+    pros: [
+      "Cotton/cotton-blend fabric is breathable and comfortable for long hours in Indian weather, making it good for college, office or casual outings.[web:202][web:206]",
+      "Kurta-palazzo combo gives better airflow and movement than churidar, and can be mixed and matched with other kurtis or tops in your wardrobe.[web:201][web:205]",
+      "Heavy discounts on marketplaces often bring the effective price down to very low budget levels while still giving a complete two-piece set.[web:207][web:209]"
+    ],
+    cons: [
+      "Being a value segment brand, fabric thickness and print feel can vary between designs; some pieces may feel lighter than premium labels.[web:201][web:207]",
+      "Cotton and cotton-blend materials can wrinkle and may need quick ironing if you want a crisp look for office or events.[web:202][web:206]"
+    ],
+    conclusion: [
+      "If you are looking for an affordable everyday kurta-palazzo set that is easy to wear and style, ANNI DESIGNER’s cotton kurta with palazzo sets are a practical option, especially when picked during sale pricing.[web:201][web:206][web:209]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iIhmOZ",
+    text: "Buy ANNI DESIGNER Kurta Palazzo Set →"
+  }
+},
+{
+  slug: "Janasya Women's Crepe Kurta",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "Janasya Women's Crepe Kurta",
+  excerpt: "Straight or A-line cotton printed kurta paired with comfy palazzos – budget ethnic set for daily wear and small functions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Janasya Women's Crepe Kurta.jpg",
+  price: "₹438",
+  rating: 4.1,
+  ctaLabel: "Buy ANNI DESIGNER Kurta Palazzo Set",
+  ctaUrl: "https://amzn.to/48MZMF4",
+  sections: {
+    intro: [
+      "Janasya Women's Crepe Kurta set is a budget-friendly ethnic outfit that pairs a printed kurta with matching wide-leg palazzos for everyday comfort and style.[web:201][web:202][web:210]"
+    ],
+    layout: [
+      "Most sets use cotton or cotton-blend fabric with calf-length straight or slight A-line kurtas, three-quarter sleeves and elasticated palazzos, often in coordinated prints or soft florals.[web:202][web:205][web:210]"
+    ],
+    pros: [
+      "Cotton/cotton-blend fabric is breathable and comfortable for long hours in Indian weather, making it good for college, office or casual outings.[web:202][web:206]",
+      "Kurta-palazzo combo gives better airflow and movement than churidar, and can be mixed and matched with other kurtis or tops in your wardrobe.[web:201][web:205]",
+      "Heavy discounts on marketplaces often bring the effective price down to very low budget levels while still giving a complete two-piece set.[web:207][web:209]"
+    ],
+    cons: [
+      "Being a value segment brand, fabric thickness and print feel can vary between designs; some pieces may feel lighter than premium labels.[web:201][web:207]",
+      "Cotton and cotton-blend materials can wrinkle and may need quick ironing if you want a crisp look for office or events.[web:202][web:206]"
+    ],
+    conclusion: [
+      "If you are looking for an affordable everyday kurta-palazzo set that is easy to wear and style, ANNI DESIGNER’s cotton kurta with palazzo sets are a practical option, especially when picked during sale pricing.[web:201][web:206][web:209]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48MZMF4",
+    text: "Janasya Women's Crepe Kurta →"
+  }
+},
+{
+  slug: "noise-pulse-2-max-jet-black",
+  category: "Electronics",
+  readTime: "3 min read",
+  badgeColor: "sky",
+  title: "Noise Pulse 2 Max – 1.85\" Bluetooth Calling Smartwatch (Jet Black)",
+  excerpt: "Big 1.85\" display, Bluetooth calling, 10‑day battery, 550 nits brightness and 100 sports modes in a budget smartwatch.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Noise Pulse 2 MaxDisplay.jpg",
+  price: "₹1,199",
+  rating: 4.3,
+  ctaLabel: "Buy Noise Pulse 2 Max",
+  ctaUrl: "https://amzn.to/4iMu5Aj",
+  sections: {
+    intro: [
+      "Noise Pulse 2 Max is a value-focused smartwatch with a 1.85‑inch TFT LCD display, Bluetooth calling and a claimed 10‑day battery life, aimed at users who want calling plus fitness tracking under a tight budget. [web:211][web:212][web:221]"
+    ],
+    layout: [
+      "The watch offers 550 nits peak brightness for outdoor visibility, a rectangular 1.85\" screen, built-in microphone and speaker for calls, Tru Sync tech for stable BT connection, IP68 water resistance and support for both Android and iOS. [web:211][web:213][web:215]"
+    ],
+    pros: [
+      "Bluetooth calling with dialpad, recent contacts and in-watch mic/speaker lets you take quick calls directly from your wrist without pulling out your phone. [web:213][web:214]",
+      "Noise Health Suite and 100+ sports modes cover heart rate, SpO₂, sleep tracking and basic workout tracking, which is solid for this price range. [web:211][web:219][web:223]",
+      "Large 1.85\" display with 550 nits brightness plus 150+ cloud watch faces makes the UI easy to see in sunlight and gives you plenty of customization. [web:211][web:213][web:216]",
+      "Battery is rated up to 10 days on typical use (around 5 days with heavy calling), which is competitive among budget calling smartwatches. [web:213][web:217]"
+    ],
+    cons: [
+      "Fitness and health metrics are good for casual use but not medical-grade; serious athletes may find GPS and advanced metrics missing. [web:211][web:223]",
+      "LCD panel and plastic build are expected at this price, so you do not get AMOLED deep blacks or premium metal case feel. [web:211][web:216]"
+    ],
+    conclusion: [
+      "If you want a sub‑₹1,500 smartwatch with Bluetooth calling, big bright display, 100 sports modes and decent battery, the Noise Pulse 2 Max in Jet Black is one of the strongest value picks in Noise’s lineup right now. [web:213][web:219][web:222]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iMu5Aj",
+    text: "Buy Noise Pulse 2 Max →"
+  }
+},
+{
+  slug: "fire-boltt-ninja-call-pro-max-grey",
+  category: "Electronics",
+  readTime: "3 min read",
+  badgeColor: "sky",
+  title: "Fire-Boltt Ninja Call Pro Max – 2.01\" BT Calling Smartwatch (Grey)",
+  excerpt: "2.01\" HD display, Bluetooth calling, 120+ sports modes, Health Suite, voice assistant and IP67 water resistance in a budget watch.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Fire-Boltt Ninja Call Pro Max Smart Watch.jpg",
+  price: "₹1,099",
+  rating: 4.2,
+  ctaLabel: "Buy Fire-Boltt Ninja Call Pro Max",
+  ctaUrl: "https://amzn.to/4pZTokO",
+  sections: {
+    intro: [
+      "The Fire‑Boltt Ninja Call Pro Max is a large 2.01‑inch Bluetooth‑calling smartwatch with 120+ sports modes, Fire‑Boltt Health Suite and voice assistant support, targeted at users who want a calling watch under ₹1,500. [web:226][web:231][web:237]"
+    ],
+    layout: [
+      "It offers a 2.01‑inch HD display (around 320 nits brightness), in‑built microphone and speaker for calls, metal+polycarbonate case, silicone strap, multiple watch faces and BT 5.0 connectivity compatible with Android and iOS. [web:226][web:231][web:237]"
+    ],
+    pros: [
+      "Bluetooth calling lets you answer, reject and place calls directly from the watch using the on‑screen dialer and recent contacts, thanks to the integrated mic and loudspeaker. [web:231][web:239]",
+      "Health Suite covers continuous heart‑rate monitoring, SpO₂, sleep tracking and activity stats like steps, calories and distance, along with 120+ sports modes for basic workout tracking. [web:226][web:231][web:243]",
+      "IP67 water resistance means it can handle sweat, splashes and light rain, making it suitable for everyday wear and workouts. [web:237][web:239][web:243]"
+    ],
+    cons: [
+      "Battery life is typically quoted at about 5–7 days of normal use with up to ~15 days standby, but heavy Bluetooth calling and high brightness can reduce this noticeably. [web:231][web:239]",
+      "As a budget TFT‑display smartwatch, it lacks AMOLED deep blacks and advanced features like built‑in GPS or premium strap/build quality found in higher‑priced models. [web:216][web:237]"
+    ],
+    conclusion: [
+      "For buyers looking for a low‑cost smartwatch with a big display, reliable Bluetooth calling, many sports modes and full basic health tracking, the Fire‑Boltt Ninja Call Pro Max in Grey is a strong value‑for‑money option in the sub‑₹1,500 segment. [web:231][web:240][web:245]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pZTokO",
+    text: "Buy Fire-Boltt Ninja Call Pro Max →"
+  }
+},
+{
+  slug: "noise-pulse-4-max-jet-black",
+  category: "Electronics",
+  readTime: "3 min read",
+  badgeColor: "sky",
+  title: "Noise Pulse 4 Max Smart Watch – 1.96\" AMOLED, AI Create & BT Calling (Jet Black)",
+  excerpt: "1.96\" AMOLED screen, Bluetooth calling, AI Create with unlimited watch faces, AI Search, functional crown and full Health Suite in a metallic-finish body.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Noise Pulse 4 Max Smart Watch with AI Create.jpg",
+  price: "₹2,199",
+  rating: 4.4,
+  ctaLabel: "Buy Noise Pulse 4 Max",
+  ctaUrl: "https://amzn.to/3Yj4zZG",
+  sections: {
+    intro: [
+      "Noise Pulse 4 Max (also listed as ColorFit Pulse 4 Max) is a feature-rich smartwatch with a large 1.96‑inch AMOLED display, Bluetooth calling and AI‑powered watch‑face creation aimed at users who want a premium look on a mid‑budget.[web:246][web:249][web:251]"
+    ],
+    layout: [
+      "It offers a 1.96\" AMOLED panel with Always‑On Display, functional side crown for UI navigation, premium metallic‑finish dial, silicone strap, Bluetooth 5.3 with TruSync calling, AI Create and AI Search, plus IP68 dust and water resistance.[web:246][web:250][web:254]"
+    ],
+    pros: [
+      "AI Create and AI Search let you generate unlimited personalised watch faces and query information directly from your wrist, making the UX feel more playful and smart than typical budget watches.[web:248][web:250][web:254]",
+      "The 1.96\" AMOLED screen with AOD delivers deep blacks and sharp colours, improving readability outdoors and making watch faces and notifications look more premium.[web:246][web:251][web:255]",
+      "Noise Health Suite covers 24×7 heart‑rate monitoring, SpO₂, sleep tracking, stress, female‑cycle tracking and 100+ sports modes, all synced with the NoiseFit app.[web:246][web:251][web:255]",
+      "Battery life is rated up to about 7 days on normal use with IP68 protection, so it can comfortably handle daily workouts, calls and notifications without frequent charging.[web:246][web:251][web:253]"
+    ],
+    cons: [
+      "Heavy Always‑On Display use, high brightness and frequent Bluetooth calling can bring real‑world battery life below the advertised 7‑day figure.[web:251][web:255]",
+      "Like most non‑LTE smartwatches in this price band, GPS is dependent on the phone and health metrics are for fitness guidance, not medical‑grade diagnostics.[web:246][web:251]"
+    ],
+    conclusion: [
+      "If you want a stylish smartwatch under roughly ₹2,000–₹2,500 with a big AMOLED screen, BT calling and fun AI‑generated watch faces, the Noise Pulse 4 Max in Jet Black stands out as one of the most feature‑packed options in Noise’s current lineup.[web:249][web:251][web:259]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3Yj4zZG",
+    text: "Buy Noise Pulse 4 Max →"
+  }
+},
+{
+  slug: "boat-storm-infinity-active-black",
+  category: "Electronics",
+  readTime: "3 min read",
+  badgeColor: "sky",
+  title: "boAt Storm Infinity – 1.83\" HD Display, 15-Day Battery, BT Calling (Active Black)",
+  excerpt: "Massive 550mAh battery with up to 15 days backup, 1.83\" HD display, functional crown and Bluetooth calling in a budget smartwatch.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/boAt New Launch Storm Infinity.jpg",
+  price: "₹1,499",
+  rating: 4.3,
+  ctaLabel: "Buy boAt Storm Infinity",
+  ctaUrl: "https://amzn.to/4oFmyUY",
+  sections: {
+    intro: [
+      "The boAt Storm Infinity is a Bluetooth‑calling smartwatch focused on long battery life, offering a huge 550mAh cell that can deliver up to 15 days of use on heavy usage and up to around 20 days on regular use.[web:262][web:264][web:267]"
+    ],
+    layout: [
+      "It features a 1.83‑inch HD touchscreen (240×284) with about 500–550 nits brightness, IP68 dust and water resistance, Bluetooth 5.4, a functional rotating crown for UI navigation and support for cloud watch faces via the boAt Crest app.[web:262][web:267][web:271][web:277]"
+    ],
+    pros: [
+      "Massive 550mAh battery with ASAP Charge can go from 0–100% in roughly 60 minutes, giving up to 15 days battery even with active use, which is far above most budget smartwatches.[web:262][web:264][web:267]",
+      "Full Bluetooth calling support with dial pad, saved contacts (around 10) and in‑built mic/speaker lets you handle calls directly from the wrist.[web:264][web:269][web:275]",
+      "Comprehensive health suite covers 24×7 heart‑rate and SpO₂ tracking, sleep and stress monitoring, women’s cycle tracking, reminders and 100+ sports modes for workouts.[web:267][web:269][web:271]"
+    ],
+    cons: [
+      "Uses an HD LCD panel rather than AMOLED, so blacks and contrast will not be as deep as on higher‑end AMOLED watches.[web:262][web:267]",
+      "As with most budget wearables, GPS is phone‑assisted and health metrics are meant for guidance, not medical diagnosis.[web:267][web:275]"
+    ],
+    conclusion: [
+      "For buyers who prioritise battery life and Bluetooth calling in a sub‑₹1,500 price band, the boAt Storm Infinity in Active Black stands out with its 550mAh cell, 15‑day backup, functional crown and full health + sports tracking at a very aggressive price.[web:264][web:267][web:275]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oFmyUY",
+    text: "Buy boAt Storm Infinity →"
+  }
+},
+{
+  slug: "fastrack-limitless-fs2-pro-blue",
+  category: "Electronicss",
+  readTime: "3 min read",
+  badgeColor: "sky",
+  title: "Fastrack Limitless FS2 Pro – 1.96\" Super AMOLED Arched Display Smartwatch (Blue)",
+  excerpt: "1.96\" Super AMOLED arched display, SingleSync BT calling, NitroFast charging, 110+ sports modes and 200+ watchfaces in a premium metallic body.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/fastrack_watch.jpg",
+  price: "₹2695",
+  rating: 4.4,
+  ctaLabel: "Buy Fastrack Limitless FS2 Pro",
+  ctaUrl: "https://amzn.to/4rOHr32",
+  sections: {
+    intro: [
+      "The Fastrack Limitless FS2 Pro is a stylish AMOLED-calling smartwatch with a 1.96‑inch Super AMOLED arched display, functional crown and premium metallic finish aimed at users who want a more high-end look under ₹3K.[web:282][web:284][web:294]"
+    ],
+    layout: [
+      "It features a 1.96\" curved Super AMOLED panel with 410×502 resolution, Always‑On Display, a rotating crown for navigation, IP68 water resistance and Bluetooth connectivity compatible with Android and iOS.[web:283][web:286][web:291]"
+    ],
+    pros: [
+      "SingleSync BT Calling supports on‑wrist calling with favourite contacts (up to about 100 on Android, 50 on iOS) and quick replies on Android, making it handy for handling calls without pulling out your phone.[web:284][web:286]",
+      "NitroFast charging gives roughly 1 day of battery from a 10‑minute top‑up, with total battery life rated up to about 5–7 days depending on usage.[web:284][web:286][web:288]",
+      "You get advanced health tracking with 24×7 heart‑rate, SpO₂, sleep, women’s health and auto stress monitor, plus 110+ sports modes and 200+ watchfaces for strong fitness and customisation options.[web:284][web:286][web:294]"
+    ],
+    cons: [
+      "Real‑world battery life can drop below the rated figure if you keep Always‑On Display, high brightness and frequent calling enabled.[web:288][web:294]",
+      "No built‑in GPS and metrics are fitness‑oriented rather than medical‑grade, which may limit appeal for serious runners or athletes.[web:283][web:288]"
+    ],
+    conclusion: [
+      "If you want a premium‑looking smartwatch with a big curved AMOLED screen, functional crown, solid health suite and BT calling around the ₹2.5K price point, the Fastrack Limitless FS2 Pro in Blue is one of the strongest mid‑range options right now.[web:284][web:287][web:294]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4rOHr32",
+    text: "Buy Fastrack Limitless FS2 Pro →"
+  }
+},
+{
+  slug: "akriza-digital-kitchen-timer-black-white",
+  category: "Electronics",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "AKRIZA Digital Kitchen Timer & Stopwatch – Large Digits, Loud Alarm, Magnetic Stand (Black & White)",
+  excerpt: "3‑in‑1 digital timer and stopwatch with large display, loud alarm and magnetic back – handy for cooking, baking and focused study sessions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/AKRIZA Digital Kitchen Timer & Stopwatch.jpg",
+  price: "₹299",
+  rating: 4.3,
+  ctaLabel: "Buy AKRIZA Digital Kitchen Timer",
+  ctaUrl: "https://amzn.to/48XcVMN",
+  sections: {
+    intro: [
+      "The AKRIZA Digital Kitchen Timer & Stopwatch is a compact 3‑in‑1 gadget designed for cooking, baking and study sessions, combining countdown timer, stopwatch and clock functions in one unit.[web:299][web:301][web:310]"
+    ],
+    layout: [
+      "It features a large easy‑to‑read digital display, simple button controls, loud alarm, and a magnetic back with fold‑out stand so you can stick it to a fridge, metal board or keep it on a desk.[web:300][web:309][web:311]"
+    ],
+    pros: [
+      "Big digits make it readable from across the room, which is useful both in the kitchen and on a study table.[web:300][web:309]",
+      "Loud alarm ensures you hear it even if you step away briefly, helping prevent overcooked food or lost track of pomodoro / study intervals.[web:296][web:302][web:311]",
+      "Magnetic back and stand give flexible placement options – on fridge, counter, or desk – and multiple reviews list it among the better budget timers for students and home use.[web:300][web:302][web:306]"
+    ],
+    cons: [
+      "Runs on AAA batteries (usually not included), so you need to keep spares handy instead of relying on USB charging.[web:300][web:309]",
+      "Plastic build and simple screen are functional but basic; there is no backlight or premium metal housing like higher‑priced timers.[web:302][web:306]"
+    ],
+    conclusion: [
+      "If you need an inexpensive digital timer for cooking or disciplined study blocks, the AKRIZA Digital Kitchen Timer & Stopwatch offers large digits, a strong alarm and magnetic mounting at a very low price point.[web:296][web:302][web:310]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48XcVMN",
+    text: "Buy AKRIZA Digital Kitchen Timer →"
+  }
+},
+{
+  slug: "shocknshop-wch78-digital-sports-watch",
+  category: "Electronics",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "Shocknshop WCH78 Digital Sports LED Wrist Watch for Men & Boys",
+  excerpt: "Budget digital sports watch with LED display, stopwatch, alarm and rugged styling for everyday casual use.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Shocknshop Digital Sports.jpg",
+  price: "₹472",
+  rating: 4.0,
+  ctaLabel: "Buy Shocknshop WCH78 Sports Watch",
+  ctaUrl: "https://amzn.to/44AJfTp",
+  sections: {
+    intro: [
+      "The Shocknshop Digital Sports Stylish Multifunctional Electronic LED Wrist Watch (model WCH78) is a low-cost sports-style watch designed mainly for men and boys who want a chunky digital look with basic functions.[web:316][web:320][web:322]"
+    ],
+    layout: [
+      "It features a black round dial with LED digital display, rubber/silicone strap, multiple side buttons and a rugged sports aesthetic suitable for casual and outdoor wear.[web:320][web:321][web:322]"
+    ],
+    pros: [
+      "Includes core digital features like time display, calendar, alarm, chronograph/stopwatch and countdown timer, making it practical for daily timing needs.[web:320][web:322]",
+      "Customer feedback highlights attractive looks, comfortable strap and decent build for the price, giving it a slightly premium feel despite being budget-friendly.[web:320][web:321][web:322]",
+      "Marketed as water‑resistant (around 5 ATM class in some listings), so it can generally handle splashes and light exposure to water in everyday use.[web:321][web:322]"
+    ],
+    cons: [
+      "LED backlight is present but described as quite dim and can partly block digits, so night visibility is not as strong as on higher-end sports watches.[web:320][web:322]",
+      "Display clarity in bright daylight and long‑term durability are acceptable but not exceptional, which is expected at this price bracket.[web:320][web:322]"
+    ],
+    conclusion: [
+      "If you want an inexpensive sporty digital watch with alarm, stopwatch and countdown for everyday casual wear, the Shocknshop WCH78 offers good value and style for a tight budget, though it is not intended to compete with premium sports brands.[web:316][web:320][web:322]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/44AJfTp",
+    text: "Buy Shocknshop WCH78 Sports Watch →"
+  }
+},
+{
+  slug: "noise-twist-go-elite-black",
+  category: "Electronics",
+  readTime: "3 min read",
+  badgeColor: "sky",
+  title: "Noise Twist Go Round Dial Smartwatch – BT Calling, Metal Build (Elite Black)",
+  excerpt: "1.39\" round display smartwatch with rotating dial, Bluetooth calling, metal body, IP68 rating and full health suite for daily fitness tracking.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Noise Twist Go Round dial.jpg",
+  price: "₹1,799",
+  rating: 4.3,
+  ctaLabel: "Buy Noise Twist Go",
+  ctaUrl: "https://amzn.to/4iJOaa5",
+  sections: {
+    intro: [
+      "Noise Twist Go is a round-dial smartwatch with a unique rotating bezel/dial for navigation, Bluetooth calling and premium metal construction, positioned as a stylish fitness tracker under ₹2K.[web:246]"
+    ],
+    layout: [
+      "Features a 1.39‑inch TFT/LCD round display, full metal body with silicone strap, IP68 dust/water resistance, Bluetooth 5.3 calling with mic/speaker, 100+ watch faces and compatibility with Android/iOS via NoiseFit app.[web:246][web:251]"
+    ],
+    pros: [
+      "Rotating crown/bezel makes menu navigation smooth and intuitive, similar to premium watches but at budget price.[web:246]",
+      "Bluetooth calling supports dial pad, recent calls and inbuilt speaker/mic for wrist-based calls during workouts or meetings.[web:246]",
+      "Health suite includes 24/7 heart rate, SpO2, sleep tracking, stress monitoring plus 100+ sports modes for comprehensive daily fitness data.[web:246]",
+      "IP68 rating and metal build give it better durability and premium feel compared to most plastic competitors in this segment.[web:246]"
+    ],
+    cons: [
+      "1.39\" screen size is compact (smaller than rectangular 1.8‑2\" watches), so notifications and watch faces have less real estate.[web:246]",
+      "TFT display (not AMOLED) means contrast and blacks are not as deep as higher-end screens, though still readable outdoors.[web:246]"
+    ],
+    conclusion: [
+      "For users who prefer round smartwatch styling with physical crown navigation, solid BT calling, metal build and full health tracking around ₹1,500–₹2,000, Noise Twist Go Elite Black delivers strong value in the budget round-dial category.[web:246]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iJOaa5",
+    text: "Buy Noise Twist Go →"
+  }
+},
+{
+  slug: "mens-casual-rose-gold-leather-watches",
+  category: "Electronics",
+  readTime: "3 min read",
+  badgeColor: "gold",
+  title: "Men's Casual Rose Gold Genuine Leather Watches",
+  excerpt: "Stylish rose gold case watches with premium genuine leather straps – perfect for casual office and weekend looks.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Men's Casual Styles Rose Gold Sharp Genuine Leather Watches.jpg",
+  price: "₹399",
+  rating: 4.5,
+  ctaLabel: "Shop Rose Gold Leather Watches",
+  ctaUrl: "https://amzn.to/3XHjtZM",
+  sections: {
+    intro: [
+      "Men's casual rose gold genuine leather watches combine the warm metallic tone of rose gold cases with soft, supple leather straps for a sophisticated yet relaxed everyday look.[web:326][web:327][web:342]"
+    ],
+    layout: [
+      "These watches typically feature round or rectangular rose gold-tone cases (stainless steel with PVD coating), clean analog dials with minimal markers, genuine leather straps in brown/black tones, and quartz movements for accuracy.[web:326][web:330][web:338]"
+    ],
+    pros: [
+      "Rose gold provides a warmer, more modern alternative to traditional silver or yellow gold, pairing well with both formal shirts and casual denim.[web:326][web:327][web:339]",
+      "Genuine leather straps age beautifully over time, developing a rich patina that adds character while remaining comfortable for all-day wear.[web:327][web:338][web:342]",
+      "Versatile styling works across office meetings, coffee dates, dinners and weekend outings without looking overdressed or underdressed.[web:326][web:330]"
+    ],
+    cons: [
+      "Rose gold PVD coating can wear off over 2–5 years with heavy daily use, requiring occasional refinishing to maintain the finish.[web:326][web:329]",
+      "Leather straps need conditioning and care to prevent drying/cracking, especially in dry climates or with heavy perspiration.[web:327][web:338]"
+    ],
+    conclusion: [
+      "If you want a refined yet casual watch that elevates everyday outfits, men's rose gold genuine leather watches from Titan, Timex or premium brands offer excellent style-to-price ratio for modern wardrobes.[web:326][web:330][web:342]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3XHjtZM",
+    text: "Shop Rose Gold Leather Watches →"
+  }
+},
+{
+  slug: "carlington-endurance-series-ct-9105",
+  category: "Electronics",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "Carlington Endurance Series Analog-Digital Sports Watch - CT_9105",
+  excerpt: "Rugged analog-digital sports watch for men and boys with alarm, stopwatch, backlit display, dual time, silicone strap, water and shock resistant.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Carlington Endurance Series.jpg",
+  price: "₹1,233",
+  rating: 4.1,
+  ctaLabel: "Buy Carlington Endurance CT_9105",
+  ctaUrl: "https://amzn.to/48qm5Bp",
+  sections: {
+    intro: [
+      "Carlington Endurance Series CT_9105 is an analog-digital sports watch with a sleek design and multifunctional features suitable for men and boys with an active lifestyle.[web:346][web:348]"
+    ],
+    layout: [
+      "The watch features a 4 cm dial with a black and orange color scheme, analog clock hands combined with a digital backlit display, and a silicone strap for comfort and durability during sports or casual wear.[web:346][web:348]"
+    ],
+    pros: [
+      "Shock and water resistance make this watch durable and reliable even during wet or impact-prone activities.[web:346][web:353]",
+      "Multi-functional with alarm, stopwatch, calendar, dual time display and backlight, enabling usefulness in diverse scenarios from workouts to daily scheduling.[web:346][web:348]",
+      "Lightweight construction at only 80 grams ensures comfort for prolonged use with practical and stylish design elements.[web:346][web:355]"
+    ],
+    cons: [
+      "The watch may not have advanced smartwatch features; rather it focuses on classic analog and digital functionalities suitable for sports and everyday use.[web:346]",
+      "Battery life depends on usage of backlight and alarms, typical for devices in this category and price segment.[web:346][web:348]"
+    ],
+    conclusion: [
+      "If you seek a reasonably priced, durable analogue-digital sports watch with basic features and a sporty aesthetic, the Carlington Endurance CT_9105 is a solid option for men and boys needing a versatile timepiece.[web:346][web:348][web:353]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48qm5Bp",
+    text: "Buy Carlington CT_9105 →"
+  }
+},
+{
+  slug: "shocknshop-wch53-digital-square-watch",
+  category: "Electronics",
+  readTime: "2 min read",
+  badgeColor: "silver",
+  title: "Shocknshop WCH53 Digital Sports Square Watch – Black Dial, Silver SS Strap",
+  excerpt: "Unisex digital sports watch with square black dial and stainless steel strap – stylish metal build for casual and sporty wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/digital_sport_watch.jpg",
+  price: "₹472",
+  rating: 4.0,
+  ctaLabel: "Buy Shocknshop WCH53 Digital Watch",
+  ctaUrl: "https://amzn.to/4oFr7yA",
+  sections: {
+    intro: [
+      "The Shocknshop Digital Sports Square Black Dial Watch (WCH53) features a modern square case design with black LED digital display and silver stainless steel strap, marketed as unisex for men, women and teens.[web:316][web:319]"
+    ],
+    layout: [
+      "It has a square stainless steel case with black digital dial, multiple function buttons, LED backlight and adjustable metal mesh or link bracelet strap for a premium casual look.[web:316][web:319]"
+    ],
+    pros: [
+      "Stainless steel strap gives a more premium and durable feel compared to rubber straps on other budget digital watches, suitable for office or casual outings.[web:316]",
+      "Square dial design offers a unique, modern aesthetic that stands out from traditional round sports watches while maintaining digital functionality.[web:319]",
+      "Compact sizing works for smaller wrists too, making it truly unisex as claimed with basic timekeeping, alarm and stopwatch features.[web:316]"
+    ],
+    cons: [
+      "LED backlight quality varies with brightness being dimmer than premium watches, affecting low-light readability.[web:316]",
+      "As a budget stainless steel watch, long-term water resistance and scratch resistance may not match higher-end brands.[web:319]"
+    ],
+    conclusion: [
+      "If you want an affordable unisex digital watch with stainless steel strap and square modern styling for daily casual wear, the Shocknshop WCH53 offers good value in the sub-₹600 segment with a more premium look than typical plastic sports watches.[web:316][web:319]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oFr7yA",
+    text: "Buy Shocknshop WCH53 →"
+  }
+},
+{
+  slug: "zovuta-ultra-grey-kids-digital-watch",
+  category: "Electronics",
+  readTime: "2 min read",
+  badgeColor: "teal",
+  title: "ZOVUTA Ultra Grey Digital LED Kids Watch – Waterproof & Smart Design",
+  excerpt: "Kids digital watch with large LED display, waterproof design, alarm and replaceable strap – perfect birthday/Rakhi gift for ages 4-15.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Digital Dial Waterproof Smart Design LED.jpg",
+  price: "₹280",
+  rating: 4.2,
+  ctaLabel: "Buy ZOVUTA Kids Digital Watch",
+  ctaUrl: "https://amzn.to/48B4xRS",
+  sections: {
+    intro: [
+      "ZOVUTA Ultra Grey is a waterproof digital LED watch designed for kids (4-15 years), boys & girls, featuring simple operation, large readable digits and fun styling perfect for school, play and gifting.[web:358][web:361]"
+    ],
+    layout: [
+      "Compact design with LED digital display, side buttons for easy time-setting/alarm, colorful silicone strap (removable), waterproof for splashes/sweat and lightweight for all-day comfort.[web:361][web:367]"
+    ],
+    pros: [
+      "Large digits and simple button layout make it super easy for young kids to read time and set alarms independently without parental help.[web:361][web:367]",
+      "Waterproof construction handles playground splashes, handwashing and sweat – no worries about water damage during active play.[web:362][web:364]",
+      "Replaceable colorful silicone strap lets kids customize their watch and parents easily swap for cleaning or new colors as they grow.[web:361][web:366]"
+    ],
+    cons: [
+      "Basic digital functions only (no smartwatch features like calling/games) – purely focused on timekeeping and alarm.[web:362]",
+      "Battery-powered (not rechargeable) so needs occasional replacement, though lasts months with normal use.[web:367]"
+    ],
+    conclusion: [
+      "Perfect budget-friendly watch for kids starting school or active play – simple, durable, waterproof with replaceable straps and loud alarm. Great Rakhi/birthday gift for ages 4-15 that grows with them.[web:358][web:361][web:367]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48B4xRS",
+    text: "Buy ZOVUTA Kids Watch →"
+  }
+},
+{
+  slug: "Lotus Herbals Lip Balm | Strwaberry",
+  category: "Makeup",
+  readTime: "2 min read",
+  badgeColor: "rose",
+  title: "Lotus Herbals Lip Balm – Natural Moisture for Soft Lips",
+  excerpt: "Classic herbal lip balm with carrot seed oil, castor oil and coconut oil – perfect winter essential for chapped lips.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/lipbalm.jpg",
+  price: "₹152",
+  rating: 4.5,
+  ctaLabel: "Lotus Herbals Lip Balm",
+  ctaUrl: "https://amzn.to/3YeTBo9",
+  sections: {
+    intro: [
+      "Lotus Herbals Lip Balm is the OG winter savior with natural herbs that melt away chapped lips and keep them soft all day. Pocket-sized 10g tube goes everywhere with you.[web:378]"
+    ],
+    layout: [
+      "Transparent jelly texture glides on smooth, absorbs fast without stickiness. Carrot seed oil naturally protects, castor + coconut oils deeply nourish for supple lips.[web:378][web:382]"
+    ],
+    loves: [
+      "Super moisturizing – heals cracks overnight and works under lipstick too[web:379][web:382]",
+      "Pleasant mild scent (bubblegum vibes!) that doesn't overpower[web:379][web:382]",
+      "Non-greasy, lightweight feel perfect for daily use[web:379]",
+      "₹35 price tag = best value in lip balms anywhere[web:385]"
+    ],
+    conclusion: [
+      "Your lips deserve this. Lotus Herbals Lip Balm is the reliable, herbal hero that delivers soft lips without fuss or fancy price. Winter staple everyone needs in their bag.[web:378][web:379]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3YeTBo9",
+    text: "Grab Lotus Herbals Lip Balm Now →"
+  }
+},
+{
+  slug: "greciilooks-mens-lycra-cargo-track-pants",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "GRECIILOOKS Men's Lycra Cargo Track Pants – Loose Fit Korean Joggers",
+  excerpt: "Stretchy lycra joggers with cargo pockets, loose fit and plus sizes – perfect for travel, gym and lounge wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GRECIILOOKS Men's Lycra.jpg",
+  price: "₹469",
+  rating: 4.4,
+  ctaLabel: "Buy GRECIILOOKS Cargo Joggers",
+  ctaUrl: "https://amzn.to/48BHciR",
+  sections: {
+    intro: [
+      "GRECIILOOKS Men's Lycra Cargo Track Pants bring Korean street style to your wardrobe with super stretchy fabric, multiple cargo pockets and relaxed loose fit that works for airport runs, gym sessions and Netflix marathons.[web:90][web:91]"
+    ],
+    layout: [
+      "High-quality lycra-spandex blend gives 4-way stretch, elastic waist with drawstring, zippered side pockets + cargo flap pockets, tapered ankle cuffs and available in regular + plus sizes up to 5XL.[web:90][web:92]"
+    ],
+    loves: [
+      "Insane stretch – moves with you during squats, travel or lounging without restriction[web:91]",
+      "6 functional pockets keep phone, wallet, keys secure even during adventures[web:90]",
+      "Korean slim-tapered silhouette looks sharp with sneakers, hoodies or tees[web:92]",
+      "Plus size availability + combo packs make it easy to stock up[web:91]"
+    ],
+    conclusion: [
+      "Upgrade your loungewear game. These GRECIILOOKS cargo joggers combine comfort, style and utility – the perfect travel companion that doubles as your new gym favorite. Stretchy, pocketed, and ready for anything.[web:90][web:91]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48BHciR",
+    text: "Shop GRECIILOOKS Joggers Now →"
+  }
+},
+{
+  slug: "lymio-men-cargo-pants-cargo-46-49",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "olive",
+  title: "Lymio Men Cargo Pants – Cotton Casual Cargos (Cargo-46-49)",
+  excerpt: "Heavy-duty cotton cargo pants with multiple pockets and relaxed fit – perfect for work, adventure and weekend vibes.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Lymio Men Cargo Men Cargo Pants.jpg",
+  price: "₹749",
+  rating: 4.2,
+  ctaLabel: "Buy Lymio Cargo Pants",
+  ctaUrl: "https://amzn.to/3XDx8B3",
+  sections: {
+    intro: [
+      "Lymio Men Cargo Pants (Cargo-46-49) deliver rugged utility with 6+ functional pockets, durable cotton fabric and straight-leg fit that works from construction sites to casual hangouts.[web:108][web:109]"
+    ],
+    layout: [
+      "100% cotton twill construction, reinforced stitching, multiple cargo flap pockets (thigh + calf), elastic waist with drawcord, zip fly and sizes up to 5XL for inclusive fit.[web:108]"
+    ],
+    loves: [
+      "Pocket city – phone, wallet, tools, snacks all secure with flap closures[web:108]",
+      "Heavy cotton holds shape through washes and rough use without fading[web:109]",
+      "Relaxed straight fit flatters without being baggy – pairs with boots or sneakers[web:108]",
+      "Budget steal at sale prices – tough enough for daily grind[web:109]"
+    ],
+    conclusion: [
+      "Cargo pants done right. Lymio's cotton cargos give you maximum utility, comfort and style without breaking the bank. Grab these for work, play or anywhere you need pockets that actually work.[web:108][web:109]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3XDx8B3",
+    text: "Get Lymio Cargo Pants Now →"
+  }
+},
+{
+  slug: "anni-designer-cotton-floral-kurta-pant-set",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "ANNI DESIGNER Women's Cotton Blend Floral Kurta with Pant",
+  excerpt: "Lightweight cotton floral kurta set with matching pants – breezy ethnic style for daily wear and casual functions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/ANNI DESIGNER Women's Cotton Blend Floral Kurta with Pant.jpg",
+  price: "₹469",
+  rating: 4.2,
+  ctaLabel: "Buy ANNI DESIGNER Kurta Set",
+  ctaUrl: "https://amzn.to/4iLJPU6",
+  sections: {
+    intro: [
+      "ANNI DESIGNER Women's Cotton Blend Floral Kurta with Pant brings soft floral prints and breathable fabric to your everyday ethnic wardrobe – perfect for college, office and family gatherings.[web:201][web:202]"
+    ],
+    layout: [
+      "Knee-length straight kurta with 3/4 sleeves, all-over floral print, paired with comfortable elastic waist pants. Cotton blend keeps it light and flowy for Indian weather.[web:202][web:210]"
+    ],
+    loves: [
+      "Cotton blend = super breathable for long days without feeling heavy[web:202]",
+      "Floral prints add feminine charm that works with flats or juttis[web:201]",
+      "Ready-to-wear set saves styling time – dupatta optional[web:210]",
+      "Budget-friendly price with multiple colour options[web:207]"
+    ],
+    conclusion: [
+      "Your new everyday ethnic fave. ANNI DESIGNER's cotton floral kurta-pant set delivers comfort, pretty prints and effortless style – the kind of outfit that gets compliments without trying too hard.[web:201][web:202]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iLJPU6",
+    text: "Shop ANNI DESIGNER Kurta Set →"
+  }
+},
+{
+  slug: "lymio-men-polyester-casual-rib-shirt",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "navy",
+  title: "Lymio Men Polyester Casual Regular Fit Shirt – Stylish Rib Design",
+  excerpt: "Wrinkle-resistant polyester shirt with ribbed texture and regular fit – sharp casual look for office and outings.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Lymio Men Polyester Casual Regular Fit Shirt.jpg",
+  price: "₹419",
+  rating: 4.3,
+  ctaLabel: "Buy Lymio Casual Shirt",
+  ctaUrl: "https://amzn.to/44efuYd",
+  sections: {
+    intro: [
+      "Lymio Men Polyester Casual Regular Fit Shirt brings textured rib detailing and smart casual styling to your wardrobe – perfect for office, meetings and weekend brunches without ironing hassle.[web:108][web:109]"
+    ],
+    layout: [
+      "Breathable polyester fabric with subtle rib texture, spread collar, long sleeves with button cuffs, front button placket and straight hem that stays tucked. Available in classic colours.[web:108]"
+    ],
+    loves: [
+      "Wrinkle-free magic – looks crisp straight from bag, no ironing needed[web:108]",
+      "Rib texture adds premium feel without extra cost[web:109]",
+      "Regular fit flatters most body types – not too slim, not too baggy[web:108]",
+      "Machine washable and quick-dry for busy lifestyles[web:109]"
+    ],
+    conclusion: [
+      "Elevate your casual game. Lymio's polyester rib shirt gives you polished office-ready looks with zero maintenance – the smart choice for men who value style and convenience.[web:108][web:109]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/44efuYd",
+    text: "Grab Lymio Shirt Now →"
+  }
+},
+{
+  slug: "lymio-men-lightweight-jacket-j04-06",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "charcoal",
+  title: "Lymio Lightweight Outwear Jacket for Men (J-04-06)",
+  excerpt: "Packable lightweight jacket perfect for layering – travel essential that fits in your backpack.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Lymio Jackets.jpg",
+  price: "₹709",
+  rating: 4.3,
+  ctaLabel: "Buy Lymio Lightweight Jacket",
+  ctaUrl: "https://amzn.to/3Yf9Ql3",
+  sections: {
+    intro: [
+      "Lymio Jackets J-04-06 are your ultimate travel companion – ultra-lightweight outwear that packs into its own pocket, perfect for sudden rains, flights and cool evenings.[web:108][web:109]"
+    ],
+    layout: [
+      "Nylon/polyester shell with water-repellent coating, full zip front, stand collar, elastic cuffs, adjustable hood and side pockets. Folds into tiny pouch for easy carry.[web:108]"
+    ],
+    loves: [
+      "Feather-light – weighs almost nothing in your backpack[web:108]",
+      "Wind + water resistant keeps you dry in drizzle[web:109]",
+      "Layer-friendly – fits perfect over hoodies or tees[web:108]",
+      "Packs into own pocket = ultimate travel hack[web:109]"
+    ],
+    conclusion: [
+      "Every traveler's secret weapon. Lymio's lightweight jacket gives you weather protection without the bulk – ready for flights, treks or just cool evenings. Packs smaller than your phone case.[web:108][web:109]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3Yf9Ql3",
+    text: "Get Lymio Jacket Now →"
+  }
+},
+{
+  slug: "gosriki-viscose-a-line-kurta-pant-set",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "indigo",
+  title: "GoSriKi Women's Viscose A-Line Kurta Pant Set – Printed Summer Co-Ord",
+  excerpt: "Flowy viscose printed kurta with matching pants – breezy summer ethnic set for casual and festive vibes.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GoSriKi Women's Viscose Blend A-Line Kurta Pant Set for Women.jpg",
+  price: "₹499",
+  rating: 4.3,
+  ctaLabel: "Buy GoSriKi Summer Kurta Set",
+  ctaUrl: "https://amzn.to/4aAUHSu",
+  sections: {
+    intro: [
+      "GoSriKi Women's Viscose Blend A-Line Kurta Pant Set turns heads with beautiful prints and effortless summer styling – your go-to for college, brunches and family functions.[web:171][web:172]"
+    ],
+    layout: [
+      "Flattering A-line kurta with 3/4 sleeves, lightweight viscose that drapes beautifully, coordinated printed pants with elastic waist, breathable fabric perfect for hot days.[web:171]"
+    ],
+    loves: [
+      "Viscose flows like cotton but feels lighter – ideal summer ethnic[web:171]",
+      "A-line silhouette hides tummy, flatters every body type[web:172]",
+      "All-over prints create complete coordinated look instantly[web:171]",
+      "Soft against skin, no itching even after hours of wear[web:172]"
+    ],
+    conclusion: [
+      "Summer ethnic sorted. GoSriKi's viscose A-line kurta set gives you that perfect blend of comfort, style and occasion-readiness – the outfit that makes 'dressing up' feel effortless.[web:171][web:172]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4aAUHSu",
+    text: "Shop GoSriKi Kurta Set →"
+  }
+},
+{
+  slug: "bullmer-men-shirt-pants-co-ord-set",
+  category: "Fashion",
+  readTime: "3 min read",
+  badgeColor: "navy",
+  title: "BULLMER Trendy Shirt & Pants Co-Ord Set for Men",
+  excerpt: "Matching shirt + pants set for instant smart casual looks – zero styling effort, maximum impact.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/BULLMER Trendy Clothing Set with Shirt & Pants Co-ords for Men.jpg",
+  price: "₹797",
+  rating: 4.4,
+  ctaLabel: "Buy BULLMER Co-Ord Set",
+  ctaUrl: "https://amzn.to/4oKOreh",
+  sections: {
+    intro: [
+      "BULLMER Trendy Clothing Set with Shirt & Pants is your shortcut to sharp dressing – coordinated shirt and pants that arrive matched and ready. Office, dates, events? Done.[web:326]"
+    ],
+    layout: [
+      "Slim-fit shirt with modern spread collar tucked perfectly into tailored pants. Breathable fabric blend, functional pockets, stretch waistband and versatile neutral tones.[web:326]"
+    ],
+    loves: [
+      "Zero styling stress – open box, wear, look polished[web:326]",
+      "Co-ord magic makes you look expensive instantly[web:327]",
+      "Stretch + breathable for all-day comfort[web:326]",
+      "Versatile colors work with sneakers to formals[web:328]"
+    ],
+    conclusion: [
+      "Dress like you planned it. BULLMER's shirt-pants co-ord set delivers coordinated style without the effort – your new uniform for looking effortlessly put-together every time.[web:326]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oKOreh",
+    text: "Shop BULLMER Co-Ords Now →"
+  }
+}
 ]
