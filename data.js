@@ -2397,7 +2397,7 @@ const posts = [
 },
 {
   slug: "Lotus Herbals Lip Balm | Strwaberry",
-  category: "Makeup",
+  category: "Skincare",
   readTime: "2 min read",
   badgeColor: "rose",
   title: "Lotus Herbals Lip Balm – Natural Moisture for Soft Lips",
@@ -2682,5 +2682,829 @@ const posts = [
     url: "https://amzn.to/4oKOreh",
     text: "Shop BULLMER Co-Ords Now →"
   }
+},
+{
+  slug: "greciilooks-women-loose-high-rise-bootcut-jeans",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "GRECIILOOKS Women’s Loose High Rise Bootcut Jeans",
+  excerpt: "High-waist, loose-fit bootcut / bell-bottom jeans with a soft cotton-denim look – perfect for everyday Korean-style outfits.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GRECIILOOKS Women's Loose High Rise Jeans.jpg",
+  price: "₹699",
+  rating: 4.3,
+  ctaLabel: "Buy GRECIILOOKS Bootcut Jeans",
+  ctaUrl: "https://amzn.to/48reZMT",
+  sections: {
+    intro: [
+      "GRECIILOOKS Women’s Loose High Rise Jeans give that trending Korean baggy + bootcut vibe – snug at the waist, relaxed at the hips and opening out into flattering bell bottoms."
+    ],
+    layout: [
+      "High-waist fit that cinches the waist, loose straight thigh and gradual bootcut flare; works beautifully with crop tops, fitted tees, oversized shirts and sneakers or block heels."
+    ],
+    loves: [
+      "Instant leg-lengthening effect thanks to the high rise and bootcut flare.",
+      "Loose, comfy fit that still looks structured – ideal for college, café runs and travel.",
+      "Easy to dress up with a blazer or keep casual with a hoodie and chunky shoes."
+    ],
+    conclusion: [
+      "If you want one pair of jeans that can go from chill street style to dressy evening with just a top change, this GRECIILOOKS high-rise bootcut baggy jean is a super-versatile pick for your wardrobe."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48reZMT",
+    text: "Shop GRECIILOOKS Jeans →"
+  }
+},
+{
+  slug: "ben-martin-women-high-waist-flared-jeans",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "Ben Martin Women’s High Waist Flared Bell Bottom Jeans",
+  excerpt: "High waist, wide leg stretch denim with flared bell-bottom cut – made for travel, parties and everyday glam.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Ben Martin Women’s High Waist Jeans.jpg",
+  price: "₹764",
+  rating: 4.4,
+  ctaLabel: "Buy Ben Martin Flared Jeans",
+  ctaUrl: "https://amzn.to/4rLyyHo",
+  sections: {
+    intro: [
+      "Ben Martin Women’s High Waist Jeans give you that retro bell-bottom plus modern stretch comfort – perfect if you love long-leg, wide-leg silhouettes that work with both heels and sneakers."
+    ],
+    layout: [
+      "Snatched high waist, fitted through the hips and thighs, opening into a flared bell-bottom/bootcut leg; stretch denim keeps it comfy for sitting, walking and travelling while sizes 26–40 cover most body types."
+    ],
+    loves: [
+      "Instantly lengthens the legs and shapes the waist – very flattering with crop tops, body suits and tucked-in shirts.",
+      "Stretch denim makes them comfortable enough for flights, road trips and full-day wear.",
+      "Easy to dress up with a blazer and heels for parties or keep casual with tees and chunky sneakers."
+    ],
+    conclusion: [
+      "If you are hunting for one statement pair of jeans that can handle travel, everyday wear and party nights, Ben Martin’s high waist flared bell-bottom jeans are a versatile, stylish choice for your denim collection."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4rLyyHo",
+    text: "Shop Ben Martin Flared Jeans →"
+  }
+},
+{
+  slug: "greciilooks-women-cargo-wide-leg-jeans",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "olive",
+  title: "GRECIILOOKS Women’s High Waist Cargo Wide-Leg Jeans",
+  excerpt: "High waist, wide-leg baggy denim with utility cargo pockets – perfect for streetwear, college and travel.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GRECIILOOKS Cargo Jeans for Women – Wide Leg High Waist Baggy Denim Pants.jpg",
+  price: "₹649",
+  rating: 4.3,
+  ctaLabel: "Buy GRECIILOOKS Cargo Jeans",
+  ctaUrl: "https://amzn.to/4iL5GLj",
+  sections: {
+    intro: [
+      "GRECIILOOKS Cargo Jeans for Women blend two big trends in one piece – wide-leg baggy denim plus utility cargo pockets for a cool, effortless street style vibe."
+    ],
+    layout: [
+      "High waist fit that snatches the waist, relaxed straight fall into wide legs, with side and cargo pockets adding both utility and that Y2K / Korean fashion look; works with crop tops, fitted tees, oversized hoodies and sneakers."
+    ],
+    loves: [
+      "Cargo pockets give real storage for phone, cards and keys while still looking stylish.",
+      "Wide-leg baggy cut is super comfy for all-day wear, college, cafes and travel.",
+      "High waist + straight fall help balance proportions and flatter most body shapes."
+    ],
+    conclusion: [
+      "If you want denim that feels as comfy as joggers but looks way more fashion-forward, GRECIILOOKS high waist cargo wide-leg jeans are a must-add to your casual and streetwear rotation."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iL5GLj",
+    text: "Shop GRECIILOOKS Cargo Jeans →"
+  }
+},
+{
+  slug: "greciilooks-women-high-waist-parachute-pants",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "olive",
+  title: "GRECIILOOKS High Waist Flared Parachute Trousers (Plus Size Available)",
+  excerpt: "Lightweight high-waist cotton parachute pants with side pockets – comfy, trendy cargo style for travel and daily wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GRECIILOOKS High Waist Cotton Trousers for Women – Flared Parachute Pants with Side Pockets.jpg",
+  price: "₹749",
+  rating: 4.4,
+  ctaLabel: "Buy GRECIILOOKS Parachute Pants",
+  ctaUrl: "https://amzn.to/3KPPrjs",
+  sections: {
+    intro: [
+      "GRECIILOOKS High Waist Cotton Trousers give you that viral parachute-pant look – relaxed, flared and super comfy, but still snatched at the waist."
+    ],
+    layout: [
+      "High-rise elastic/drawstring waist, roomy legs with flared parachute silhouette, soft cotton fabric, and handy side pockets that actually fit your phone and essentials."
+    ],
+    loves: [
+      "Perfect for airport looks, college, café runs and long travel days.",
+      "High waist + loose leg = comfy yet flattering, especially in plus sizes.",
+      "Works with everything – tiny crop tops, oversized tees, hoodies and shirts."
+    ],
+    conclusion: [
+      "If you live in joggers but want something trendier, these GRECIILOOKS high-waist parachute cargo pants are the upgrade – easy, breathable and very ‘Pinterest outfit’ friendly."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3KPPrjs",
+    text: "Shop GRECIILOOKS Parachute Pants →"
+  }
+},
+{
+  slug: "ben-martin-women-baggy-wide-leg-jeans-3-bm-jj33",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "Ben Martin Women’s Baggy Wide-Leg Jeans (3-BM-JJ33)",
+  excerpt: "Loose, high-rise wide-leg denim with a relaxed baggy fit – everyday comfort with cool girl street-style vibes.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Ben Martin Baggy Jeans for Women.jpg",
+  price: "₹764",
+  rating: 4.3,
+  ctaLabel: "Buy Ben Martin Baggy Jeans",
+  ctaUrl: "https://amzn.to/4iNWMwL",
+  sections: {
+    intro: [
+      "Ben Martin Baggy Jeans for Women (3-BM-JJ33) are made for that effortless oversized vibe – loose through the leg, comfy at the waist and perfect for casual, college and café looks."
+    ],
+    layout: [
+      "High to mid-rise waist, relaxed hips, straight-to-wide leg silhouette and classic denim styling that pairs easily with fitted tees, crop tops, oversized hoodies and sneakers."
+    ],
+    loves: [
+      "Baggy fit = all-day comfort, zero thigh cling.",
+      "Wide leg cut balances the body and looks great with chunky shoes.",
+      "Easy to dress up with a blazer or keep fully laid-back with a sweatshirt."
+    ],
+    conclusion: [
+      "If skinny jeans feel too restricting now, Ben Martin’s loose baggy wide-leg jeans are a great switch – trendy, comfortable and versatile enough to become your go-to daily denim."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iNWMwL",
+    text: "Shop Ben Martin Baggy Jeans →"
+  }
+},
+{
+  slug: "adbucks-women-high-rise-parallel-jegging",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "ADBUCKS Women’s High-Rise Parallel Loose Fit Jegging",
+  excerpt: "Lightweight cotton-blend denim jeggings with a high waist and parallel loose fit – comfort of leggings, look of jeans.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/ADBUCKS Women's High-Rise Cotton Light Weight Denim Parallel Loose Fit Jegging.jpg",
+  price: "₹659",
+  rating: 4.2,
+  ctaLabel: "Buy ADBUCKS Parallel Jegging",
+  ctaUrl: "https://amzn.to/3YeFHCn",
+  sections: {
+    intro: [
+      "ADBUCKS Women’s High-Rise Cotton Lightweight Denim Parallel Jegging is made for girls who love the denim look but want legging-level comfort all day."
+    ],
+    layout: [
+      "High-rise elastic waistband, soft cotton-blend stretch fabric, straight/parallel loose fit through the leg and clean minimal finish that works with kurtis, tees and shirts."
+    ],
+    loves: [
+      "High waist holds the tummy and looks smooth under fitted tops.",
+      "Lightweight stretch fabric is perfect for college, office and travel.",
+      "Parallel loose fit gives more airflow than skinny jeggings while still looking polished."
+    ],
+    conclusion: [
+      "If jeans feel too stiff but leggings feel too casual, this ADBUCKS high-rise parallel jegging is a perfect in-between – comfy, flattering and easy to style with almost any top."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3YeFHCn",
+    text: "Shop ADBUCKS Jegging →"
+  }
+},
+{
+  slug: "startup-women-high-waist-flared-lycra-pants",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "Startup High Waist Flared Lycra Pants for Women",
+  excerpt: "Stretchable high-waist bootcut / bell-bottom trousers that hug the waist and flare at the hem – perfect for both office and casual looks.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Startup Flared Women Pants, High Waist Lycra Trouser for Woman, Stylish Flare Leg Palazzo,.jpg",
+  price: "₹499",
+  rating: 4.3,
+  ctaLabel: "Buy Startup Flared Pants",
+  ctaUrl: "https://amzn.to/4pWN7Gb",
+  sections: {
+    intro: [
+      "Startup Flared Women Pants are designed to give you that sculpted, snatched high waist with a flattering flare at the bottom – the kind of trouser that looks equally good with shirts and crop tops."
+    ],
+    layout: [
+      "High-rise waistband, stretchable lycra fabric that fits smoothly over the hips and thighs, then opens into a flare / palazzo-style or bootcut hem for a leg-lengthening effect."
+    ],
+    loves: [
+      "Perfect for office with a tucked-in shirt and for coffee dates with a fitted tee.",
+      "Stretch fabric keeps you comfortable through long days, meetings and travel.",
+      "Flared bell-bottom shape flatters most body types and works with heels or wedges."
+    ],
+    conclusion: [
+      "If you want one pair of bottoms that can switch from formal to casual in seconds, these Startup high-waist flared lycra pants are a super versatile, stylish pick for your wardrobe."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pWN7Gb",
+    text: "Shop Startup Flared Pants →"
+  }
+},
+{
+  slug: "greciilooks-women-wide-leg-cargo-jeans",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "olive",
+  title: "GRECIILOOKS Women’s High Waist Wide-Leg Cargo Jeans",
+  excerpt: "Baggy high-rise cargo denim with wide legs and utility pockets – chilled street style for everyday wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GRECIILOOKS Cargo Jeans for Women.jpg",
+  price: "₹649",
+  rating: 4.3,
+  ctaLabel: "Buy GRECIILOOKS Cargo Jeans",
+  ctaUrl: "https://amzn.to/3KODlak",
+  sections: {
+    intro: [
+      "GRECIILOOKS Cargo Jeans for Women mix wide-leg baggy denim with functional cargo pockets, giving you that relaxed, cool-girl streetwear look with actual storage."
+    ],
+    layout: [
+      "High waist that cinches the waist, loose straight fall into wide legs, plus side and utility pockets on the legs – perfect with crop tops, fitted tees, oversized hoodies and chunky sneakers."
+    ],
+    loves: [
+      "Cargo pockets hold phone, cash and small essentials so you can skip a bag.",
+      "Wide-leg baggy fit is super comfy for college, shopping and travel days.",
+      "High-rise waist balances the loose leg and flatters most body shapes."
+    ],
+    conclusion: [
+      "If you want denim that feels roomy like joggers but looks way more stylish, GRECIILOOKS high waist wide-leg cargo jeans are a solid pick for your everyday and weekend outfits."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3KODlak",
+    text: "Shop GRECIILOOKS Cargo Jeans →"
+  }
+},
+{
+  slug: "pinkmint-women-pure-cotton-printed-ethnic-coord-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "pink",
+  title: "Pinkmint Women’s Pure Cotton Printed Ethnic Co-Ord Set (Plus Size Friendly)",
+  excerpt: "Soft pure cotton printed co-ord set with side-pocket bottoms – everyday ethnic that feels like loungewear but looks put-together.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Pinkmint Women's Pure Cotton Printed Ethnic Co Ord Set with Side Pocket Bottom Perfect for Everyday.jpg",
+  price: "₹749",
+  rating: 4.3,
+  ctaLabel: "Buy Pinkmint Cotton Co-Ord Set",
+  ctaUrl: "https://amzn.to/48H8bd4",
+  sections: {
+    intro: [
+      "Pinkmint Women’s Pure Cotton Printed Ethnic Co-Ord Set is that one outfit you can wear from chai runs to casual outings – matching top and bottom in breathable cotton with easy side-pocket pants.[web:391][web:392][web:394]"
+    ],
+    layout: [
+      "Made from 100% pure cotton with all-over prints, this co-ord usually includes a relaxed-fit kurta/top with 3/4 sleeves and matching wide-leg pants with side pockets and slip-on waist, available in regular and plus sizes.[web:388][web:392][web:395]"
+    ],
+    loves: [
+      "Pure cotton keeps you cool and comfy in Indian summers while still looking polished.[web:388][web:392]",
+      "Side-pocket bottoms are perfect for phone and essentials – no extra bag needed for quick errands.[web:391][web:394]",
+      "Plus-size friendly patterns and fits mean it flatters curves instead of clinging.[web:395][web:399]"
+    ],
+    conclusion: [
+      "If you want an ethnic co-ord that feels like loungewear but looks like a styled outfit, Pinkmint’s pure cotton printed set with pocketed bottoms is a great everyday-and-outdoor staple under ₹700.[web:394][web:398][web:400]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48H8bd4",
+    text: "Shop Pinkmint Ethnic Co-Ord →"
+  }
+},
+{
+  slug: "pistaa-women-floral-pure-cotton-coord-pyjama-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "lavender",
+  title: "Pistaa’s Women Floral Regular Pure Cotton Co‑Ord Pajama Set",
+  excerpt: "Soft pure cotton floral co‑ord night suit that looks like a cute co‑ord and feels like your comfiest pyjamas.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Pistaa's Women Floral Regular Pure Cotton Co-Ord Pajama Set.jpg",
+  price: "₹650",
+  rating: 4.4,
+  ctaLabel: "Buy Pistaa’s Floral Cotton Co‑Ord Pajama",
+  ctaUrl: "https://amzn.to/4oOavox",
+  sections: {
+    intro: [
+      "Pistaa’s Women Floral Regular Pure Cotton Co‑Ord Pajama Set is designed as pretty lounge-wear you can actually step out in – matching floral top and bottom that feel like pyjamas but look like a co‑ord set. [web:411][web:412]"
+    ],
+    layout: [
+      "Crafted from 100% pure cotton with delicate floral prints, the set usually includes a relaxed-fit top (often 3/4 sleeves or half sleeves) and straight/relaxed pyjama bottoms with an easy elastic waist, ideal for summer nights and lazy weekends. [web:412][web:410]"
+    ],
+    loves: [
+      "Pure cotton fabric keeps it breathable and skin-friendly for long wear, even in warm weather. [web:412][web:416]",
+      "Floral print plus co‑ord styling makes it cute enough for balcony chai, nightovers and casual homestay pictures. [web:410][web:411]",
+      "Regular, comfortable fit offers ease of movement for sleeping, lounging, and working from home. [web:412]"
+    ],
+    conclusion: [
+      "If you want nightwear that doubles as aesthetic loungewear, Pistaa’s pure cotton floral co‑ord pajama set is a lovely pick – comfy, airy and Instagram-friendly without losing that cozy PJ feel. [web:411][web:412][web:410]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oOavox",
+    text: "Shop Pistaa’s Floral Co‑Ord Pajama Set →"
+  }
+},
+{
+  slug: "arayna-gold-printed-rayon-black-kurta-palazzo-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "gold",
+  title: "Arayna Women’s Gold Printed Rayon Black Kurta Set with Palazzo Pants",
+  excerpt: "Black rayon kurta with elegant gold print and matching palazzos – easy festive set that looks rich but feels light.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Arayna Women's Gold Printed Rayon Black Kurta Set with Ethnic Palazzo Pants.jpg",
+  price: "₹615",
+  rating: 4.4,
+  ctaLabel: "Buy Arayna Black & Gold Kurta Set",
+  ctaUrl: "https://amzn.to/3XHUs0A",
+  sections: {
+    intro: [
+      "Arayna’s Gold Printed Rayon Black Kurta Set with Palazzo Pants is a go-to outfit for when you want to look dressed up in seconds – classic black base with rich gold print that works for festivals, functions and dinners. [web:428][web:430]"
+    ],
+    layout: [
+      "Made from soft viscose rayon, the set includes a straight black kurta with three-quarter sleeves and all-over gold print, paired with easy-fit ethnic palazzo pants in matching fabric for a flowy, comfortable silhouette. [web:430]"
+    ],
+    loves: [
+      "Black + gold combo instantly looks festive and flattering on all skin tones. [web:430][web:432]",
+      "Rayon drapes beautifully and feels light on the skin, ideal for long events and warm-weather functions. [web:429][web:432]",
+      "Palazzo pants add comfort and movement, making this set perfect for dancing, family gatherings and office celebrations. [web:430]"
+    ],
+    conclusion: [
+      "If you want an under-₹1,000 outfit that can handle Diwali parties, weddings’ smaller functions and festive office days, Arayna’s gold printed rayon black kurta with palazzos is a stylish, hassle-free pick for your ethnic wardrobe. [web:428][web:430][web:432]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3XHUs0A",
+    text: "Shop Arayna Black & Gold Set →"
+  }
+},
+{
+  slug: "rytras-women-cotton-printed-straight-kurta-pant-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "Rytras Women’s Cotton Printed Straight Kurta with Pant",
+  excerpt: "Breezy cotton printed straight kurta set with matching pants – easy everyday ethnic that’s office and outing ready.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/rytras Women's Cotton Printed Straight Kurta With Pant.jpg",
+  price: "₹549",
+  rating: 4.2,
+  ctaLabel: "Buy Rytras Cotton Kurta Pant Set",
+  ctaUrl: "https://amzn.to/48Zps2j",
+  sections: {
+    intro: [
+      "Rytras Women’s Cotton Printed Straight Kurta with Pant set is made for everyday elegance – simple straight-cut kurta plus matching pants that work for office, college and daily wear. [web:440][web:444]"
+    ],
+    layout: [
+      "Pure / rich cotton fabric with all-over print, calf-length straight kurta, 3/4 sleeves and straight or tapered pants with an elastic waist, giving a neat silhouette that’s still comfortable all day. [web:440][web:442]"
+    ],
+    loves: [
+      "Cotton keeps it breathable and skin-friendly in Indian weather while still looking polished. [web:440][web:447]",
+      "Straight cut is easy to style with dupattas, stoles or just simple earrings for a minimal look. [web:442][web:454]",
+      "Budget-friendly pricing under ₹600 makes it easy to pick multiple colours/patterns for rotation. [web:444][web:448]"
+    ],
+    conclusion: [
+      "If you need a no-fuss kurta set that you can just wear and go – for work, tuitions or casual outings – Rytras’ cotton printed straight kurta with pant is a solid everyday staple in the sub‑₹600 range. [web:440][web:444][web:448]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48Zps2j",
+    text: "Shop Rytras Kurta Pant Set →"
+  }
+},
+{
+  slug: "greciilooks-women-stylish-anarkali-coord-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "GRECIILOOKS Stylish Anarkali Co-Ord Kurta Set for Women",
+  excerpt: "Viscose rayon Anarkali-style kurta set with straight pants – Pakistani-suit inspired co-ord that’s perfect for festive and travel looks.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GRECIILOOKS Co Ord Set For Women Stylish.jpg",
+  price: "₹569",
+  rating: 4.3,
+  ctaLabel: "Buy GRECIILOOKS Anarkali Co-Ord Set",
+  ctaUrl: "https://amzn.to/48Ft8oz",
+  sections: {
+    intro: [
+      "GRECIILOOKS Co-Ord Set for Women combines an Anarkali-style kurta with coordinated pants to give you that trendy Indo-Pakistani co-ord vibe – perfect for festive functions, Eid looks, and stylish travel outfits. [web:460][web:463][web:467]"
+    ],
+    layout: [
+      "The set typically features a viscose rayon printed Anarkali or flared kurta with a short to mid-length hem, paired with straight-fit pants, creating a relaxed yet dressy silhouette that works with flats, heels or juttis. [web:463][web:467][web:469]"
+    ],
+    loves: [
+      "Anarkali flare adds movement and elegance without feeling too heavy, making it great for all-day wear. [web:463][web:467]",
+      "Viscose rayon drapes smoothly and feels soft on the skin, giving a polished look for small functions, family dinners and festive outings. [web:467][web:471]",
+      "Pakistani-suit inspired styling with co-ordinated top and bottom removes the ‘what to match’ confusion – just add earrings and you’re ready. [web:460][web:469]"
+    ],
+    conclusion: [
+      "If you want a stylish kurta set that sits between casual and full-on festive, this GRECIILOOKS Anarkali co-ord set is a budget-friendly way to get that Pakistani-suit aesthetic for under ₹700. [web:467][web:471][web:475]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48Ft8oz",
+    text: "Shop GRECIILOOKS Anarkali Co-Ord Set →"
+  }
+},
+{
+  slug: "yuvvik-plus-size-pure-cotton-shirt-collar-kurta-palazzo-coord",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "teal",
+  title: "YUVVIK Women’s Pure Cotton Plus Size Shirt-Collar Kurta Set (S–7XL)",
+  excerpt: "Shirt-collar tunic style kurta with coordinated palazzo pants in pure cotton – easy everyday co-ord for sizes S to 7XL.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/YUVVIK Women's Pure Cotton Plus Size Kurta Set with Palazzo.jpg",
+  price: "₹718",
+  rating: 4.5,
+  ctaLabel: "Buy YUVVIK Plus Size Kurta Co-Ord Set",
+  ctaUrl: "https://amzn.to/3XKjWKF",
+  sections: {
+    intro: [
+      "The YUVVIK Women’s Pure Cotton Plus Size Kurta Set with Palazzo is a shirt-collar tunic-style co-ord designed from S all the way to 7XL, making it a rare option that truly caters to every body. [web:482][web:483]"
+    ],
+    layout: [
+      "Crafted in breathable pure cotton with prints, it pairs a shirt-collar, buttoned kurta/tunic with relaxed palazzo or trouser-style pants, creating a smart Indo-western co-ord that works for office, market runs and casual outings. [web:483][web:487]"
+    ],
+    loves: [
+      "Extended size range up to 7XL gives more inclusive fit options than most high-street brands. [web:482][web:490][web:492]",
+      "Shirt-collar design gives a polished, slightly formal edge while still feeling as easy as a kurta. [web:483]",
+      "Pure cotton fabric keeps it cool and comfortable for daily Indian weather and long wear days. [web:482][web:486]"
+    ],
+    conclusion: [
+      "If you want a daily-wear Indian outfit that feels like a co-ord set, fits from petite to plus-size and still looks smart enough for casual Fridays or brunch, YUVVIK’s pure cotton shirt-collar kurta and palazzo co-ord is a very strong pick. [web:483][web:488]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3XKjWKF",
+    text: "Shop YUVVIK Plus Size Co-Ord Set →"
+  }
+},
+{
+  slug: "leriya-fashion-anarkali-viscose-kurta-straight-pant-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "Leriya Fashion Anarkali Kurta Set – Viscose Rayon Printed Kurta & Straight Pant",
+  excerpt: "Soft viscose Anarkali-style printed kurta with straight pants – an easy festive ethnic outfit for functions and puja.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Leriya Fashion Anarkali Kurta-Set for Women.jpg",
+  price: "₹520",
+  rating: 4.3,
+  ctaLabel: "Buy Leriya Fashion Anarkali Kurta Set",
+  ctaUrl: "https://amzn.to/3XL5VfJ",
+  sections: {
+    intro: [
+      "The Leriya Fashion Anarkali Kurta-Set for Women is a viscose-rayon printed kurta with straight pants, made as a ready festive look for family functions, puja and small celebrations. [web:499][web:501][web:512]"
+    ],
+    layout: [
+      "Crafted from soft viscose rayon, the set usually features a flared or semi-Anarkali printed kurta (calf length, 3/4 sleeves, V or round neck) paired with matching straight-fit pants in the same or coordinating print. [web:500][web:504][web:512]"
+    ],
+    loves: [
+      "Viscose rayon drapes beautifully and feels light, making it comfortable even during long puja hours or festive gatherings. [web:501][web:512]",
+      "Anarkali-inspired flare adds movement and gives a more dressed-up look than a basic straight kurta. [web:500][web:504]",
+      "Straight pants keep the silhouette modern and easy to style with flats, heels or juttis for different occasions. [web:504][web:512]"
+    ],
+    conclusion: [
+      "If you want a budget-friendly festive outfit that needs almost no styling, this Leriya Fashion viscose Anarkali kurta with straight pants is a great under‑₹600 option for poojas, family functions and festive office wear. [web:500][web:501][web:506]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3XL5VfJ",
+    text: "Shop Leriya Fashion Anarkali Set →"
+  }
+},
+{
+  slug: "meera-fab-women-cotton-printed-anarkali-kurta-palazzo-dupatta-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "MEERA FAB Women’s Cotton Printed Anarkali Kurta with Palazzo & Dupatta",
+  excerpt: "Flowy cotton printed Anarkali kurta set with palazzo and dupatta – light, twirly and perfect for festive days and family functions.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/MEERA FAB Women's Cotton Printed Anarkali Kurta with Palazzo & Dupatta Set.jpg",
+  price: "₹659",
+  rating: 4.4,
+  ctaLabel: "Buy MEERA FAB Anarkali Kurta Set",
+  ctaUrl: "https://amzn.to/4pkqrQq",
+  sections: {
+    intro: [
+      "The MEERA FAB Women’s Cotton Printed Anarkali Kurta with Palazzo & Dupatta Set is a complete 3‑piece look – twirly Anarkali kurta, airy palazzos and a matching dupatta that’s ready for festivals, pooja and small functions."
+    ],
+    layout: [
+      "Made from breathable cotton with all-over prints, the set pairs a flared Anarkali kurta (calf or ankle length, usually 3/4 sleeves) with comfortable elastic‑waist palazzos and a lightweight printed dupatta in a coordinated colour story."
+    ],
+    loves: [
+      "Anarkali flare gives that classic festive ‘twirl’ while still feeling light on hot days.",
+      "Palazzo bottoms and cotton fabric keep the outfit comfy for long ceremonies or house parties.",
+      "Because it is a 3‑piece set, you can mix and match: kurta with jeans, palazzo with other kurtis, dupatta with plain suits."
+    ],
+    conclusion: [
+      "If you want a budget-friendly festive outfit that looks complete and elegant without needing extra styling, MEERA FAB’s cotton printed Anarkali kurta, palazzo and dupatta set is a very wearable choice for pooja, family gatherings and festive office wear."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pkqrQq",
+    text: "Shop MEERA FAB Anarkali Set →"
+  }
+},
+{
+  slug: "parthvi-women-printed-anarkali-kurta-palazzo-dupatta-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "PARTHVI Women’s Printed Anarkali Kurta with Palazzo & Dupatta Set",
+  excerpt: "Printed Anarkali kurta with matching palazzo and dupatta – graceful festive set that’s light, flowy and photo-ready.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/PARTHVI Women's Printed Anarkali Kurta With Palazzo & Dupatta Set.jpg",
+  price: "₹720",
+  rating: 4.3,
+  ctaLabel: "Buy PARTHVI Anarkali Kurta Palazzo Set",
+  ctaUrl: "https://amzn.to/4rSrjO3",
+  sections: {
+    intro: [
+      "PARTHVI Women’s Printed Anarkali Kurta with Palazzo & Dupatta Set is a complete 3-piece festive outfit – a twirly Anarkali, airy palazzo pants and a coordinating dupatta that together give a ready-made occasion look. [web:516][web:523][web:525]"
+    ],
+    layout: [
+      "Usually crafted in soft rayon or cotton blends, the set features a printed Anarkali kurta (often V or square neck, 3/4 sleeves, ankle or calf length), matching palazzos and a light printed dupatta, ideal for festive days, family functions and small celebrations. [web:516][web:520][web:525]"
+    ],
+    loves: [
+      "Anarkali flare and print make it feel dressy without needing heavy embroidery or extra styling. [web:516][web:518]",
+      "Palazzo bottoms and soft fabric keep it comfortable for long poojas, sangeet functions or festive office wear. [web:520][web:523]",
+      "3-piece coordination means you can mix and match each piece with other kurtas, pants or dupattas in your wardrobe. [web:521][web:523]"
+    ],
+    conclusion: [
+      "If you want a budget-friendly festive kurta set that looks graceful in photos and in person, PARTHVI’s printed Anarkali with palazzo and dupatta is a strong under‑₹700 pick for pooja, festivals and family gatherings. [web:519][web:522][web:527]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4rSrjO3",
+    text: "Shop PARTHVI Anarkali Set →"
+  }
+},
+{
+  slug: "alvami-women-viscose-printed-anarkali-kurta-pant-dupatta-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "Alvami Women Anarkali Kurta & Pant Set with Dupatta",
+  excerpt: "Viscose printed Anarkali kurta with straight pants and dupatta – elegant festive set that’s light, flowy and easy to wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Alvami Women Anarkali Kurta and Pant Set With Dupatta.jpg",
+  price: "₹749",
+  rating: 4.4,
+  ctaLabel: "Buy Alvami Anarkali Kurta Set",
+  ctaUrl: "https://amzn.to/4iTSRhW",
+  sections: {
+    intro: [
+      "Alvami Women Anarkali Kurta and Pant Set with Dupatta is designed as a classic festive outfit – a printed Anarkali kurta, coordinated pants and dupatta that together give a complete dressed-up look with minimal effort. [web:540][web:542][web:544]"
+    ],
+    layout: [
+      "The set typically uses viscose or viscose-cotton blend fabric, with a flared Anarkali kurta (3/4 sleeves, U or V neck, printed or Jaipuri-style motifs), straight-fit pants and a light dupatta in a matching print or colour. [web:540][web:539][web:548]"
+    ],
+    loves: [
+      "Viscose fabric drapes nicely and feels soft on the skin, making it comfortable for long functions, weddings and festive puja. [web:540][web:542]",
+      "Anarkali flare adds movement and elegance without being too heavy, so it works for both day and night events. [web:540][web:548]",
+      "Straight pants keep the look modern and easy to pair with other kurtas later, while the dupatta pulls the whole outfit together. [web:539][web:546]"
+    ],
+    conclusion: [
+      "If you need a ready-to-wear festive suit that looks graceful and feels light, Alvami’s printed Anarkali kurta, pant and dupatta set is a solid option for weddings, festivals and family gatherings in the around‑₹1,000 segment. [web:540][web:542][web:546]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iTSRhW",
+    text: "Shop Alvami Anarkali Set →"
+  }
+},
+{
+  slug: "lakme-9to5-cc-cream-mini-beige",
+  category: "Skincare",
+  readTime: "2 min read",
+  badgeColor: "rose",
+  title: "Lakmé 9 to 5 CC Cream Mini – Beige (9g SPF 30)",
+  excerpt: "Pocket-sized tinted moisturizer with natural coverage, SPF 30 and brightening – perfect for quick daily glow.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Lakme 9 to 5 CC Cream Mini.jpg",
+  price: "₹99",
+  rating: 4.4,
+  ctaLabel: "Buy Lakmé CC Cream Mini",
+  ctaUrl: "https://amzn.to/4oTq2Ug",
+  sections: {
+    intro: [
+      "Lakmé 9 to 5 CC Cream Mini in Beige is your no-fuss face makeup – evens skin tone, adds glow, conceals spots and protects with SPF 30 all in one lightweight swipe."
+    ],
+    layout: [
+      "Creamy tinted moisturizer formula blends sheer-to-medium coverage, hydrates without greasiness and brightens dull skin with 3% Niacinamide – perfect for oily/combo Indian skin tones."
+    ],
+    loves: [
+      "Beige shade suits wheatish-medium tones beautifully with minimal oxidation.",
+      "SPF 30 + natural finish = no extra sunscreen needed for daily wear.",
+      "9g mini size fits your makeup pouch perfectly for touch-ups and travel.",
+      "Quick 2-minute glow-up – moisturizer + tint + sun protection done."
+    ],
+    conclusion: [
+      "Skip foundation, grab this Lakmé CC Cream Mini. Natural coverage, skin-brightening benefits and SPF in a tiny tube that delivers big results for your everyday fresh-faced look."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oTq2Ug",
+    text: "Grab Lakmé CC Mini Now →"
+  }
+},
+{
+  slug: "multi-shape-makeup-sponge-set-20pcs-brown",
+  category: "Skincare",
+  readTime: "2 min read",
+  badgeColor: "pink",
+  title: "20-Piece Multi-Shape Makeup Sponge Set with Headband & Cleaner",
+  excerpt: "Complete beauty blender kit in pink/purple/beige with storage case – perfect starter set for flawless foundation application.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Multi-Shape Makeup Sponge Set.jpg",
+  price: "₹299",
+  rating: 4.5,
+  ctaLabel: "Buy 20-Pc Makeup Sponge Set",
+  ctaUrl: "https://amzn.to/48XalX8",
+  sections: {
+    intro: [
+      "This 20-piece multi-shape makeup sponge set is your one-stop beauty blender collection – different sizes for face, eyes, contouring plus headband and cleaner to keep everything fresh and hygienic."
+    ],
+    layout: [
+      "Includes large teardrop sponges for foundation, mini precision ones for under-eyes/concealer, wedge shapes for powder, flat for setting spray, all in soft latex-free foam that expands when wet."
+    ],
+    loves: [
+      "20 sponges = months of use before needing replacements.",
+      "Variety of shapes means perfect tool for every makeup step.",
+      "Headband keeps hair back, cleaner makes washing effortless.",
+      "Brown set looks chic and professional in your vanity."
+    ],
+    conclusion: [
+      "Upgrade your makeup game without breaking the bank. This 20-piece sponge set gives you pro-level blending tools + storage for flawless skin every time – beginner or pro approved."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48XalX8",
+    text: "Grab Makeup Sponge Set Now →"
+  }
+},
+{
+  slug: "lakme-xtraordin-airy-mattereal-mousse-foundation-beige-honey",
+  category: "Skincare",
+  readTime: "2 min read",
+  badgeColor: "rose",
+  title: "Lakmé Xtraordin-Airy Mattereal Mousse Foundation – Beige Honey (05, 25g SPF8)",
+  excerpt: "Feather-light mousse foundation with matte finish, pore-minimizing and SPF8 – perfect for natural daily glow.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Lakme Xtraordin-airy Mattereal Mousse Foundation, Matte Finish, Minimizes Pores, Has SPF8, 05 Beige Honey 25g.jpg",
+  price: "₹409",
+  rating: 4.5,
+  ctaLabel: "Buy Lakmé Mousse Foundation",
+  ctaUrl: "https://amzn.to/49ZhZkR",
+  sections: {
+    intro: [
+      "Lakmé Xtraordin-Airy Mattereal Mousse Foundation in Beige Honey (05) is the ultimate lightweight base – blends like air, minimizes pores and gives soft matte perfection with built-in SPF8 protection."
+    ],
+    layout: [
+      "Unique mousse texture that's literally feather-light, sheer-to-medium coverage, controls oil for 16 hours and evens skin tone without looking cakey – ideal for Indian skin and humid weather."
+    ],
+    loves: [
+      "Blends in seconds with fingers or sponge – no brush needed for quick mornings.",
+      "Beige Honey shade suits medium-warm Indian tones with minimal oxidation.",
+      "SPF8 + pore-blurring = skin protection + flawless filter effect.",
+      "Non-comedogenic, suits oily/combo skin without clogging pores."
+    ],
+    conclusion: [
+      "Say goodbye to heavy foundations. Lakmé's airy mousse gives you that 'your skin but better' look with zero effort – the daily base every busy girl needs for office, college or brunch."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/49ZhZkR",
+    text: "Grab Lakmé Mousse Now →"
+  }
+},
+{
+  slug: "glun-professional-makeup-brushes-13pc-brown",
+  category: "Skincare",
+  readTime: "2 min read",
+  badgeColor: "brown",
+  title: "GLUN® 13-Piece Professional Makeup Brushes Set (Brown)",
+  excerpt: "Complete travel makeup brush kit with cloth bag – foundation, powder, eyeshadow, blush and more for flawless pro looks.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/GLUN® Professional Makeup Brushes 13 Piece Set Brown Colour, Travel Makeup.jpg",
+  price: "₹170",
+  rating: 4.5,
+  ctaLabel: "Buy GLUN 13-Pc Brush Set",
+  ctaUrl: "https://amzn.to/4oDGVlt",
+  sections: {
+    intro: [
+      "GLUN® Professional 13-Piece Makeup Brushes Set in chic brown is your portable beauty studio – everything you need for face, eyes and brows packed in a roll-up cloth bag that fits your travel pouch."
+    ],
+    layout: [
+      "Synthetic bristles that pick up just the right product, slim ergonomic handles for precision control, includes foundation buffing brush, powder brush, angled blush, fluffy eyeshadow brushes, spoolie for brows and mini detail brushes."
+    ],
+    loves: [
+      "13 brushes cover full face + eye makeup – no gaps in your routine.",
+      "Brown handles look classy and pro without screaming 'beginner kit'.",
+      "Cloth roll-up bag keeps them organized and travel-ready.",
+      "Soft synthetic fibers work with liquid, cream and powder formulas."
+    ],
+    conclusion: [
+      "Level up your makeup game without the clutter. GLUN's 13-piece pro brush set gives you salon-quality tools in a compact travel bag – perfect for beginners building their kit or pros on the go."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oDGVlt",
+    text: "Shop GLUN Brush Set Now →"
+  }
+},
+{
+  slug: "elle18-color-pops-matte-lipstick-deep-pink",
+  category: "Skincare",
+  readTime: "2 min read",
+  badgeColor: "rose",
+  title: "Elle 18 Color Pops Matte Lipstick – Deep Pink (4.3g)",
+  excerpt: "Creamy matte bullet lipstick with Vitamin E, Jojoba Oil & Shea Butter – bold pigmentation in a vibrant deep pink shade.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/elle18.jpg",
+  price: "₹110",
+  rating: 4.5,
+  ctaLabel: "Buy Elle 18 Deep Pink Lipstick",
+  ctaUrl: "https://amzn.to/3KkAkyv",
+  sections: {
+    intro: [
+      "Elle 18 Color Pops Matte Lipstick in Deep Pink is the ultimate everyday bold lip – creamy on application, matte staying power and packed with skin-loving ingredients like Vitamin E, Jojoba Oil and Shea Butter."
+    ],
+    layout: [
+      "Bullet format glides smoothly without tugging, highly pigmented in 1 swipe, comfortable non-drying matte finish that lasts through meals, and the classic fruity Elle 18 scent everyone loves."
+    ],
+    loves: [
+      "Insane pigmentation – true-to-tube deep pink that suits medium to warm Indian tones perfectly.",
+      "Moisturizing formula with shea butter means no chapped lips even after hours.",
+      "Tiny 4.3g bullet is purse-perfect and travel-friendly.",
+      "₹200 price tag for drugstore quality that rivals high-end mattes."
+    ],
+    conclusion: [
+      "Your new daily driver. Elle 18 Color Pops Deep Pink gives you that confident pop of color with comfortable wear and unbeatable value – the lipstick every college bag needs."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3KkAkyv",
+    text: "Grab Elle 18 Deep Pink Now →"
+  }
+},
+{
+  title: "GLUN Professional Makeup Brushes 13 Piece Set",
+  price: "₹399",
+  image: "images/GLUN Professional Makeup Brushes 13 Piece Set Brown Colour.jpg",
+  link: "AFFILIATE_LINK",
+  category: "makeup"
+},
+{
+  title: "Lakme 9 to 5 CC Cream Mini",
+  price: "₹299",
+  image: "images/Lakme 9 to 5 CC Cream Mini.jpg",
+  link: "AFFILIATE_LINK", 
+  category: "makeup"
 }
 ]
