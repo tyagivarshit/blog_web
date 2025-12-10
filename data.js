@@ -4004,8 +4004,5 @@ const posts = [
     text: "Shop Buddha Statue Now →"
   }
 }
-
-
-
 ]
 
