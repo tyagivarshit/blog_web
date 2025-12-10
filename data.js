@@ -2833,7 +2833,7 @@ const posts = [
   date: "Dec 2025",
   author: "You",
   image: "./images/Ben Martin Baggy Jeans for Women.jpg",
-  price: "₹764",
+  price: "₹849",
   rating: 4.3,
   ctaLabel: "Buy Ben Martin Baggy Jeans",
   ctaUrl: "https://amzn.to/4iNWMwL",
@@ -3582,5 +3582,430 @@ const posts = [
     url: "https://amzn.to/4pZmJeS",
     text: "Shop Zacharias Winter Cap →"
   }
+},
+{
+  slug: "pinkmint-pure-cotton-34-sleeve-coord-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "pink",
+  title: "Pinkmint Pure Cotton Co-Ord Set for Women – 3/4 Sleeve Printed Top & Bottom",
+  excerpt: "Soft pure cotton printed co-ord with 3/4 sleeve top and matching bottoms – everyday comfort with cute, trendy vibes.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Pinkmint Pure Cotton Co Ord Set for Women.jpg",
+  price: "₹699",
+  rating: 4.3,
+  ctaLabel: "Buy Pinkmint Cotton Co-Ord Set",
+  ctaUrl: "https://amzn.to/4iPu3HB",
+  sections: {
+    intro: [
+      "Pinkmint’s Pure Cotton Co-Ord Set gives you a complete outfit in one pick – a printed 3/4 sleeve top and matching bottoms that feel like loungewear but look like a styled set.[web:388][web:602]"
+    ],
+    layout: [
+      "Made from breathable pure cotton, this set usually includes a relaxed-fit printed top with 3/4 sleeves and coordinated straight or wide-leg pants with an easy elastic waist, ideal for daily wear, travel and casual outings.[web:388][web:392]"
+    ],
+    loves: [
+      "Pure cotton keeps you cool and comfy through hot days and long hours outside.[web:388][web:392]",
+      "Co-ord design means you look put-together instantly, no matching stress.[web:388][web:392]",
+      "Budget-friendly at ~₹499 while looking like a much more expensive set, and both top and bottom can be mixed/matched with jeans, leggings or other kurtas.[web:396][web:400]"
+    ],
+    conclusion: [
+      "If you want an easy, trendy outfit for everyday wear that’s as comfortable as PJs but looks brunch-ready, this Pinkmint pure cotton printed co-ord set is a smart under-₹500 wardrobe add-on.[web:388][web:396][web:400]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4iPu3HB",
+    text: "Shop Pinkmint Cotton Co-Ord →"
+  }
+},
+{
+  slug: "pinkmint-pure-cotton-34-sleeve-coord-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "pink",
+  title: "Pinkmint Pure Cotton Co-Ord Set for Women – 3/4 Sleeve Printed Top & Bottom",
+  excerpt: "Soft pure cotton printed co-ord with 3/4 sleeve top and matching bottoms – everyday comfort with cute, trendy vibes.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Pinkmint Women's Pure Cotton Co Ord Set.jpg",
+  price: "₹699",
+  rating: 4.3,
+  ctaLabel: "Buy Pinkmint Cotton Co-Ord Set",
+  ctaUrl: "https://amzn.to/48Lbobg",
+  sections: {
+    intro: [
+      "Pinkmint’s Pure Cotton Co-Ord Set gives you a complete outfit in one pick – a printed 3/4 sleeve top and matching bottoms that feel like loungewear but look like a styled set.[web:388][web:602]"
+    ],
+    layout: [
+      "Made from breathable pure cotton, this set usually includes a relaxed-fit printed top with 3/4 sleeves and coordinated straight or wide-leg pants with an easy elastic waist, ideal for daily wear, travel and casual outings.[web:388][web:392]"
+    ],
+    loves: [
+      "Pure cotton keeps you cool and comfy through hot days and long hours outside.[web:388][web:392]",
+      "Co-ord design means you look put-together instantly, no matching stress.[web:388][web:392]",
+      "Budget-friendly at ~₹499 while looking like a much more expensive set, and both top and bottom can be mixed/matched with jeans, leggings or other kurtas.[web:396][web:400]"
+    ],
+    conclusion: [
+      "If you want an easy, trendy outfit for everyday wear that’s as comfortable as PJs but looks brunch-ready, this Pinkmint pure cotton printed co-ord set is a smart under-₹500 wardrobe add-on.[web:388][web:396][web:400]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48Lbobg",
+    text: "Shop Pinkmint Cotton Co-Ord →"
+  }
+},
+{
+  slug: "pistaa-women-cotton-printed-night-suit-top-pajama-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "lavender",
+  title: "Pistaa’s Women’s Cotton Printed Night Suit – Top & Pajama Set",
+  excerpt: "Soft cotton printed night suit with relaxed top and pajama – cute, breathable and perfect for cozy nights in.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Pistaa's Women's Cotton Printed Night Suit Top And Pajama Set.jpg",
+  price: "₹742",
+  rating: 4.4,
+  ctaLabel: "Buy Pistaa’s Cotton Night Suit",
+  ctaUrl: "https://amzn.to/4oKjFlW",
+  sections: {
+    intro: [
+      "Pistaa’s Women’s Cotton Printed Night Suit Top and Pajama Set is made for comfort-first nights – soft cotton fabric, cute prints and an easy relaxed fit you’ll want to live in. [web:608][web:609][web:614]"
+    ],
+    layout: [
+      "Pure cotton printed top with half or 3/4 sleeves and a relaxed neckline, paired with matching straight-fit pyjama bottoms with an elastic waist, giving full coverage and ease of movement for sleeping or lounging. [web:608][web:609][web:614]"
+    ],
+    loves: [
+      "Cotton fabric keeps it breathable and gentle on skin, especially in Indian weather. [web:608][web:609]",
+      "Fun colours like indigo, sky blue and black printed designs add a bit of style to your bedtime look. [web:608][web:609][web:614]",
+      "Relaxed but not baggy fit makes it nice enough for homestays, trips and staying over at relatives’ homes as well. [web:611][web:615]"
+    ],
+    conclusion: [
+      "If you want a night suit that is actually soft, airy and still looks cute in pictures, Pistaa’s cotton printed top-and-pajama set is a great pick in the ₹600–₹800 range for everyday and travel nightwear. [web:612][web:613][web:608]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oKjFlW",
+    text: "Shop Pistaa’s Cotton Night Suit →"
+  }
+},
+{
+  slug: "leriya-fashion-paisley-shirt-wideleg-coord-set",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "indigo",
+  title: "Leriya Fashion Paisley Co-Ord Set – Short Sleeve Shirt & Wide-Leg Pants",
+  excerpt: "Paisley-printed co-ord with short-sleeve shirt and wide-leg trousers – perfect airport, travel and winter-casual outfit for women.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Leriya Fashion Co Ord Set for Women Stylish.jpg",
+  price: "₹758",
+  rating: 4.4,
+  ctaLabel: "Buy Leriya Fashion Paisley Co-Ord Set",
+  ctaUrl: "https://amzn.to/4q4NTRR",
+  sections: {
+    intro: [
+      "Leriya Fashion’s Co-Ord Set with short sleeve shirt and wide-leg pants is a paisley-printed travel cord designed to look like a stylish winter outfit while feeling as relaxed as loungewear. [web:616][web:617][web:619]"
+    ],
+    layout: [
+      "The set typically pairs a button-down, short sleeve (or half-sleeve) shirt with collar and all-over paisley print, with matching high-waist wide-leg pants, creating a coordinated silhouette that works for airport looks, brunch and casual evenings. [web:616][web:617][web:620]"
+    ],
+    loves: [
+      "Paisley print gives a boho-chic, dressy vibe while still being casual enough for daily wear. [web:616][web:620]",
+      "Wide-leg pants are comfy for long travel hours and still look very put-together with sneakers or block heels. [web:617][web:619]",
+      "Being a co-ord, top and bottom can also be styled separately – shirt with jeans, pants with crop tops – giving multiple outfits from one set. [web:616][web:620]"
+    ],
+    conclusion: [
+      "If you’re looking for a trendy travel and winter-casual outfit that needs zero styling effort, this paisley printed Leriya Fashion shirt & wide-leg pant co-ord is a great under‑₹500–₹700 pick during sales. [web:617][web:619][web:620]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4q4NTRR",
+    text: "Shop Leriya Fashion Paisley Co-Ord →"
+  }
+},
+{
+  slug: "pinkmint-pure-cotton-34-sleeve-coord-set-white",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "pink",
+  title: "Pinkmint Pure Cotton Co-Ord Set for Women – 3/4 Sleeve Printed (White)",
+  excerpt: "Soft white pure cotton printed co-ord with 3/4 sleeve top and matching bottoms – fresh, comfy and perfect for daily wear.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Pinkmint Pure Cotton Co Ord Set for Women_01.jpg",
+  price: "₹699",
+  rating: 4.3,
+  ctaLabel: "Buy Pinkmint White Cotton Co-Ord",
+  ctaUrl: "https://amzn.to/44YOdcs",
+  sections: {
+    intro: [
+      "The white Pinkmint Pure Cotton Co-Ord Set gives you that clean, fresh look – a 3/4 sleeve printed top and matching bottoms in breathable cotton, made for everyday comfort with a trendy co-ord vibe.[web:388][web:392][web:604]"
+    ],
+    layout: [
+      "Crafted from pure cotton, the set includes a relaxed-fit white printed top with 3/4 sleeves and coordinated straight or wide-leg pants with an elastic waist, ideal for summer days, café runs and casual office wear.[web:388][web:392]"
+    ],
+    loves: [
+      "White base with subtle print feels very light, airy and easy to accessorise with colourful bags or jewellery.[web:388][web:604]",
+      "Pure cotton keeps it cool and skin-friendly for all-day wear in Indian weather.[web:388][web:392]",
+      "At ~₹499, you get a full matching outfit that can also be mixed: top with jeans, pants with solid tees or kurtis.[web:396][web:400]"
+    ],
+    conclusion: [
+      "If you want a comfy yet polished everyday outfit that looks effortlessly put-together, the Pinkmint white pure cotton 3/4 sleeve co-ord set is a great under-₹500 option to add to your casual wardrobe.[web:388][web:396][web:604]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/44YOdcs",
+    text: "Shop Pinkmint White Co-Ord →"
+  }
+},
+{
+  slug: "oneplus-nord-buds-3r-ash-black",
+  category: "Electronics",
+  readTime: "2 min read",
+  badgeColor: "teal",
+  title: "OnePlus Nord Buds 3r TWS – Ash Black (54H Playback, 3D Audio, AI Features)",
+  excerpt: "Budget TWS with 54-hour battery, 12.4 mm titanium drivers, 3D spatial audio, dual-device connectivity and AI translation – tuned for music, calls and gaming.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/OnePlus Nord Buds 3r TWS Earbuds up to 54 Hours Playback, 2-mic Clear Calls, 3D Spatial Audio, AI Translation, 12.4mm Drivers, Dual-Device Connectivity, 47ms Low Latency - Ash Black.jpg",
+  price: "₹1,599",
+  rating: 4.4,
+  ctaLabel: "Buy OnePlus Nord Buds 3r – Ash Black",
+  ctaUrl: "https://amzn.to/4pBUYJQ",
+  sections: {
+    intro: [
+      "OnePlus Nord Buds 3r in Ash Black are feature-packed budget TWS earbuds offering up to 54 hours playback, powerful 12.4 mm titanium drivers, 3D spatial audio and AI extras like real-time translation. [web:627][web:634][web:640]"
+    ],
+    soundAndBattery: [
+      "Equipped with 12.4 mm titanium-coated dynamic drivers, they deliver deep bass and clear details, with Sound Master EQ (3 presets + 6-band custom EQ) and OnePlus 3D Audio for immersive, 360‑style sound. [web:628][web:634][web:635]",
+      "Battery life is about 12 hours on the buds alone and up to 54 hours with the case; a 10-minute fast charge gives roughly 8 hours of playback, making them ideal for travel and long work days. [web:628][web:632][web:640]"
+    ],
+    smartAndConnectivity: [
+      "They support Bluetooth 5.4, dual-device connectivity, Google Fast Pair and a 47 ms low-latency mode for smoother gaming and video. [web:628][web:634][web:635]",
+      "Extras include AI call noise cancellation with dual mics, IP55 dust/water resistance, Find My Earbuds, tap gestures (including Tap 2 Take Photo) and AI Translation on supported OnePlus phones. [web:628][web:633][web:635][web:634]"
+    ],
+    idealFor: [
+      "Best suited if you want a sub‑₹2,000 TWS that balances strong bassy sound, long battery, clear calls and gaming-friendly latency, especially within the OnePlus ecosystem. [web:628][web:634][web:644]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pBUYJQ",
+    text: "Shop OnePlus Nord Buds 3r →"
+  }
+},
+{
+  slug: "odonil-room-air-freshener-440ml-combo-lavender-jasmine",
+  category: "Home needs",
+  readTime: "2 min read",
+  badgeColor: "purple",
+  title: "Odonil Air Freshener Room Spray Combo – Lavender Mist & Jasmine Fresh (2 x 220 ml, 440 ml)",
+  excerpt: "Nature-inspired lavender and jasmine room sprays that give instant, long-lasting freshness for home and office.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Odonil Air Freshener Room Spray - 440 ml Combo (Pack of 2, 220ml each).jpg",
+  price: "₹199",
+  rating: 4.4,
+  ctaLabel: "Buy Odonil Lavender & Jasmine Combo",
+  ctaUrl: "https://amzn.to/4oHRwMf",
+  sections: {
+    intro: [
+      "The Odonil Air Freshener Room Spray 440 ml Combo pairs Lavender Mist and Jasmine Fresh, giving you two classic nature-inspired fragrances to instantly freshen bedrooms, living rooms and offices.[web:646][web:648][web:649]"
+    ],
+    features: [
+      "Each can is 220 ml (total 440 ml) in an easy aerosol spray that delivers fine mist coverage and is designed to neutralise bad odours while leaving a long-lasting floral scent in the room.[web:646][web:648][web:650]",
+      "Lavender Mist leans calming and soothing for bedrooms, while Jasmine Fresh is brighter and ideal for living rooms or workspaces; the range is part of Odonil’s 7-fragrance spray line including citrus, rose and ocean variants.[web:646][web:650][web:651]"
+    ],
+    usage: [
+      "Best used in short bursts in the air (not on fabrics) with doors and windows partly open to spread evenly; suitable for homes, small offices and reception areas.[web:648][web:650]",
+      "Because it is a pressurised aerosol, it should be kept away from direct heat and sprayed from a distance, as per typical room freshener safety directions.[web:648][web:650]"
+    ],
+    idealFor: [
+      "This combo suits you if you want inexpensive, hassle-free sprays that can quickly refresh multiple rooms with familiar floral scents rather than strong perfumey or incense-style fragrances.[web:646][web:648][web:650]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4oHRwMf",
+    text: "Shop Odonil Lavender & Jasmine Spray →"
+  }
+},
+{
+  slug: "odonil-bathroom-zipper-mix-50g-10x5",
+  category: "Home needs",
+  readTime: "2 min read",
+  badgeColor: "blue",
+  title: "Odonil Bathroom Air Freshener Zipper Mix – 50 g (10 g x 5, Assorted Pack)",
+  excerpt: "Hanging zipper blocks for bathroom and toilet that give instant, long-lasting fragrance and germ-protection feel for up to 30 days.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Odonil Bathroom Air Freshener Zipper Mix - 50g (10gx5).jpg",
+  price: "₹200",
+  rating: 4.4,
+  ctaLabel: "Buy Odonil Bathroom Zipper Mix (5 Pack)",
+  ctaUrl: "https://amzn.to/3YloKpY",
+  sections: {
+    intro: [
+      "Odonil Bathroom Air Freshener Zipper Mix is a 5-pack of 10 g hanging blocks (total 50 g) designed specifically for bathrooms and toilets, giving instant and long-lasting fragrance with an easy zipper-style hanger.[web:656][web:659][web:662]"
+    ],
+    features: [
+      "Each 10 g zipper block comes in assorted fragrances like Jasmine, Lavender, Citrus, Daffodil and Rose, using odour-buster technology to fight bad smells and keep small spaces fresh for up to about 30 days per block.[web:659][web:661][web:663]",
+      "The blocks are compact gel-style air fresheners made in India, intended for normal indoor temperatures and easy hanging on hooks, flush tanks or door handles without needing electricity or sprays.[web:656][web:660][web:665]"
+    ],
+    usage: [
+      "Ideal for bathrooms, toilets, small wash areas, and even under-sink cabinets; just tear open the outer pack and hang the zipper unit where air can circulate.[web:659][web:661]",
+      "Each block is single-use and should be replaced roughly every month or when fragrance fades, making the 5-pack suitable for multi-bathroom homes or 4–5 months of use in a single bathroom.[web:656][web:659]"
+    ],
+    idealFor: [
+      "Best if you want a low-maintenance, non-spray solution that continuously releases a mild fragrance and helps control malodour in bathrooms without daily effort.[web:659][web:661]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3YloKpY",
+    text: "Shop Odonil Bathroom Zipper Mix →"
+  }
+},
+{
+  slug: "beloxy-2in1-stainless-steel-vegetable-peeler-silver",
+  category: "Home needs",
+  readTime: "2 min read",
+  badgeColor: "silver",
+  title: "BELOXY 2-in-1 Stainless Steel Vegetable Peeler & Julienne Slicer (Silver)",
+  excerpt: "Dual-blade stainless steel peeler with straight and julienne sides – quickly peels and shreds veggies like potatoes, carrots and cucumbers.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/BELOXY 2 in 1 Stainless Steel Vegetable Peeler Multi-Functional Fruit & Veggie Shredder Slicer and Grater for Potatoes, Carrots, Cucumbers (Silver).jpg",
+  price: "₹229",
+  rating: 4.3,
+  ctaLabel: "Buy BELOXY 2-in-1 Veg Peeler",
+  ctaUrl: "https://amzn.to/44hf7fx",
+  sections: {
+    intro: [
+      "The BELOXY 2-in-1 Stainless Steel Vegetable Peeler is a compact Y-shaped tool that works both as a regular peeler and a julienne slicer for fruits and vegetables. [web:667][web:670][web:672]"
+    ],
+    features: [
+      "It has two ultra-sharp stainless steel blades: one straight edge for smooth peeling and one serrated/julienne edge for shredding veggies into thin strips, useful for salads, garnishes and zucchini noodles. [web:667][web:670][web:674]",
+      "Made from stainless steel with an ergonomic Y-shaped design, it is rust-resistant, lightweight, dishwasher-safe and suitable for potatoes, carrots, cucumbers, apples and melons. [web:670][web:672][web:675]"
+    ],
+    usage: [
+      "Hold firmly by the handle and glide the straight blade along the surface to peel; flip to the julienne side to create uniform matchstick strips for stir-fries or salads. [web:670][web:672]",
+      "Because the blades are sharp, it is recommended to store safely and keep away from children, and rinse or dishwash soon after use to maintain edge performance. [web:670][web:671]"
+    ],
+    idealFor: [
+      "Best for home cooks who want one small tool that can both peel and julienne vegetables, saving drawer space compared to separate peelers and slicers. [web:667][web:670]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/44hf7fx",
+    text: "Shop BELOXY 2-in-1 Peeler →"
+  }
+},
+{
+  slug: "solimo-15in1-stainless-steel-veg-fruit-chopper-green",
+  category: "Home needs",
+  readTime: "2 min read",
+  badgeColor: "green",
+  title: "Amazon Brand – Solimo 15-in-1 Stainless Steel Multipurpose Vegetable & Fruit Chopper (Green)",
+  excerpt: "Manual 15-in-1 chopper with interchangeable stainless steel blades for chopping, dicing, slicing, grating and shredding fruits and vegetables.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Amazon Brand - Solimo 15-in-1 Stainless Steel Multipurpose Vegetable and Fruit Chopper, Green.jpg",
+  price: "₹584",
+  rating: 4.4,
+  ctaLabel: "Buy Solimo 15-in-1 Veg & Fruit Chopper",
+  ctaUrl: "https://amzn.to/4rQ1HkJ",
+  sections: {
+    intro: [
+      "The Amazon Brand – Solimo 15-in-1 Stainless Steel Multipurpose Vegetable & Fruit Chopper is a manual all-in-one prep station that chops, slices, grates and dices without electricity. [web:680][web:681]"
+    ],
+    features: [
+      "It comes with a plastic base container and multiple interchangeable stainless steel blades: thin and thick slicers, tomato slicer, French fries cutter, thin and thick graters, three dicer sizes (small/medium/big), shredder blade, along with mango peeler, safety holder, masher, handle with cleaning press and peeler with grater/dry-fruit slicer. [web:680][web:679]",
+      "Non-skid rubber base keeps it steady, the large break-resistant container can store chopped produce in the fridge, and an advanced push-and-clean button is provided for easier, more hygienic cleaning. All food-contact parts are food-safe. [web:680][web:684]"
+    ],
+    usage: [
+      "Ideal for onions, tomatoes, potatoes, cucumbers, carrots, fruits and salad veggies; choose the blade, place produce on it and press with the lid/holder to chop directly into the container. [web:680][web:679]",
+      "Because blades are sharp and there are many loose parts, it works best if you assemble/disassemble carefully and hand-wash soon after use to maintain sharpness and avoid staining. [web:680][web:684]"
+    ],
+    idealFor: [
+      "Great pick if you batch-prep sabzi, salads or meal preps and want to cut down chopping time without using an electric chopper, especially in small kitchens or for offline/backup use. [web:680][web:681]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4rQ1HkJ",
+    text: "Shop Solimo 15-in-1 Chopper →"
+  }
+},
+{
+  slug: "artvibes-wh6603n-mdf-wall-art-set6",
+  category: "Home needs",
+  readTime: "2 min read",
+  badgeColor: "gold",
+  title: "Artvibes WH_6603N MDF Wooden Wall Hanger Set (6 Pieces)",
+  excerpt: "Modern decorative MDF wooden wall art panels for living room or bedroom – lightweight, ready-to-hang home decor set.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Artvibes Home Decorative Wall Art MDF Wooden Wall Hanger for Living room.jpg",
+  price: "₹228",
+  rating: 4.3,
+  ctaLabel: "Buy Artvibes Wall Art Set (6 Pc)",
+  ctaUrl: "https://amzn.to/48N0DW2",
+  sections: {
+    intro: [
+      "Artvibes Home Decorative Wall Art (WH_6603N) is a set of 6 MDF wooden wall hangers designed as modern artworks for living rooms, bedrooms or offices."
+    ],
+    layout: [
+      "Handcrafted from engineered wood (MDF) with digital prints or carvings, each piece measures around 12x31 inches total assembled (78L x 30W cm), lightweight at ~250g, portrait orientation with pre-drilled hanging holes."
+    ],
+    loves: [
+      "Affordable way to add artistic wall interest without heavy canvases or frames.",
+      "Multi-panel set creates gallery-wall effect easily, versatile for modern/minimalist spaces.",
+      "MDF construction is durable, water-resistant and easy to clean with a soft cloth."
+    ],
+    conclusion: [
+      "Perfect starter decor set for new apartments, rental spaces or gifting – transforms blank walls into stylish focal points without permanent installation."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/48N0DW2",
+    text: "Shop Artvibes Wall Art Set →"
+  }
+},
+{
+  slug: "global-grabbers-meditating-buddha-statue-orange-black",
+  category: "Home needs",
+  readTime: "2 min read",
+  badgeColor: "orange",
+  title: "Global Grabbers 25cm Meditating Buddha Statue – Orange Black (WH_6603N Style)",
+  excerpt: "Polyresin sitting Buddha showpiece for living room decor – peaceful meditation pose in vibrant orange-black finish.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Global Grabbers New 25 Centimetre Meditating Sitting Buddha Statue showpiece Idol Home Decor Items for Living Room and Gifts (1, Orange Black).jpg",
+  price: "₹379.",
+  rating: 4.4,
+  ctaLabel: "Buy Global Grabbers Buddha Statue",
+  ctaUrl: "https://amzn.to/3KUmnYb",
+  sections: {
+    intro: [
+      "Global Grabbers New 25 Centimetre Meditating Sitting Buddha Statue is a handcrafted polyresin showpiece featuring the classic meditation pose – perfect focal point for living rooms, pooja corners or as housewarming gifts."
+    ],
+    layout: [
+      "Measuring approximately 25 cm tall (18.5L x 8W x 25H cm), weighs around 500-700g with orange-black finish that gives a modern-traditional vibe, suitable for tabletops, shelves or wall-ledges in bedrooms and offices."
+    ],
+    loves: [
+      "Vibrant orange-black color combo stands out against white/neutral walls.",
+      "Polyresin construction is durable, lightweight and easy to dust/clean.",
+      "Compact 25cm size fits small apartments without overwhelming the space.",
+      "Symbolizes peace and prosperity – ideal Diwali, housewarming or spiritual gifting."
+    ],
+    conclusion: [
+      "Elevate your home decor with this striking meditating Buddha statue. The Global Grabbers 25cm orange-black showpiece brings calm energy and artistic flair to any living space or makes thoughtful gifting."
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/3KUmnYb",
+    text: "Shop Buddha Statue Now →"
+  }
 }
+
+
+
 ]
+
