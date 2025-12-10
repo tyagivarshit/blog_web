@@ -3494,17 +3494,93 @@ const posts = [
   }
 },
 {
-  title: "GLUN Professional Makeup Brushes 13 Piece Set",
+  slug: "zacharias-girls-woolen-fur-cap-jy1017-12-16y",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "teal",
+  title: "Zacharias Girls’ Winter Woolen Fur Cap (jy-1017, 12–16 Years)",
+  excerpt: "Soft woolen beanie-style cap with faux fur detailing – cozy winter essential for teen girls.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Zacharias Girl's Kids Winter Woolen Fur Kids Cap.jpg",
   price: "₹399",
-  image: "images/GLUN Professional Makeup Brushes 13 Piece Set Brown Colour.jpg",
-  link: "AFFILIATE_LINK",
-  category: "makeup"
+  rating: 4.3,
+  ctaLabel: "Buy Zacharias Woolen Fur Cap",
+  ctaUrl: "https://amzn.to/4a3W4Jn",
+  sections: {
+    intro: [
+      "The Zacharias Girls' Winter Woolen Fur Cap (jy-1017) is a cozy, cute winter hat designed for older kids and teens aged roughly 12–16 years, perfect for school, outings and trips in cold weather. [web:592][web:596]"
+    ],
+    layout: [
+      "Made from soft wool/acrylic knit with inner lining and faux-fur styling, it follows a beanie/skull-cap shape that fits snugly on the head, keeping ears and forehead warm during chilly days. [web:592][web:596]"
+    ],
+    highlight: [
+      "Ideal for winter mornings, hill-station travel and casual wear, this cap combines warmth with playful design elements like pom‑poms or fur accents seen across Zacharias’ kids winter range. [web:592][web:596]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4a3W4Jn",
+    text: "Shop Zacharias Winter Cap →"
+  }
 },
 {
-  title: "Lakme 9 to 5 CC Cream Mini",
-  price: "₹299",
-  image: "images/Lakme 9 to 5 CC Cream Mini.jpg",
-  link: "AFFILIATE_LINK", 
-  category: "makeup"
+  slug: "zacharias-girls-woolen-fur-cap-jy1017-12-16y",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "teal",
+  title: "Zacharias Girls’ Winter Woolen Fur Cap (jy-1017, 12–16 Years)",
+  excerpt: "Soft woolen beanie-style cap with faux fur detailing – cozy winter essential for teen girls.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/Lunavi Rainbow Color Adorable Bunny Moving Ear Earmuffs for Kids.jpg",
+  price: "₹448",
+  rating: 4.3,
+  ctaLabel: "Buy Zacharias Woolen Fur Cap",
+  ctaUrl: "https://amzn.to/4rVzF7B",
+  sections: {
+    intro: [
+      "The Zacharias Girls' Winter Woolen Fur Cap (jy-1017) is a cozy, cute winter hat designed for older kids and teens aged roughly 12–16 years, perfect for school, outings and trips in cold weather. [web:592][web:596]"
+    ],
+    layout: [
+      "Made from soft wool/acrylic knit with inner lining and faux-fur styling, it follows a beanie/skull-cap shape that fits snugly on the head, keeping ears and forehead warm during chilly days. [web:592][web:596]"
+    ],
+    highlight: [
+      "Ideal for winter mornings, hill-station travel and casual wear, this cap combines warmth with playful design elements like pom‑poms or fur accents seen across Zacharias’ kids winter range. [web:592][web:596]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4rVzF7B",
+    text: "Shop Zacharias Winter Cap →"
+  }
+},
+{
+  slug: "zacharias-girls-woolen-fur-cap-jy1017-12-16y",
+  category: "Fashion",
+  readTime: "2 min read",
+  badgeColor: "teal",
+  title: "Zacharias Girls’ Winter Woolen Fur Cap (jy-1017, 12–16 Years)",
+  excerpt: "Soft woolen beanie-style cap with faux fur detailing – cozy winter essential for teen girls.",
+  date: "Dec 2025",
+  author: "You",
+  image: "./images/FabSeasons Winter Premium Outdoor Wear Ear Muffs.jpg",
+  price: "₹425",
+  rating: 4.3,
+  ctaLabel: "Buy Zacharias Woolen Fur Cap",
+  ctaUrl: "https://amzn.to/4pZmJeS",
+  sections: {
+    intro: [
+      "The Zacharias Girls' Winter Woolen Fur Cap (jy-1017) is a cozy, cute winter hat designed for older kids and teens aged roughly 12–16 years, perfect for school, outings and trips in cold weather. [web:592][web:596]"
+    ],
+    layout: [
+      "Made from soft wool/acrylic knit with inner lining and faux-fur styling, it follows a beanie/skull-cap shape that fits snugly on the head, keeping ears and forehead warm during chilly days. [web:592][web:596]"
+    ],
+    highlight: [
+      "Ideal for winter mornings, hill-station travel and casual wear, this cap combines warmth with playful design elements like pom‑poms or fur accents seen across Zacharias’ kids winter range. [web:592][web:596]"
+    ]
+  },
+  cta: {
+    url: "https://amzn.to/4pZmJeS",
+    text: "Shop Zacharias Winter Cap →"
+  }
 }
 ]
