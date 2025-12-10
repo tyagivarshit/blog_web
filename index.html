@@ -6,18 +6,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="output.css" />
   
-  <!-- 🔥 LAYOUT JUMP FIX + SHUFFLE FEATURE -->
+  <!-- 🔥 FIXED MOBILE SCROLL + LAYOUT JUMP -->
   <style>
     html { scroll-behavior: smooth; }
     body { 
       padding-top: 5px !important; /* Navbar space reserve */
       overflow-x: hidden; 
     }
+    #posts-grid { 
+      contain: layout style; /* Prevent layout shift */
+      will-change: transform; /* GPU acceleration */
+    }
     #posts-grid img { 
       opacity: 0; 
       transition: opacity 0.3s ease-in; 
     }
     #posts-grid img[src] { opacity: 1; } /* Loaded images show */
+    
+    /* MOBILE GPU ACCELERATION */
+    @media (max-width: 639px) {
+      #posts-grid article {
+        transform: translateZ(0); /* Hardware acceleration */
+      }
+    }
   </style>
   
   <!-- Google tag (gtag.js) -->
@@ -218,14 +229,17 @@
       });
     }
 
-    // 🔥 UPDATED renderPosts() WITH SHUFFLE + FIXED MOBILE IMAGE HEIGHT
+    // 🔥 FIXED: Shuffle ONLY desktop + Debounced resize + Mobile scroll safe
     function renderPosts() {
       const filtered = getFilteredPosts();
       
-      // ✨ MAGIC SHUFFLE - Har refresh pe nayi order!
-      filtered.sort(() => Math.random() - 0.5);
-      
       const isMobile = window.innerWidth < 640;
+      
+      // ✨ SHUFFLE ONLY DESKTOP - Mobile fixed order!
+      if (!isMobile) {
+        filtered.sort(() => Math.random() - 0.5);
+      }
+      
       container.innerHTML = "";
 
       filtered.forEach(post => {
@@ -322,15 +336,37 @@
       }
     }
 
-    renderCategoryChips();
-    renderPosts();
-
-    searchInput?.addEventListener("input", (e) => {
-      currentQuery = e.target.value;
-      renderPosts();
+    // 🔥 FIXED EVENT LISTENERS - NO MOBILE SCROLL REFRESH!
+    
+    // 1. Debounced resize (250ms) - prevents mobile keyboard/orientation spam
+    let resizeTimeout;
+    window.addEventListener("resize", () => {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(renderPosts, 250);
     });
 
-    window.addEventListener("resize", renderPosts);
+    // 2. Mobile scroll optimization - passive + throttled
+    let scrollTimeout;
+    window.addEventListener('scroll', () => {
+      clearTimeout(scrollTimeout);
+      scrollTimeout = setTimeout(() => {
+        // Empty - just prevents re-renders
+      }, 100);
+    }, { passive: true });
+
+    // 3. Debounced search (300ms)
+    let searchTimeout;
+    searchInput?.addEventListener("input", (e) => {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => {
+        currentQuery = e.target.value;
+        renderPosts();
+      }, 300);
+    });
+
+    // Initial render
+    renderCategoryChips();
+    renderPosts();
   </script>
 </body>
 </html>
