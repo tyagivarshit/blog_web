@@ -4003,6 +4003,43 @@ const posts = [
     url: "https://amzn.to/3KUmnYb",
     text: "Shop Buddha Statue Now →"
   }
+},
+{
+  "slug": "taj-printed-rayon-kurti-women",
+  "category": "Clothing",
+  "readTime": "2 min read",
+  "badgeColor": "indigo",
+  "title": "Taj Printed Rayon Kurti for Women – Flared Ankle Length Ethnic Wear",
+  "excerpt": "Breathable rayon printed kurti with three-quarter sleeves, floral pintuck design – perfect for daily casual and party wear.[attached_file:1][web:23]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/myra petite kurtis.jpg",
+  "price": "₹223 onwards (XS–5XL sizes available).[web:23][web:24]",
+  "rating": 4.1,
+  "ctaLabel": "Buy Taj Kurti",
+  "ctaUrl": "https://www.meesho.com/af_invite/527443549:instagram_stories:1284188?p_id=392458573&ext_id=6hnqz1&utm_source=instagram_stories",
+  "sections": {
+    "features": [
+      "Flared ankle-length fit with round neck and three-quarter sleeves for comfortable movement.[web:23]",
+      "Floral printed rayon fabric – lightweight, breathable and easy to style with jeans or palazzo.[attached_file:4][web:23]",
+      "Pintucks and regular stitched design add subtle elegance for office or casual outings.[web:23]"
+    ],
+    "pros": [
+      "All sizes from XS (36\" bust) to 5XL with consistent 44–48\" length – inclusive sizing.[web:23]",
+      "Affordable under ₹250 with Meesho's easy returns and COD.[attached_file:1]"
+    ],
+    "cons": [
+      "Colors like pink may vary slightly in lighting; check size chart for perfect fit.[web:23]",
+      "Single piece (no bottom/dupatta included) – pair with your favorites.[web:23]"
+    ],
+    "conclusion": [
+      "Taj rayon printed kurti delivers everyday ethnic style at budget price – ideal for your wardrobe rotation with kurtis collection on Meesho.[web:23][attached_file:3]"
+    ]
+  },
+  "cta": {
+    "url": "https://www.meesho.com/af_invite/527443549:instagram_stories:1284188?p_id=392458573&ext_id=6hnqz1&utm_source=instagram_stories",
+    "text": "Shop Taj Printed Rayon Kurti → [attached_file:2]"
+  }
 }
 ]
 
