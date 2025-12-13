@@ -4040,6 +4040,154 @@ const posts = [
     "url": "https://www.meesho.com/af_invite/527443549:instagram_stories:1284188?p_id=392458573&ext_id=6hnqz1&utm_source=instagram_stories",
     "text": "Shop Taj Printed Rayon Kurti → [attached_file:2]"
   }
+},
+{
+  "slug": "designer-georgette-hotfix-stone-saree-blouse",
+  "category": "Fashion",
+  "readTime": "2 min read",
+  "badgeColor": "indigo",
+  "title": "Designer Georgette Saree with Hot-Fix Stone Work & Blouse Piece",
+  "excerpt": "Premium georgette saree featuring sparkling hot-fix stones, ideal for party wear, weddings and festive occasions with matching unstitched blouse piece.[web:43][web:44]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Designer Georgette Saree with Hot-Fix Stone Work & Blouse Piece.avif",
+  "price": "₹316",
+  "rating": 4.2,
+  "ctaLabel": "Buy Designer Georgette Saree",
+  "ctaUrl": "https://www.meesho.com/af_invite/527443549:instagram_stories:1284308?p_id=652556691&ext_id=asijyr&utm_source=instagram_stories",
+  "sections": {
+    "features": [
+      "Lightweight georgette fabric with intricate hot-fix diamond/stone embellishments for glamorous shine.[web:44][web:45]",
+      "Includes separate unstitched blouse piece (chiffon/art silk) – customizable to your measurements.[web:47][web:48]",
+      "Free size (5.3m saree + 0.8m blouse) suits most body types, perfect for party and wedding season.[web:43]"
+    ],
+    "pros": [
+      "Budget luxury under ₹500 with Meesho's COD, free delivery and 7-day returns.[web:43][attached_file:1]",
+      "Stones catch light beautifully for evening events; flows elegantly without heavy weight.[web:47][web:55]"
+    ],
+    "cons": [
+      "Delicate stone work needs gentle handling; avoid machine wash – dry clean recommended.[web:47]",
+      "Colors (black, red, coffee) may vary slightly; check lighting in photos for accuracy.[web:46][web:48]"
+    ],
+    "conclusion": [
+      "This designer georgette hot-fix stone saree delivers Bollywood glamour at everyday prices – perfect addition to your festive ethnic collection from Meesho.[web:43][web:45]"
+    ]
+  },
+  "cta": {
+    "url": "https://www.meesho.com/af_invite/527443549:instagram_stories:1284308?p_id=652556691&ext_id=asijyr&utm_source=instagram_stories",
+    "text": "Shop Hot-Fix Georgette Saree →[attached_file:1]"
+  }
+},
+{
+  "slug": "designer-georgette-hotfix-stone-saree-blouse",
+  "category": "Fashion",
+  "readTime": "2 min read",
+  "badgeColor": "indigo",
+  "title": "Designer Georgette Saree with Hot-Fix Stone Work & Blouse Piece",
+  "excerpt": "Premium georgette saree featuring sparkling hot-fix stones, ideal for party wear, weddings and festive occasions with matching unstitched blouse piece.[web:43][web:44]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/New design fancy saree with Hand work party wear.avif",
+  "price": "₹338",
+  "rating": 4.2,
+  "ctaLabel": "Buy Designer Georgette Saree",
+  "ctaUrl": "https://www.meesho.com/af_invite/527443549:instagram_stories:1284326?p_id=583229767&ext_id=9n8myv&utm_source=instagram_stories",
+  "sections": {
+    "features": [
+      "Lightweight georgette fabric with intricate hot-fix diamond/stone embellishments for glamorous shine.[web:44][web:45]",
+      "Includes separate unstitched blouse piece (chiffon/art silk) – customizable to your measurements.[web:47][web:48]",
+      "Free size (5.3m saree + 0.8m blouse) suits most body types, perfect for party and wedding season.[web:43]"
+    ],
+    "pros": [
+      "Budget luxury under ₹500 with Meesho's COD, free delivery and 7-day returns.[web:43][attached_file:1]",
+      "Stones catch light beautifully for evening events; flows elegantly without heavy weight.[web:47][web:55]"
+    ],
+    "cons": [
+      "Delicate stone work needs gentle handling; avoid machine wash – dry clean recommended.[web:47]",
+      "Colors (black, red, coffee) may vary slightly; check lighting in photos for accuracy.[web:46][web:48]"
+    ],
+    "conclusion": [
+      "This designer georgette hot-fix stone saree delivers Bollywood glamour at everyday prices – perfect addition to your festive ethnic collection from Meesho.[web:43][web:45]"
+    ]
+  },
+  "cta": {
+    "url": "https://www.meesho.com/af_invite/527443549:instagram_stories:1284326?p_id=583229767&ext_id=9n8myv&utm_source=instagram_stories",
+    "text": "Shop Hot-Fix Georgette Saree →[attached_file:1]"
+  }
+},
+{
+  "slug": "designer-georgette-hotfix-stone-saree-blouse",
+  "category": "Fashion",
+  "readTime": "2 min read",
+  "badgeColor": "indigo",
+  "title": "Designer Georgette Saree with Hot-Fix Stone Work & Blouse Piece",
+  "excerpt": "Premium georgette saree featuring sparkling hot-fix stones, ideal for party wear, weddings and festive occasions with matching unstitched blouse piece.[web:43][web:44]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Premium Designer Star Georgette Saree & Silk Blouse Combo.avif",
+  "price": "₹864",
+  "rating": 4.2,
+  "ctaLabel": "Buy Designer Georgette Saree",
+  "ctaUrl": "https://www.meesho.com/af_invite/527443549:instagram_stories:1284354?p_id=625857172&ext_id=acmahg&utm_source=instagram_stories",
+  "sections": {
+    "features": [
+      "Lightweight georgette fabric with intricate hot-fix diamond/stone embellishments for glamorous shine.[web:44][web:45]",
+      "Includes separate unstitched blouse piece (chiffon/art silk) – customizable to your measurements.[web:47][web:48]",
+      "Free size (5.3m saree + 0.8m blouse) suits most body types, perfect for party and wedding season.[web:43]"
+    ],
+    "pros": [
+      "Budget luxury under ₹500 with Meesho's COD, free delivery and 7-day returns.[web:43][attached_file:1]",
+      "Stones catch light beautifully for evening events; flows elegantly without heavy weight.[web:47][web:55]"
+    ],
+    "cons": [
+      "Delicate stone work needs gentle handling; avoid machine wash – dry clean recommended.[web:47]",
+      "Colors (black, red, coffee) may vary slightly; check lighting in photos for accuracy.[web:46][web:48]"
+    ],
+    "conclusion": [
+      "This designer georgette hot-fix stone saree delivers Bollywood glamour at everyday prices – perfect addition to your festive ethnic collection from Meesho.[web:43][web:45]"
+    ]
+  },
+  "cta": {
+    "url": "https://www.meesho.com/af_invite/527443549:instagram_stories:1284354?p_id=625857172&ext_id=acmahg&utm_source=instagram_stories",
+    "text": "Shop Hot-Fix Georgette Saree →[attached_file:1]"
+  }
+},
+{
+  "slug": "embellished-striped-leheria-chiffon-georgette-saree",
+  "category": "Fashion",
+  "readTime": "2 min read",
+  "badgeColor": "indigo",
+  "title": "Embellished Striped Leheria Chiffon Georgette Saree",
+  "excerpt": "Lightweight chiffon-georgette saree with traditional Leheria tie-dye stripes and embellished borders – perfect for summer weddings, receptions and festive occasions.",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Embellished, Striped Leheria Chiffon, Georgette Saree.avif",
+  "price": "₹899–₹1,499 (sale prices vary by color).[attached_file:1]",
+  "rating": 4.3,
+  "ctaLabel": "Buy Leheria Saree",
+  "ctaUrl": "https://www.meesho.com/embellished-striped-leheria-chiffon-georgette-saree/p/9ta2au",
+  "sections": {
+    "features": [
+      "Authentic Rajasthan Leheria tie-dye with diagonal wavy stripes on sheer chiffon-georgette blend for breezy summer drape.[attached_file:1]",
+      "Embellished pallu and borders with sequins, gota-patti and stone work – elevates traditional look for modern weddings.[web:43]",
+      "Unstitched set includes 5.5-6m saree + 0.8m blouse piece; lightweight under 500g for all-day comfort.[attached_file:1]"
+    ],
+    "pros": [
+      "Versatile for day weddings, sangeet, receptions or temple visits – pairs with contrast blouse and minimal jewelry.[attached_file:1]",
+      "Meesho pricing under ₹1,200 with COD, free shipping and 7-day returns – high affiliate conversion potential.[memory:5]"
+    ],
+    "cons": [
+      "Dry clean only due to delicate chiffon and embellishments; store in muslin to prevent color bleeding.[attached_file:1]",
+      "Sheer fabric may need petticoat; check color availability as popular shades sell out fast.[web:55]"
+    ],
+    "conclusion": [
+      "Leheria chiffon-georgette saree combines Rajasthan heritage with party-ready embellishments – ideal for your ethnic wear affiliate posts targeting wedding season shoppers.[attached_file:3]"
+    ]
+  },
+  "cta": {
+    "url": "https://www.meesho.com/embellished-striped-leheria-chiffon-georgette-saree/p/9ta2au",
+    "text": "Shop Embellished Leheria Saree →"
+  }
 }
 ]
 
