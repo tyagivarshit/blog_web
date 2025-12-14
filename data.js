@@ -4396,6 +4396,88 @@ const posts = [
     "url": "https://amzn.to/48EFO0l",
     "text": "Shop Gold Krishna Statue →"
   }
+},
+{
+  "slug": "gleva-8pcs-makeup-brush-set-pink",
+  "category": "Skincare",
+  "readTime": "2 min read",
+  "badgeColor": "pink",
+  "title": "Gleva 8 Pcs Makeup Brush Set with Pouch – Premium Synthetic Kabuki Brushes",
+  "excerpt": "Complete 8-piece pink brush set with travel pouch – foundation, concealer, eyeshadow, blush, powder, highlighter, contour and eyeliner brushes for professional looks.[web:122][web:124]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Gleva 8 Pcs Brush Set With Pouch, Makeup Brushes Premium Synthetic Kabuki Foundation, Concealers, Eye Shadows Professional Blush, Face Powder, Highlighter, Contour, Blending Eyeliner (Pink).jpg",
+  "price": "₹109",
+  "rating": 4.2,
+  "ctaLabel": "Buy Gleva Brush Set",
+  "ctaUrl": "https://amzn.to/48OEYg7",
+  "sections": {
+    "features": [
+      "8 essential brushes: Kabuki foundation, concealer, blending, eyeshadow, blush, powder, highlighter, angled eyeliner – covers full face makeup.[web:122]",
+      "Premium synthetic fibers – soft, dense, cruelty-free, no shedding; wooden handles with pink finish for comfortable grip.[web:125]",
+      "Comes with stylish pink pouch for travel/portability – perfect beginner to pro makeup kit.[web:124]"
+    ],
+    "pros": [
+      "Versatile set handles liquid, cream and powder products evenly without streaks.[web:125]",
+      "Budget complete kit under ₹400 – great gifting for makeup lovers, birthdays or starter kits.[web:123]"
+    ],
+    "cons": [
+      "Brushes need proper cleaning (mild soap + air dry) to maintain softness; avoid soaking handles.[web:125]",
+      "Smaller brush heads suit everyday looks, not heavy contouring or pro stage makeup.[web:122]"
+    ],
+    "bestFor": [
+      "Daily office makeup, college freshers, travel kits or gifting to beauty beginners.[web:124]",
+      "Pairs with your beauty affiliate category after kurtis/sarees success.[memory:12]"
+    ],
+    "conclusion": [
+      "Gleva 8pcs brush set delivers professional quality at starter prices – high-conversion beauty essential for your affiliate blog's expanding categories.[web:122][memory:14]"
+    ]
+  },
+  "cta": {
+    "url": "https://amzn.to/48OEYg7",
+    "text": "Shop Gleva Makeup Brushes →"
+  }
+},
+{
+  "slug": "luxury-13-brown-makeup-brush-set",
+  "category": "Skincare",
+  "readTime": "2 min read",
+  "badgeColor": "brown",
+  "title": "Luxury 13 Brown Makeup Brush Set – Professional Quality for Beauty Lovers",
+  "excerpt": "Premium 13-piece brown handle brush set with synthetic bristles – complete kit for foundation, powder, contour, eyeshadow, blush and liner application.[web:132]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Luxury 13 Brown Makeup Brush Set – Perfect for Professionals & Beauty Lovers.jpg",
+  "price": "₹230",
+  "rating": 4.3,
+  "ctaLabel": "Buy Luxury 13 Brush Set",
+  "ctaUrl": "https://amzn.to/4oRWCWo",
+  "sections": {
+    "features": [
+      "13 professional brushes: Kabuki powder, foundation, concealer, fan brush, blush, contour, eyeshadow blending (10+ types), angled liner, lip brush.[web:132]",
+      "Brown wooden handles with premium synthetic fibers – soft, dense, no shedding, works with liquid/cream/powder products.[web:133]",
+      "Comes with roll-up pouch for travel/storage – ergonomic design reduces hand fatigue during long sessions.[web:132]"
+    ],
+    "pros": [
+      "Full face + eye coverage in one set – perfect upgrade from 8pcs Gleva for pro makeup artists and enthusiasts.[memory:12]",
+      "Luxury brown aesthetic looks high-end; great gifting for beauty lovers, salons or bridal kits under ₹700.[web:132]"
+    ],
+    "cons": [
+      "Requires proper cleaning routine (brush shampoo + air dry) to maintain bristle quality long-term.[web:132]",
+      "Larger set takes more space; best for dedicated makeup bags, not ultra-compact travel.[web:133]"
+    ],
+    "bestFor": [
+      "Professional MUA kits, bridal makeup, salon stations or serious beauty hobbyists.[web:132]",
+      "Expands your beauty affiliate category after Gleva 8pcs success – targets premium segment.[memory:14]"
+    ],
+    "conclusion": [
+      "13-piece luxury brown brush set delivers salon-quality tools at accessible prices – essential upgrade for your beauty blog's growing audience.[web:132][memory:12]"
+    ]
+  },
+  "cta": {
+    "url": "https://amzn.to/4oRWCWo",
+    "text": "Shop Luxury 13 Brown Brushes →"
+  }
 }
 ]
 
