@@ -4162,7 +4162,7 @@ const posts = [
   "date": "Dec 2025",
   "author": "You",
   "image": "./images/Embellished, Striped Leheria Chiffon, Georgette Saree.avif",
-  "price": "₹899–₹1,499 (sale prices vary by color).[attached_file:1]",
+  "price": "₹451",
   "rating": 4.3,
   "ctaLabel": "Buy Leheria Saree",
   "ctaUrl": "https://www.meesho.com/embellished-striped-leheria-chiffon-georgette-saree/p/9ta2au",
@@ -4187,6 +4187,214 @@ const posts = [
   "cta": {
     "url": "https://www.meesho.com/embellished-striped-leheria-chiffon-georgette-saree/p/9ta2au",
     "text": "Shop Embellished Leheria Saree →"
+  }
+},
+{
+  "slug": "desidiya-lying-panda-night-light",
+  "category": "Home needs",
+  "readTime": "2 min read",
+  "badgeColor": "indigo",
+  "title": "Desidiya® Lying Panda Night Light – Soft Silicone Color-Changing LED Touch Lamp",
+  "excerpt": "Cute lying panda-shaped night lamp with soft silicone body, color-changing LED, touch control and timer – perfect for bedroom, kids’ room and office desk use.[web:63][web:66]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Desidiya® Lying Panda Night Light - Soft Silicone Color-Changing LED Touch Lamp with Timer for Bedroom & Office.jpg",
+  "price": "₹387",
+  "rating": 4.3,
+  "ctaLabel": "Buy Desidiya Panda Night Light",
+  "ctaUrl": "https://amzn.to/4pz1i4x",
+  "sections": {
+    "features": [
+      "Soft BPA‑free silicone body with cute lying panda design, safe and squishy for kids and stress-relief squeezing.[web:63][web:66]",
+      "Color‑changing LED with multiple vibrant modes; touch control lets you tap to change colors or adjust brightness.[web:63][web:66]",
+      "In‑built timer function so light can auto‑off after a fixed time, ideal as a sleep lamp for bedroom or nursery.[web:63][web:66]",
+      "Rechargeable, cordless and portable – powered by internal battery with USB charging, easy to place anywhere on a table or shelf.[web:66][web:67]",
+      "Compact size around 5×5×5 cm and lightweight (≈0.3 kg), suitable for bedside, office desk or study table decor.[web:66][web:67]"
+    ],
+    "pros": [
+      "Very soft, warm and gentle light that is eye‑friendly at night yet bright enough to move around the room.[web:66]",
+      "Cute design plus color‑changing modes make it a great gift for kids, teens and desk decor lovers.[web:63][web:70]",
+      "Touch/tap controls are intuitive for children; no sharp edges or glass parts thanks to silicone build.[web:63][web:66]"
+    ],
+    "cons": [
+      "Some users find even the lower brightness a bit too bright if they want an ultra‑dim night light.[web:66]",
+      "Needs gentle handling to avoid damage to internal LEDs; battery life depends on mode and brightness level.[web:66]"
+    ],
+    "bestFor": [
+      "Kids’ bedrooms, nursery night light, or soft ambient light for adults who like cute decor.[web:63][web:68]",
+      "Study/office desks where a fun, stress‑relief squishy lamp also works as a small ambient light.[web:63]"
+    ],
+    "conclusion": [
+      "A good pick if you want a cute, safe and portable night lamp with color‑changing LEDs and touch control, especially for kids’ rooms or as a gifting option under ₹500.[web:63][web:65][web:66]"
+    ]
+  },
+  "cta": {
+    "url": "https://amzn.to/4pz1i4x",
+    "text": "Shop Desidiya® Lying Panda Night Light →"
+  }
+},
+{
+  "slug": "tied-ribbons-abstract-thinker-men-statue-set",
+  "category": "Home needs",
+  "readTime": "2 min read",
+  "badgeColor": "gold",
+  "title": "TIED RIBBONS Abstract Thinker Men Statue Set of 3 – Modern Resin Showpieces",
+  "excerpt": "Set of 3 golden abstract thinker men sculptures (13x6cm each) – modern art decor for living room, bedroom, bookshelf or office table.[web:73][web:77]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/TIED RIBBONS Decorative Abstract Thinker Men Statue Set of 3 Modern Art Showpiece Sculpture(Fantasy,Gold,13CmX6Cm) Decoration Items for Home Decor Living Room Bedroom Bookshelf Table Office-Resin.jpg",
+  "price": "₹574",
+  "rating": 4.0,
+  "ctaLabel": "Buy Thinker Statue Set",
+  "ctaUrl": "https://amzn.to/4iSGX7Q",
+  "sections": {
+    "features": [
+      "Polyresin construction with polished gold finish – durable, non-toxic and lightweight (250g total set).[web:73][web:77]",
+      "3 unique abstract thinker poses (13L x 6W x 13H cm each) – modern art aesthetic for contemporary spaces.[web:73][web:74]",
+      "Versatile tabletop decor for living room shelves, bedroom tables, office desks or bookshelves.[web:73]"
+    ],
+    "pros": [
+      "Compact size perfect for small spaces; golden finish adds luxury without high cost.[web:73][web:77]",
+      "Easy maintenance – wipe with dry cloth; housewarming or Diwali gifting favorite under ₹700.[web:73]"
+    ],
+    "cons": [
+      "Smaller than expected (miniature scale) – better for shelves than large showcases.[web:77]",
+      "Photos show larger size; measure space before buying for prominent display areas.[web:77]"
+    ],
+    "bestFor": [
+      "Modern apartment bookshelves, office reception tables, or minimalist living room corners.[web:73]",
+      "Gifting to art lovers, new homeowners, or office desk personalization.[web:74]"
+    ],
+    "conclusion": [
+      "TIED RIBBONS thinker statue set delivers artistic sophistication at budget price – ideal decor upgrade for your affiliate home essentials category.[web:73][web:77]"
+    ]
+  },
+  "cta": {
+    "url": "https://amzn.to/4iSGX7Q",
+    "text": "Shop Abstract Thinker Statues →"
+  }
+},
+{
+  "slug": "ceramic-elephant-statue-white-gold-2pcs",
+  "category": "Home needs",
+  "readTime": "2 min read",
+  "badgeColor": "gold",
+  "title": "Ceramic Elephant Statue Set (2pcs) – White & Gold Feng Shui Good Luck Figurines",
+  "excerpt": "Pair of modern ceramic elephant idols in white-gold finish – perfect Vastu/Feng Shui decor for home entrance, living room, office desk or bookshelf.[attached_file:1]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Home Decor Elephant Statue For Good Luck,Fengshui Ceramic Creative Small Modern Style Elephant Idol Figurines,Decorative Gift Items For Home,Office Desktop,Living Room (2pcs),White,Gold.jpg",
+  "price": "₹387",
+  "rating": 4.2,
+  "ctaLabel": "Buy Elephant Statue Set",
+  "ctaUrl": "https://amzn.to/3YsSDES",
+  "sections": {
+    "features": [
+      "High-quality ceramic with glossy white body and gold accents – durable, chip-resistant finish.[web:83][web:84]",
+      "Compact size (7-8\" height each) with trunk-up pose symbolizing good luck, prosperity and positive energy.[web:83]",
+      "2-piece set ideal for entry table, TV cabinet, office desk or pooja shelf placement per Vastu/Feng Shui.[web:84]"
+    ],
+    "pros": [
+      "Elegant modern design suits contemporary homes; gold detailing adds premium look at budget price.[web:83]",
+      "Perfect gifting for housewarming, Diwali or new office – elephants represent wisdom, strength and family harmony.[web:84]"
+    ],
+    "cons": [
+      "Ceramic material fragile – handle carefully during cleaning or moving; avoid direct sunlight to prevent fading.[web:83]",
+      "Smaller than some expect (tabletop size, not floor-standing) – best for shelves and desks.[web:86]"
+    ],
+    "bestFor": [
+      "Home entrance facing north/east per Vastu, office reception desks, or living room center tables.[web:83]",
+      "Gifting to new homeowners, office colleagues, or Diwali corporate giveaways under ₹800.[web:84]"
+    ],
+    "conclusion": [
+      "White-gold ceramic elephant statues bring traditional good luck symbolism with modern aesthetic – strong affiliate performer in your home decor category alongside previous TIED RIBBONS statues.[web:83][memory:14]"
+    ]
+  },
+  "cta": {
+    "url": "https://amzn.to/3YsSDES",
+    "text": "Shop Feng Shui Elephant Statues →"
+  }
+},
+{
+  "slug": "craftvatika-resin-birds-statue-multicolor",
+  "category": "Home needs",
+  "readTime": "2 min read",
+  "badgeColor": "multicolor",
+  "title": "CraftVatika Resin Sparrow Birds Statue – Multicolor Decorative Showpiece Set",
+  "excerpt": "Handcrafted polyresin sparrow birds figurines (8cm x 6.5cm) in vibrant multicolor – perfect table decor for living room, wall shelf or gifting.[attached_file:1]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/CraftVatika Resin Birds Statue Decorative Showpieces Gift Items for Home Living Room for Girlfriend Boyfriend Husband Wife Wall Shelf Desk Decoration,Sparrow Table Decorative,Multicolor,8cm,6.5cm.jpg",
+  "price": "₹368",
+  "rating": 4.1,
+  "ctaLabel": "Buy Resin Birds Statue",
+  "ctaUrl": "https://amzn.to/49b3mde",
+  "sections": {
+    "features": [
+      "Set of colorful resin sparrows (8cm height, 6.5cm width) with realistic feathers and perched poses – lightweight ~150g total.[web:103]",
+      "Multicolor finish (white, gold, vibrant accents) adds cheerful pop to minimalist or modern interiors.[web:103]",
+      "Compact tabletop size ideal for coffee tables, bookshelves, office desks or wall shelf accents.[web:103]"
+    ],
+    "pros": [
+      "Handcrafted detailing makes each bird unique; perfect Valentine's, anniversary or housewarming gift under ₹500.[web:104]",
+      "Durable polyresin withstands daily handling; dust-resistant finish for easy maintenance.[web:109]"
+    ],
+    "cons": [
+      "Smaller decorative size (not floor-standing) – best for tabletops and shelves, not large displays.[web:103]",
+      "Colors may vary slightly; bright shades best in good lighting for full vibrancy.[web:103]"
+    ],
+    "bestFor": [
+      "Living room center tables, bedroom wall shelves, office desk personalization or couple gifting.[web:104]",
+      "Home accents alongside your previous elephant/Krishna statues in affiliate decor collection.[memory:14]"
+    ],
+    "conclusion": [
+      "CraftVatika multicolor resin sparrows bring nature-inspired joy to small spaces – high-conversion gift item for your blog's home decor category.[web:103]"
+    ]
+  },
+  "cta": {
+    "url": "https://amzn.to/49b3mde",
+    "text": "Shop Resin Sparrow Birds →"
+  }
+},
+{
+  "slug": "kridaykraft-krishna-cow-under-tree-statue",
+  "category": "Home needs",
+  "readTime": "2 min read",
+  "badgeColor": "gold",
+  "title": "KridayKraft Krishna with Cow Under Tree – Gold Metal Flute Statue (12.5x8x16cm)",
+  "excerpt": "Detailed Krishna standing under tree playing flute with cow companion – premium religious showpiece for pooja room, living room or gifting.[web:93][web:120]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/KridayKraft Prince Home Decor & Gifts Metal Krishna With Cow Standing Under Tree Plying Flute (Gold, 12.5X8X16Cm), 1 Piece, figures;Religious.jpg",
+  "price": "₹290",
+  "rating": 4.4,
+  "ctaLabel": "Buy Krishna Cow Statue",
+  "ctaUrl": "https://amzn.to/48EFO0l",
+  "sections": {
+    "features": [
+      "Aluminum metal with glossy gold finish – Krishna (16cm tall) playing flute, cow beside him under tree branches (12.5L x 8W x 16H cm).[web:120]",
+      "Intricate detailing on flute, peacock feather crown, cow bell and tree texture – ~350g stable weight.[web:93]",
+      "Ideal for pooja mandir altar, living room TV cabinet, office desk or Janmashtami/Diwali gifting.[web:95]"
+    ],
+    "pros": [
+      "Rich oxidized gold gives temple idol quality at budget price; perfect Vastu placement for prosperity.[web:93]",
+      "Krishna-cow-tree symbolism brings divine protection, abundance and pastoral peace to home/office.[web:120]"
+    ],
+    "cons": [
+      "Gold plating needs dry cloth/oil maintenance (no water) to prevent tarnishing over time.[web:93]",
+      "Tabletop size only – needs 12+ inch surface; not suitable for wall mounting or very small shelves.[web:120]"
+    ],
+    "bestFor": [
+      "Pooja rooms (east/north facing), living room center tables, corporate Diwali gifting under ₹500.[web:93]",
+      "Housewarming, Janmashtami or religious occasion returns – pairs with elephant statues collection.[memory:14]"
+    ],
+    "conclusion": [
+      "KridayKraft's Krishna with cow under tree delivers spiritual elegance and storytelling craftsmanship – top religious decor performer after elephant/Krishna statues in your affiliate lineup.[web:93][memory:14]"
+    ]
+  },
+  "cta": {
+    "url": "https://amzn.to/48EFO0l",
+    "text": "Shop Gold Krishna Statue →"
   }
 }
 ]
