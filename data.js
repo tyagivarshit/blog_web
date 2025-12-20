@@ -5293,7 +5293,7 @@ const posts = [
   "date": "Dec 2025",
   "author": "You",
   "image": "./images/Boat Airdopes Joy, 35Hrs Battery, Fast Charge, IWP Tech, Low Latency, 2Mic ENx, Type-C Port, v5.3 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic(Jet Black).jpg",
-  "price": "₹799",
+  "price": "₹899",
   "rating": 4.1,
   "ctaLabel": "Buy Boat Airdopes Joy",
   "ctaUrl": "https://amzn.to/3L4EcUp",
