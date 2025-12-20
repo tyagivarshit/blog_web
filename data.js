@@ -5282,6 +5282,41 @@ const posts = [
     "url": "https://amzn.to/4pePGTC",
     "text": "Check Latest Price on Amazon →"
   }
+},
+{
+  "slug": "boat-airdopes-joy-35hrs-battery-bluetooth-v5-3-tws",
+  "category": "Electronics",
+  "readTime": "2 min read",
+  "badgeColor": "blue",
+  "title": "Boat Airdopes Joy TWS Earbuds – 35Hrs Battery, Beast Mode, ENx (Jet Black)",
+  "excerpt": "Budget wireless earbuds with massive 35-hour playback, 13mm drivers, 50ms low latency gaming mode, dual-mic ENx call clarity and Type-C fast charging at just ₹699-799.[web:43][web:45]",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Boat Airdopes Joy, 35Hrs Battery, Fast Charge, IWP Tech, Low Latency, 2Mic ENx, Type-C Port, v5.3 Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic(Jet Black).jpg",
+  "price": "₹899",
+  "url": "https://amzn.to/3L4EcUp",
+  "posts": {
+    "intro": [
+      "Boat Airdopes Joy delivers 35 hours total playtime (8hrs earbuds + 27hrs case) with Bluetooth v5.3 and IWP instant pairing technology for seamless connectivity.[web:43][web:44]",
+      "Powered by 13mm drivers with boAt Signature Sound – punchy bass perfect for Bollywood, EDM and hip-hop listeners.[web:45]"
+    ],
+    "features": [
+      "- **Battery**: 35 hours total (ASAP Charge: 10 min = 120 min playback)",
+      "- **Audio**: 13mm drivers, 20Hz-20KHz, signature bass-heavy sound",
+      "- **Gaming**: BEAST Mode 50ms low latency for lag-free mobile gaming",
+      "- **Calls**: Dual mic ENx Technology for clear voice in noisy environments",
+      "- **Connectivity**: Bluetooth v5.3, 10m range, IWP instant pairing",
+      "- **Design**: IPX5 sweat/splash resistant, Type-C charging, touch controls",
+      "- **Weight**: ~45g total (earbuds + case) – ultra-portable.[web:43][web:44][web:46]"
+    ],
+    "conclusion": [
+      "At ₹699-799, this crushes the budget TWS segment – perfect gym/commute earbuds for affiliate posts targeting students and fitness enthusiasts. High perceived value from 35-hour battery claim![memory:3][memory:12]"
+    ]
+  },
+  "cta": {
+    "url": "https://amzn.to/3L4EcUp",
+    "text": "Shop Boat Airdopes Joy →"
+  }
 }
 ]
 
