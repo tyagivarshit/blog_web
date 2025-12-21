@@ -5359,7 +5359,7 @@ const posts = [
   "date": "Dec 2025",
   "author": "You",
   "image": "./images/boAt Aavante Bar 490 10W Signature Sound, Dual Full-Range Drivers,7 HRS Battery, Built-in Mic,2.0 CH, Free Music Streaming on JioSaavn, Bluetooth Sound Bar, Soundbar Speaker (Classic Black).jpg",
-  "price": "₹949",
+  "price": "₹980",
   "rating": 4.2,
   "ctaLabel": "Buy boAt Aavante Bar 490",
   "ctaUrl": "https://amzn.to/4b2l8Rl",
