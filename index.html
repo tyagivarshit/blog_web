@@ -179,7 +179,6 @@
     let currentQuery = "";
     let currentCategory = "All";
 
- 
     const categories = ["All", "Home needs", "Accessories", "Skincare", "Fashion", "Electronics"];
 
     function renderCategoryChips() {
@@ -227,16 +226,14 @@
       });
     }
 
-  
+    // MAIN RENDER FUNCTION – AB HAR SCREEN PE SHUFFLE
     function renderPosts() {
       const filtered = getFilteredPosts();
-      
+
+      // Simple random shuffle for all screen sizes [web:24][web:28]
+      filtered.sort(() => Math.random() - 0.5);
+
       const isMobile = window.innerWidth < 640;
-      
-      // ✨ SHUFFLE ONLY DESKTOP - Mobile fixed order!
-      if (!isMobile) {
-        filtered.sort(() => Math.random() - 0.5);
-      }
       
       container.innerHTML = "";
 
@@ -247,7 +244,7 @@
         const article = document.createElement("article");
 
         if (isMobile) {
-          // AMAZON-LIKE MOBILE CARD: FIXED IMAGE HEIGHT ✅
+          // AMAZON-LIKE MOBILE CARD: FIXED IMAGE HEIGHT
           article.className =
             "w-full bg-slate-900 rounded-xl border border-slate-800 " +
             "flex flex-row gap-3 px-3 py-3 hover:bg-slate-800/80 " +
@@ -340,7 +337,6 @@
       resizeTimeout = setTimeout(renderPosts, 250);
     });
 
-
     let scrollTimeout;
     window.addEventListener('scroll', () => {
       clearTimeout(scrollTimeout);
@@ -348,7 +344,6 @@
 
       }, 100);
     }, { passive: true });
-
 
     let searchTimeout;
     searchInput?.addEventListener("input", (e) => {
