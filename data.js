@@ -5872,6 +5872,70 @@ const posts = [
     "url": "https://amzn.to/4qrAELa",
     "text": "Check Latest Price on Amazon →"
   }
+},
+{
+  "slug": "women-olive-reyon-slub-embroidered-kurta-pant-dupatta-set",
+  "category": "Fashion",
+  "readTime": "3 min read",
+  "badgeColor": "olive",
+  "title": "Women's Olive Reyon Slub Embroidered Kurta Pant Dupatta Set Review",
+  "excerpt": "Elegant, comfortable aur festive-ready – ye Olive Reyon Slub Embroidered Kurta Pant Dupatta Set soft rayon slub fabric, intricate embroidery aur chanderi silk dupatta ke saath aata hai, jo office, party aur casual occasions ke liye perfect hai.",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Women's Attractive Olive Reyon Slub Embroidered Kurta Pant Dupatta Se.avif",
+  "price": "₹267",
+  "rating": 4.3,
+  "ctaLabel": "Buy This Kurta Set",
+  "ctaUrl": "https://www.meesho.com/af_invite/527443549:instagram_stories:1371983?p_id=546542300&ext_id=91eaqk&utm_source=instagram_stories",
+
+  "sections": {
+    "introduction": [
+      "Agar aap ek elegant, comfortable aur festive-ready kurta set dhundh rahe hain jo office, party aur casual occasions ke liye kaam aaye, to Women's Olive Reyon Slub Embroidered Kurta Pant Dupatta Set ek strong option hai.",
+      "Ye set soft rayon slub fabric, intricate embroidery aur chanderi silk dupatta ke saath aata hai – perfect for those who love traditional style with modern comfort."
+    ],
+
+    "features": [
+      "Kurta fabric: Rayon slub – soft, breathable aur all-day comfort deta hai.",
+      "Bottomwear fabric: Rayon slub – matching fabric, comfortable fit aur easy movement.",
+      "Dupatta fabric: Chanderi silk – lightweight, elegant aur traditional look deta hai.",
+      "Color: Olive – versatile shade jo almost sab skin tones par flattering lagta hai.",
+      "Sleeve length: Three-quarter sleeves – comfortable aur stylish, summer aur monsoon ke liye perfect.",
+      "Length: Calf length – modest aur elegant, office aur casual outings ke liye ideal.",
+      "Work: Embroidered – intricate thread work adds sophistication aur festive charm.",
+      "Fit: Straight fit – comfortable aur flattering for most body types."
+    ],
+
+    "pros": [
+      "Comfortable fabric – rayon slub soft aur breathable hai, all-day wear ke liye perfect.",
+      "Elegant design – embroidery aur chanderi silk dupatta traditional look deta hai.",
+      "Versatile color – olive shade office, party aur casual occasions sab ke liye suitable hai.",
+      "Complete set – kurta, pant aur dupatta sab included, mix-match ki tension nahi.",
+      "Easy to style – simple jewelry aur sandals ke saath easily office ya party look ban sakte ho."
+    ],
+
+    "cons": [
+      "Rayon slub delicate ho sakta hai, heavy wash ya machine wash se damage ho sakta hai.",
+      "Olive color thoda dark ho sakta hai fair skin tones ke liye, lighting ke hisaab se try karna better hai.",
+      "Straight fit thoda loose ho sakta hai petite body types ke liye, tailoring ki zarurat pad sakti hai."
+    ],
+
+    "bestFor": [
+      "Office wear – comfortable fabric aur modest length ke wajah se office ke liye perfect.",
+      "Casual outings – brunch, shopping, family gatherings ke liye easy style.",
+      "Festive occasions – embroidery aur chanderi dupatta ki wajah se small parties aur festive events ke liye suitable.",
+      "Users jo soft, breathable fabric aur traditional style chahte hain."
+    ],
+
+    "conclusion": [
+      "Women's Olive Reyon Slub Embroidered Kurta Pant Dupatta Set comfort, elegance aur versatility ka perfect balance offer karta hai.",
+      "Agar aap ek budget-friendly, comfortable aur stylish kurta set dhundh rahe hain jo office, casual aur festive occasions ke liye kaam aaye, to ye set ek value-for-money choice hai."
+    ]
+  },
+
+  "cta": {
+    "url": "https://www.meesho.com/af_invite/527443549:instagram_stories:1371983?p_id=546542300&ext_id=91eaqk&utm_source=instagram_stories",
+    "text": "Check Latest Price on Amazon →"
+  }
 }
 ]
 
