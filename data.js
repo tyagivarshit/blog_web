@@ -5936,6 +5936,199 @@ const posts = [
     "url": "https://www.meesho.com/af_invite/527443549:instagram_stories:1371983?p_id=546542300&ext_id=91eaqk&utm_source=instagram_stories",
     "text": "Check Latest Price on Amazon →"
   }
+},
+{
+  "slug": "dream-beauty-fashion-henley-neck-top-review",
+  "category": "Fashion",
+  "readTime": "3 min read",
+  "badgeColor": "blue",
+  "title": "Dream Beauty Fashion Women's Henley Neck Long Sleeve Slim Fit Top Review",
+  "excerpt": "Casual, comfortable aur stylish – Dream Beauty Fashion Henley Neck Long Sleeve Slim Fit Top soft fabric, Henley neckline aur slim fit silhouette ke saath aata hai, jo daily wear, college, office aur casual outings ke liye perfect hai.",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Dream Beauty Fashion Women's Long Sleeve Slim Fit.jpg",
+  "price": "₹230",
+  "rating": 4.2,
+  "ctaLabel": "Buy This Henley Top",
+  "ctaUrl": "https://amzn.to/48VK5g0",
+
+  "sections": {
+    "introduction": [
+      "Agar aap ek versatile, comfortable aur stylish casual top dhundh rahe hain jo college, office aur weekend outings ke liye kaam aaye, to Dream Beauty Fashion Henley Neck Long Sleeve Top ek strong option hai.",
+      "Ye slim fit top soft fabric, iconic Henley neckline aur long sleeves ke saath aata hai – perfect for layering, solo wear, jeans, skirts ya pajamas sab ke saath match karta hai."
+    ],
+
+    "features": [
+      "Fabric: Premium cotton blend – soft, breathable aur comfortable all-day wear ke liye.",
+      "Neckline: Henley neck – classic, trendy aur flattering design jo almost sab face shapes par looks good.",
+      "Sleeves: Long sleeves – perfect for all seasons, layering opportunities provide karte hain.",
+      "Fit: Slim fit – body-hugging lekin comfortable, flattering silhouette deta hai.",
+      "Length: Hip length – kurtas aur dresses ke upar wear kar sakte ho ya solo wear bhi karte ho.",
+      "Color options: Multiple colors available – neutral shades like white, black, navy, grey easy to style ke liye.",
+      "Care: Easy to maintain – machine wash, quick dry."
+    ],
+
+    "pros": [
+      "Versatile piece – jeans, skirts, palazzo, shorts, lehengas sab ke saath style kar sakte ho.",
+      "Comfortable fabric – cotton blend soft aur skin-friendly hai.",
+      "Slim fit flattering – body-conscious design jo curves highlight karta hai.",
+      "Henley neckline – classic yet trendy, timeless piece jo style outdated nahi hota.",
+      "Budget-friendly – under ₹300 price me premium quality material aur design.",
+      "Easy to care – machine wash, quick dry, minimal maintenance."
+    ],
+
+    "cons": [
+      "Slim fit tight ho sakta hai larger sizes ke liye, size carefully choose karna chahiye.",
+      "Cotton blend fabric thoda shrink kar sakta hai first wash me, cold water se wash karna better.",
+      "Long sleeves summer ke liye thoda warm ho sakta hai."
+    ],
+
+    "bestFor": [
+      "College girls – casual campus wear, study sessions, casual hangouts ke liye.",
+      "Office goers – layering piece as base under blazers, sweaters ya cardigans.",
+      "Weekend warriors – casual brunch, shopping, movie dates ke liye easy outfit.",
+      "Users jo versatile, comfortable aur stylish casual tops chahte hain."
+    ],
+
+    "conclusion": [
+      "Dream Beauty Fashion Henley Neck Long Sleeve Slim Fit Top casual wardrobe ka essential piece hai jo versatile, comfortable aur stylish sab kuch deta hai.",
+      "Agar aap ek budget-friendly, versatile top dhundh rahe hain jo jeans, skirts, lehengas sab ke saath easy style ho, to ye Henley top ek smart purchase hai college, office aur casual wear ke liye."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/48VK5g0",
+    "text": "Check Latest Price on Amazon →"
+  }
+},
+{
+  "slug": "portronics-ruffpad-8-5e-lcd-writing-pad-review",
+  "category": "Electronics",
+  "readTime": "3 min read",
+  "badgeColor": "black",
+  "title": "Portronics Ruffpad 8.5E LCD Writing Pad Review – 8.5-inch Re-Writable Drawing & Handwriting Tablet",
+  "excerpt": "Paper, pen aur sticky notes ki jagah ek eco-friendly digital pad chahiye? Portronics Ruffpad 8.5E 8.5-inch re-writable LCD writing pad drawing, rough work, notes aur kids ke liye perfect hai – pressure-sensitive screen, one-tap erase aur long battery life ke saath.",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/Portronics Ruffpad 8.5E Re-Writable LCD Writing Pad with Screen 21.5cm (8.5-inch) for Drawing, Playing, Handwriting Gifts for Kids & Adults,(Black).jpg",
+  "price": "₹149",
+  "rating": 4.4,
+  "ctaLabel": "Buy Portronics Ruffpad 8.5E",
+  "ctaUrl": "https://amzn.to/4qnHOzR",
+
+  "sections": {
+    "introduction": [
+      "Agar aap daily notes, rough work, to-do lists, doodling ya kids ke drawing ke liye paper waste kam karna chahte hain, to Portronics Ruffpad 8.5E ek smart, eco-friendly solution hai.",
+      "Ye 8.5-inch (21.5cm) re-writable LCD writing pad pressure-sensitive screen, one-tap erase aur long battery life ke saath aata hai – perfect for students, professionals, kids aur home office use."
+    ],
+
+    "features": [
+      "8.5-inch (21.5cm) LCD screen – ample writing/drawing area, A5 size ke equivalent.",
+      "Re-writable LCD – ek hi screen par unlimited times likh sakte ho, erase karke phir se use kar sakte ho.",
+      "Pressure-sensitive screen – light touch se thin lines, hard press se thick lines, natural writing feel deta hai.",
+      "One-tap erase button – ek dabbe se pura screen clear ho jata hai, instant reset.",
+      "Erase lock switch – accidental erase se bachata hai, especially kids ke liye useful.",
+      "Built-in stylus – pen holder ke saath, pen kho jaane ki tension nahi.",
+      "Long battery life – 1-2 years tak chal sakta hai (CR2032 battery included).",
+      "Lightweight & portable – pocket, bag ya desk drawer me easily fit ho jata hai."
+    ],
+
+    "pros": [
+      "Eco-friendly – paper waste kam karta hai, environment ke liye best choice.",
+      "Unlimited use – ek hi pad par din bhar notes, rough work, doodles sab likh sakte ho.",
+      "Easy to use – one-tap erase, pressure-sensitive screen, beginners aur kids dono ke liye simple.",
+      "Portable – lightweight, thin design, anywhere carry kar sakte ho.",
+      "Long battery – CR2032 battery se 1-2 years tak chal sakta hai, frequent charging ki zarurat nahi.",
+      "Durable build – recessed screen aur sturdy plastic body, school, travel aur home use ke liye suitable."
+    ],
+
+    "cons": [
+      "LCD screen thoda dim ho sakta hai low light me, bright light me better visibility.",
+      "No backlight – dark rooms me thoda difficult ho sakta hai, natural light ya lamp ki zarurat pad sakti hai.",
+      "Screen resolution basic hai – fine details ya professional drawing ke liye suitable nahi hai."
+    ],
+
+    "bestFor": [
+      "Students – rough work, notes, to-do lists, exam preparation ke liye.",
+      "Professionals – office meetings, to-do lists, quick notes, home office use.",
+      "Kids – drawing, coloring, learning alphabets/numbers, creative play.",
+      "Parents – kids ke drawing ke liye paper waste kam karna chahte hain."
+    ],
+
+    "conclusion": [
+      "Portronics Ruffpad 8.5E paper, pen aur sticky notes ki jagah ek smart, eco-friendly digital pad hai jo unlimited notes, rough work aur drawing ke liye perfect hai.",
+      "Agar aap students, professionals ya parents hain jo paper waste kam karna chahte hain aur ek portable, easy-to-use writing pad dhundh rahe hain, to Ruffpad 8.5E under ₹300 me ek value-for-money choice hai."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/4qnHOzR",
+    "text": "Check Latest Price on Amazon →"
+  }
+},
+{
+  "slug": "agaro-elite-mini-electric-chopper-review",
+  "category": "Electronics",
+  "readTime": "4 min read",
+  "badgeColor": "black",
+  "title": "AGARO Elite Mini Electric Chopper Review – Rechargeable 250ml Chopper for Garlic, Onion, Ginger & Nuts",
+  "excerpt": "Daily chopping ka jhanjhat khatam! AGARO Elite Rechargeable Mini Electric Chopper 250ml food-grade bowl, stainless steel blades aur one-touch operation ke saath aata hai – perfect for garlic, onion, ginger, veggies, meat aur nuts.",
+  "date": "Dec 2025",
+  "author": "You",
+  "image": "./images/AGARO Elite Mini Electric Chopper – 250ml Black.jpg",
+  "price": "₹599",
+  "rating": 4.4,
+  "ctaLabel": "Buy AGARO Mini Chopper",
+  "ctaUrl": "https://amzn.to/4pgHjH3",
+
+  "sections": {
+    "introduction": [
+      "Agar aap har subah onion, garlic, ginger, herbs ya nuts hand-chop karke thak gaye hain, to AGARO Elite Mini Electric Chopper ek smart kitchen helper hai jo daily prep time kam karta hai.",
+      "Ye rechargeable mini chopper 250ml food-grade bowl, stainless steel blades aur one-touch operation ke saath aata hai – garlic, onion, ginger, veggies, meat aur nuts sab easily chop kar sakta hai."
+    ],
+
+    "features": [
+      "250ml food-grade bowl – small to medium chopping ke liye perfect, hand-chop wala effort kam karta hai.",
+      "Stainless steel blades – sharp, durable aur long-lasting, hard ingredients bhi easily chop karta hai.",
+      "Rechargeable battery – USB charging, 4 hours charge = 30 minutes use, cordless operation deta hai.",
+      "One-touch operation – lid lock karo, button dabao, chopper start ho jata hai, super easy use.",
+      "Dual safety mechanism – lid properly lock hone par hi chopper start hota hai, safety badhata hai.",
+      "BPA-free materials – 100% food-safe, taste contamination nahi hota.",
+      "Compact & lightweight – kitchen counter par kam space leta hai, travel ya picnics ke liye bhi le ja sakte ho."
+    ],
+
+    "pros": [
+      "Time-saving – onion, garlic, ginger, herbs, veggies sab 30-60 seconds me chop ho jate hain.",
+      "Rechargeable & cordless – kitchen me cable ki tension nahi, anywhere use kar sakte ho.",
+      "Easy to use – one-touch operation, beginners aur busy professionals dono ke liye ideal.",
+      "Easy to clean – bowl aur blades detachable hain, water se easily wash kar sakte ho.",
+      "Compact design – small kitchen, hostel, office ya travel ke liye perfect.",
+      "Good for small families – 2-4 logon ke liye daily chopping ke liye sufficient capacity."
+    ],
+
+    "cons": [
+      "250ml capacity small ho sakti hai large families ke liye, multiple batches leni pad sakti hain.",
+      "Hard ingredients (dry chilies, very hard nuts) thoda effort mangte hain, perfect powder nahi milta.",
+      "USB cable short hai, aapko apna longer cable use karna padega."
+    ],
+
+    "bestFor": [
+      "Small families aur couples jo daily onion, garlic, ginger, herbs chop karte hain.",
+      "Working professionals aur students jo quick, healthy meals banate hain.",
+      "Hostel residents aur bachelors jo limited kitchen space me cooking karte hain.",
+      "Users jo garlic, onion, ginger, veggies, meat aur nuts ke liye ek compact chopper dhundh rahe hain."
+    ],
+
+    "conclusion": [
+      "AGARO Elite Mini Electric Chopper daily cooking ka jhanjhat khatam karne ka best solution hai jo time bachata hai aur effort kam karta hai.",
+      "Rechargeable design, stainless steel blades aur one-touch operation ke combination ke saath ye under ₹600 me high-value kitchen gadget hai, especially small families aur busy cooks ke liye."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/4pgHjH3",
+    "text": "Check Latest Price on Amazon →"
+  }
 }
 ]
 
