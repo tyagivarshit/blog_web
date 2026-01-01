@@ -2092,7 +2092,7 @@ const posts = [
   date: "Dec 2025",
   author: "You",
   image: "./images/fastrack_watch.jpg",
-  price: "₹2695",
+  price: "₹2995",
   rating: 4.4,
   ctaLabel: "Buy Fastrack Limitless FS2 Pro",
   ctaUrl: "https://amzn.to/4rOHr32",
