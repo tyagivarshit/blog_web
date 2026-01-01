@@ -6320,6 +6320,136 @@ const posts = [
     "url": "https://amzn.to/3YStMdO",
     "text": "Check Latest Price on Amazon →"
   }
+},
+{
+  "slug": "fire-boltt-talk-round-smartwatch-review",
+  "category": "Fashion",
+  "readTime": "4 min read",
+  "badgeColor": "silver",
+  "title": "Fire-Boltt Talk Round Smartwatch Review – 1.39″ TFT Display, Bluetooth Calling & 120+ Sports Modes",
+  "excerpt": "Budget smartwatch with Bluetooth calling, 120+ sports modes aur health tracking chahiye? Fire-Boltt Talk Round 1.39″ TFT display, dual button, voice assistance, SpO₂ & heart rate monitor ke saath aata hai – perfect for students, office goers aur fitness lovers.",
+  "date": "Jan 2026",
+  "author": "You",
+  "image": "./images/Fire-Boltt Talk Round Smart Watch 1.39″ TFT Display with Bluetooth Calling, Dual Button, Voice Assistance, SPO₂ & Heart Rate Monitor, 120+ Sports Modes, Metal Smartwatch for Men & Women - Silver.jpg",
+  "price": "₹1599",
+  "rating": 4.1,
+  "ctaLabel": "Buy Fire-Boltt Talk Round",
+  "ctaUrl": "https://amzn.to/3N8Yc93",
+
+  "sections": {
+    "introduction": [
+      "Agar aap ₹1200 ke andar ek feature-rich round dial smartwatch dhundh rahe hain jo Bluetooth calling, health tracking aur sports modes de, to Fire-Boltt Talk Round ek strong budget option hai.",
+      "Ye smartwatch 1.39″ TFT display, Bluetooth calling, dual button, voice assistance, SpO₂ & heart rate monitor aur 120+ sports modes ke saath aata hai – students, office goers aur fitness lovers ke liye perfect."
+    ],
+
+    "features": [
+      "1.39″ TFT round display – bright aur clear, sunlight me bhi readable.",
+      "Bluetooth calling – wrist se directly calls receive kar sakte ho, caller name, reject aur dial pad support.",
+      "Dual button design – crown + side button, easy navigation aur quick access.",
+      "Voice assistance – built-in mic se voice commands aur calls manage kar sakte ho.",
+      "Health tracking – 24x7 heart rate, SpO₂, sleep, stress aur female health tracking.",
+      "120+ sports modes – running, walking, cycling, gym, yoga, swimming aur 120+ aur activities support.",
+      "IP68 water resistance – swimming, shower aur rain me bhi safe.",
+      "Smart notifications – calls, messages, apps ki notifications wrist par milte hain."
+    ],
+
+    "pros": [
+      "Excellent value under ₹1200 – Bluetooth calling, health tracking aur sports modes sab ek saath.",
+      "Good display – 1.39″ round TFT display ki wajah se data clear dikhta hai.",
+      "Bluetooth calling – wrist se directly calls receive karne se phone ko har baar nikalne ki zarurat nahi.",
+      "IP68 water resistance – swimming, shower aur rain me bhi safe, daily use ke liye ideal.",
+      "120+ sports modes – almost sab workouts ke liye suitable, fitness tracking ke liye perfect.",
+      "Dual button – easy navigation aur quick access, touchscreen ke saath combine."
+    ],
+
+    "cons": [
+      "Display TFT hai – AMOLED jaisa deep black ya vibrant colors nahi milta.",
+      "Bluetooth calling quality average hai – noisy environments me thoda echo ho sakta hai.",
+      "Strap quality basic hai – long-term use me thoda stretch ho sakta hai."
+    ],
+
+    "bestFor": [
+      "Budget buyers jo ₹1200 ke andar solid smartwatch chahte hain.",
+      "Students aur office goers jo notifications, calls aur health tracking chahte hain.",
+      "Fitness lovers jo running, gym, yoga aur swimming track karna chahte hain.",
+      "Users jo long battery, Bluetooth calling aur water resistance chahte hain."
+    ],
+
+    "conclusion": [
+      "Fire-Boltt Talk Round ₹1200 ke budget segment me ek well-rounded smartwatch hai jo Bluetooth calling, health tracking, sports modes aur long battery sab combine karta hai.",
+      "Agar aap students, office goers ya fitness lovers hain aur ek value-for-money smartwatch dhundh rahe hain, to Fire-Boltt Talk Round ek safe aur practical choice hai."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/3N8Yc93",
+    "text": "Check Latest Price on Amazon →"
+  }
+},
+{
+  "slug": "fastrack-limitless-glide-x-smartwatch-review",
+  "category": "Fashion",
+  "readTime": "4 min read",
+  "badgeColor": "black",
+  "title": "Fastrack Limitless Glide X Smartwatch Review – 1.83\" Ultra UV HD Display, Bluetooth Calling & 100+ Sports Modes",
+  "excerpt": "Budget smartwatch with Bluetooth calling, 100+ sports modes aur health tracking chahiye? Fastrack Limitless Glide X 1.83\" Ultra UV HD display, SpO₂, heart rate, sleep tracking aur 5-day battery ke saath aata hai – perfect for students, office goers aur fitness lovers.",
+  "date": "Jan 2026",
+  "author": "You",
+  "image": "./images/Fastrack Limitless Glide.jpg",
+  "price": "₹1499",
+  "rating": 4.0,
+  "ctaLabel": "Buy Fastrack Limitless Glide X",
+  "ctaUrl": "https://amzn.to/4jh0kYk",
+
+  "sections": {
+    "introduction": [
+      "Agar aap ₹1500 ke andar ek feature-rich smartwatch dhundh rahe hain jo Bluetooth calling, health tracking aur sports modes de, to Fastrack Limitless Glide X ek strong budget option hai.",
+      "Ye smartwatch 1.83\" Ultra UV HD display, Bluetooth calling, SpO₂, heart rate, sleep tracking aur 100+ sports modes ke saath aata hai – students, office goers aur fitness lovers ke liye perfect."
+    ],
+
+    "features": [
+      "1.83\" Ultra UV HD display – bright aur clear, sunlight me bhi readable.",
+      "Bluetooth calling – wrist se directly calls receive kar sakte ho, caller name, reject aur dial pad support.",
+      "Health tracking – 24x7 heart rate, SpO₂, sleep, stress aur female health tracking.",
+      "100+ sports modes – running, walking, cycling, gym, yoga, swimming aur 100+ aur activities support.",
+      "5-day battery – typical usage me 5 din tak chalta hai, calling heavy use me 3-4 din tak.",
+      "IP67 water resistance – swimming, shower aur rain me bhi safe.",
+      "Smart notifications – calls, messages, apps ki notifications wrist par milte hain.",
+      "AI voice assistant – built-in mic se voice commands aur calls manage kar sakte ho."
+    ],
+
+    "pros": [
+      "Excellent value under ₹1500 – Bluetooth calling, health tracking aur sports modes sab ek saath.",
+      "Good display – 1.83\" Ultra UV HD display ki wajah se data clear dikhta hai.",
+      "Bluetooth calling – wrist se directly calls receive karne se phone ko har baar nikalne ki zarurat nahi.",
+      "IP67 water resistance – swimming, shower aur rain me bhi safe, daily use ke liye ideal.",
+      "100+ sports modes – almost sab workouts ke liye suitable, fitness tracking ke liye perfect.",
+      "AI voice assistant – voice commands aur calls manage karne me help karta hai."
+    ],
+
+    "cons": [
+      "Display TFT hai – AMOLED jaisa deep black ya vibrant colors nahi milta.",
+      "Bluetooth calling quality average hai – noisy environments me thoda echo ho sakta hai.",
+      "Strap quality basic hai – long-term use me thoda stretch ho sakta hai."
+    ],
+
+    "bestFor": [
+      "Budget buyers jo ₹1500 ke andar solid smartwatch chahte hain.",
+      "Students aur office goers jo notifications, calls aur health tracking chahte hain.",
+      "Fitness lovers jo running, gym, yoga aur swimming track karna chahte hain.",
+      "Users jo long battery, Bluetooth calling aur water resistance chahte hain."
+    ],
+
+    "conclusion": [
+      "Fastrack Limitless Glide X ₹1500 ke budget segment me ek well-rounded smartwatch hai jo Bluetooth calling, health tracking, sports modes aur long battery sab combine karta hai.",
+      "Agar aap students, office goers ya fitness lovers hain aur ek value-for-money smartwatch dhundh rahe hain, to Limitless Glide X ek safe aur practical choice hai."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/4jh0kYk",
+    "text": "Check Latest Price on Amazon →"
+  }
 }
 ]
 
