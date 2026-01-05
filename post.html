@@ -2,172 +2,594 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Product Review – DevBlog</title>
+  <title>Product Review — Aurelius Atelier</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="output.css" />
+  <meta name="description" content="Premium product reviews and recommendations">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --black: #000000;
+      --charcoal: #1a1a1a;
+      --dark-gray: #2a2a2a;
+      --gray: #4a4a4a;
+      --light-gray: #9a9a9a;
+      --white: #ffffff;
+      --off-white: #f5f5f5;
+      --gold: #c9a961;
+      --gold-dark: #b8944d;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, system-ui, sans-serif;
+      background: var(--white);
+      color: var(--black);
+      line-height: 1.6;
+      overflow-x: hidden;
+      min-height: 100vh;
+    }
+
+    /* Background Line */
+    .background-line {
+      position: fixed;
+      top: 0;
+      left: 50%;
+      width: 1px;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.05);
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    /* Header */
+    .header {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 1000;
+      background: var(--white);
+      border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .header.scrolled {
+      background: rgba(255, 255, 255, 0.98);
+      backdrop-filter: blur(20px);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    }
+
+    .header-top {
+      background: var(--black);
+      color: var(--white);
+      padding: 0.6rem 0;
+      text-align: center;
+      font-size: 0.8125rem;
+      letter-spacing: 0.05em;
+      font-weight: 500;
+    }
+
+    .header-top a {
+      color: var(--gold);
+      text-decoration: none;
+      border-bottom: 1px solid var(--gold);
+      transition: opacity 0.2s;
+    }
+
+    .header-top a:hover {
+      opacity: 0.7;
+    }
+
+    .header-main {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 1.5rem 3rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 3rem;
+      min-height: 73px;
+    }
+
+    .logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-decoration: none;
+      color: var(--black);
+      transition: opacity 0.3s;
+    }
+
+    .logo:hover {
+      opacity: 0.6;
+    }
+
+    .nav {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      gap: 3rem;
+    }
+
+    .nav-link {
+      color: var(--black);
+      text-decoration: none;
+      font-size: 0.875rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      position: relative;
+      transition: opacity 0.3s;
+    }
+
+    .nav-link::after {
+      content: '';
+      position: absolute;
+      bottom: -5px;
+      left: 0;
+      width: 0;
+      height: 1px;
+      background: var(--black);
+      transition: width 0.3s;
+    }
+
+    .nav-link:hover::after {
+      width: 100%;
+    }
+
+    /* Article Container */
+    .article-container {
+      position: relative;
+      z-index: 10;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 10rem 3rem 8rem;
+    }
+
+    /* Main Article */
+    .article-main {
+      width: 100%;
+    }
+
+    .category-badge {
+      display: inline-block;
+      padding: 0.4rem 1rem;
+      background: var(--off-white);
+      font-size: 0.6875rem;
+      font-weight: 600;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--gray);
+      margin-bottom: 2rem;
+    }
+
+    .article-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2rem, 4vw, 3.5rem);
+      font-weight: 400;
+      line-height: 1.2;
+      margin-bottom: 1.5rem;
+      color: var(--black);
+    }
+
+    .article-meta {
+      font-size: 0.875rem;
+      color: var(--light-gray);
+      margin-bottom: 3rem;
+      padding-bottom: 3rem;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    }
+
+    .section {
+      margin-bottom: 3.5rem;
+    }
+
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.5rem;
+      font-weight: 500;
+      margin-bottom: 1.5rem;
+      color: var(--black);
+    }
+
+    .section-content {
+      font-size: 1.0625rem;
+      color: var(--gray);
+      line-height: 1.8;
+      margin-bottom: 1rem;
+    }
+
+    .features-list {
+      list-style: none;
+      padding-left: 0;
+      margin-top: 1.5rem;
+    }
+
+    .features-list li {
+      padding-left: 1.5rem;
+      position: relative;
+      margin-bottom: 0.75rem;
+      font-size: 1rem;
+      color: var(--gray);
+      line-height: 1.8;
+    }
+
+    .features-list li::before {
+      content: '—';
+      position: absolute;
+      left: 0;
+      color: var(--black);
+    }
+
+    /* Pros & Cons Grid */
+    .proscons-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+      margin-top: 1.5rem;
+    }
+
+    .proscons-box {
+      background: var(--off-white);
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      padding: 2rem;
+    }
+
+    .proscons-title {
+      font-size: 1.125rem;
+      font-weight: 600;
+      margin-bottom: 1.25rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .proscons-title.pros {
+      color: #2d7a4f;
+    }
+
+    .proscons-title.cons {
+      color: #b83232;
+    }
+
+    .proscons-list {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .proscons-list li {
+      padding-left: 1.5rem;
+      position: relative;
+      margin-bottom: 0.75rem;
+      font-size: 0.9375rem;
+      color: var(--gray);
+      line-height: 1.7;
+    }
+
+    .proscons-list.pros li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: #2d7a4f;
+      font-weight: bold;
+    }
+
+    .proscons-list.cons li::before {
+      content: '×';
+      position: absolute;
+      left: 0;
+      color: #b83232;
+      font-weight: bold;
+    }
+
+    /* CTA Button */
+    .cta-button {
+      display: inline-block;
+      padding: 1.125rem 3rem;
+      background: var(--black);
+      color: var(--white);
+      text-decoration: none;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      transition: all 0.3s;
+      margin-top: 2rem;
+    }
+
+    .cta-button:hover {
+      background: var(--charcoal);
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--black);
+      color: var(--white);
+      padding: 3rem 3rem 2rem;
+      margin-top: 8rem;
+    }
+
+    .footer-content {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+    }
+
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+
+    .footer-text {
+      font-size: 0.8125rem;
+      color: var(--light-gray);
+      letter-spacing: 0.03em;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 1.5rem;
+      font-size: 0.8125rem;
+    }
+
+    .footer-link {
+      color: var(--light-gray);
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .footer-link:hover {
+      color: var(--white);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header-top {
+        font-size: 0.7rem;
+        padding: 0.5rem 1rem;
+      }
+
+      .header-main {
+        padding: 1rem 1.5rem;
+        gap: 1rem;
+      }
+
+      .logo {
+        font-size: 1.3rem;
+      }
+
+      .nav {
+        display: none;
+      }
+
+      .article-container {
+        padding: 6rem 1.5rem 3rem;
+      }
+
+      .category-badge {
+        font-size: 0.625rem;
+        padding: 0.35rem 0.875rem;
+      }
+
+      .article-title {
+        font-size: 2rem;
+      }
+
+      .section-title {
+        font-size: 1.3rem;
+      }
+
+      .section-content {
+        font-size: 1rem;
+      }
+
+      .proscons-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .proscons-box {
+        padding: 1.5rem;
+      }
+
+      .footer-content {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .footer-logo {
+        font-size: 1.2rem;
+      }
+
+      .footer-text {
+        font-size: 0.75rem;
+      }
+
+      .footer-links {
+        font-size: 0.75rem;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+    }
+  </style>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2984BWSZDG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2984BWSZDG');
+  </script>
 </head>
-<body class="bg-slate-950 text-slate-100 min-h-screen">
-  <!-- Navbar -->
-  <header class="sticky top-0 z-50 border-b border-slate-800 bg-slate-950/80 backdrop-blur-xl">
-    <div class="max-w-6xl mx-auto px-3 sm:px-4 lg:px-6 py-3 flex items-center justify-between gap-3">
-      <div class="flex items-center gap-2">
-        <div class="h-8 w-8 rounded-xl bg-gradient-to-tr from-indigo-500 via-sky-400 to-violet-500"></div>
-        <span class="font-semibold text-base sm:text-lg tracking-tight">DevBlog</span>
-      </div>
-      <nav class="hidden md:flex items-center gap-6 text-xs sm:text-sm text-slate-300">
-        <a href="index.html" class="hover:text-white transition-colors">Home</a>
-        <a href="#" class="hover:text-white transition-colors">Shopping</a>
-        <a href="#" class="hover:text-white transition-colors">About</a>
+<body>
+
+  <!-- Background Line -->
+  <div class="background-line"></div>
+
+  <!-- Header -->
+  <header class="header" id="header">
+    <div class="header-top">
+      FREE SHIPPING ON ORDERS OVER ₹2,999 — <a href="index.html">SHOP NOW</a>
+    </div>
+    <div class="header-main">
+      <a href="index.html" class="logo">AURELIUS ATELIER</a>
+
+      <nav class="nav">
+        <a href="index.html" class="nav-link">Collections</a>
+        <a href="about.html" class="nav-link">About</a>
+        <a href="contact.html" class="nav-link">Contact</a>
       </nav>
-      <button class="hidden sm:inline-flex px-4 py-2 text-xs sm:text-sm font-medium rounded-full bg-slate-100 text-slate-900 hover:bg-white transition-colors">
-        Subscribe
-      </button>
+
+      <!-- Invisible placeholder for layout consistency -->
+      <div style="min-width: 40px; visibility: hidden;">⌕</div>
     </div>
   </header>
 
-  <!-- Post layout -->
-  <main class="max-w-6xl mx-auto px-3 sm:px-4 lg:px-6 py-10 lg:py-14">
-    <div class="grid grid-cols-1 lg:grid-cols-[minmax(0,3fr)_minmax(0,1fr)] gap-10 lg:gap-12">
-      <!-- Main content -->
-      <article class="prose prose-invert max-w-none">
-        <div class="mb-6">
-          <span id="post-category-badge" class="inline-flex items-center rounded-full bg-sky-500/10 px-3 py-1 text-[11px] font-medium text-sky-400">
-            Product
-          </span>
-          <h1 id="post-title" class="mt-4 text-3xl sm:text-4xl font-semibold tracking-tight">Loading...</h1>
-          <div id="post-meta" class="mt-4 flex flex-wrap items-center gap-3 text-xs text-slate-400">
-            Author • Date • Read time
+  <!-- Article Container -->
+  <div class="article-container">
+    <!-- Main Article -->
+    <article class="article-main">
+      <span id="post-category-badge" class="category-badge">PRODUCT</span>
+      <h1 id="post-title" class="article-title">Loading...</h1>
+      <div id="post-meta" class="article-meta">Author • Date • Read time</div>
+
+      <!-- Introduction -->
+      <section id="intro" class="section">
+        <h2 class="section-title">Introduction</h2>
+        <div id="intro-content"></div>
+      </section>
+
+      <!-- Features & Specs -->
+      <section id="features" class="section">
+        <h2 class="section-title">Features & Specifications</h2>
+        <div id="features-content"></div>
+      </section>
+
+      <!-- Pros & Cons -->
+      <section id="proscons" class="section">
+        <h2 class="section-title">Pros & Cons</h2>
+        <div class="proscons-grid">
+          <div class="proscons-box">
+            <h3 class="proscons-title pros">Advantages</h3>
+            <ul id="pros-content" class="proscons-list pros"></ul>
+          </div>
+          <div class="proscons-box">
+            <h3 class="proscons-title cons">Disadvantages</h3>
+            <ul id="cons-content" class="proscons-list cons"></ul>
           </div>
         </div>
+      </section>
 
-        <div class="h-px w-full bg-gradient-to-r from-transparent via-slate-700 to-transparent mb-8"></div>
+      <!-- Conclusion -->
+      <section id="conclusion" class="section">
+        <h2 class="section-title">Final Verdict</h2>
+        <div id="conclusion-content"></div>
+        <a id="affiliate-cta" href="#" target="_blank" rel="noopener noreferrer" class="cta-button">
+          Check Best Price & Buy Now
+        </a>
+      </section>
+    </article>
+  </div>
 
-        <!-- Intro section -->
-        <section id="intro" class="mb-8">
-          <h2 class="text-xl font-semibold mb-3">Introduction</h2>
-          <div id="intro-content"></div>
-        </section>
-
-        <!-- Features -->
-        <section id="features" class="mb-8">
-          <h2 class="text-xl font-semibold mb-3">Features & Specs</h2>
-          <div id="features-content"></div>
-        </section>
-
-        <!-- Pros & cons -->
-        <section id="proscons" class="mb-8 grid grid-cols-1 sm:grid-cols-2 gap-6">
-          <div class="bg-slate-800 rounded-xl p-4">
-            <h3 class="text-lg font-semibold text-green-400 mb-2">Pros</h3>
-            <ul id="pros-content" class="list-disc list-inside text-slate-300"></ul>
-          </div>
-          <div class="bg-slate-800 rounded-xl p-4">
-            <h3 class="text-lg font-semibold text-red-400 mb-2">Cons</h3>
-            <ul id="cons-content" class="list-disc list-inside text-slate-300"></ul>
-          </div>
-        </section>
-
-        <!-- Conclusion -->
-        <section id="conclusion" class="mb-10">
-          <h2 class="text-xl font-semibold mb-3">Conclusion</h2>
-          <div id="conclusion-content" class="mb-6"></div>
-          <a id="affiliate-cta" href="#" target="_blank" rel="noopener" class="inline-block rounded-full bg-sky-500 hover:bg-sky-400 text-slate-900 font-semibold px-6 py-3 shadow-lg transition-colors">
-            Check Best Price & Buy Now →
-          </a>
-        </section>
-      </article>
-
-      <!-- Sidebar -->
-      <aside class="lg:self-start lg:sticky lg:top-24 space-y-6">
-        <div class="rounded-2xl border border-slate-800 bg-slate-900/70 p-4 sm:p-5">
-          <h3 class="text-sm font-semibold mb-3 text-slate-100">On this page</h3>
-          <nav class="text-xs sm:text-sm text-slate-300 space-y-2">
-            <a href="#intro" class="block hover:text-sky-400">Introduction</a>
-            <a href="#features" class="block hover:text-sky-400">Features & Specs</a>
-            <a href="#proscons" class="block hover:text-sky-400">Pros & Cons</a>
-            <a href="#conclusion" class="block hover:text-sky-400">Conclusion</a>
-          </nav>
-        </div>
-
-        <div class="rounded-2xl border border-sky-500/40 bg-gradient-to-br from-sky-500/10 via-slate-900/90 to-indigo-500/10 p-4 sm:p-5">
-          <h3 class="text-sm font-semibold mb-2">Tools used in this guide</h3>
-          <p class="text-xs sm:text-sm text-slate-200 mb-3">
-            Hosting, domain aur analytics ke liye recommended stack. Yahan apne affiliate links daal sakte ho.
-          </p>
-          <ul class="text-xs sm:text-sm text-slate-200 space-y-1.5 mb-4">
-            <li>• Fast hosting for small SaaS</li>
-            <li>• Simple analytics dashboard</li>
-            <li>• Design assets & icons pack</li>
-          </ul>
-          <a href="#" class="inline-flex items-center justify-center w-full rounded-full bg-sky-500 text-slate-950 text-xs sm:text-sm font-semibold py-2.5 hover:bg-sky-400 transition-colors">
-            Get the full stack →
-          </a>
-          <p class="mt-2 text-[10px] text-slate-400">
-            Affiliate disclosure can go here.
-          </p>
-        </div>
-      </aside>
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-logo">AURELIUS ATELIER</div>
+      <p class="footer-text">© 2026 Aurelius Atelier. All rights reserved.</p>
+      <div class="footer-links">
+        <a href="privacy.html" class="footer-link">Privacy Policy</a>
+        <span style="color: var(--gray);">•</span>
+        <a href="terms.html" class="footer-link">Terms of Service</a>
+        <span style="color: var(--gray);">•</span>
+        <a href="about.html" class="footer-link">About</a>
+        <span style="color: var(--gray);">•</span>
+        <a href="contact.html" class="footer-link">Contact</a>
+      </div>
     </div>
-  </main>
+  </footer>
 
   <!-- Scripts -->
   <script src="data.js"></script>
   <script>
+    // Header scroll effect
+    window.addEventListener('scroll', () => {
+      const header = document.getElementById('header');
+      if (window.pageYOffset > 100) {
+        header.classList.add('scrolled');
+      } else {
+        header.classList.remove('scrolled');
+      }
+    }, { passive: true });
+
+    // Get post slug from URL
     const params = new URLSearchParams(window.location.search);
     const slug = params.get("slug") || "best-budget-laptop-2025";
 
+    // Find post data
     const post = posts.find(p => p.slug === slug) || posts[0];
 
-    document.title = post.title + " – DevBlog";
+    // Update page title
+    document.title = post.title + " — Aurelius Atelier";
 
+    // Update meta information
     document.getElementById("post-title").textContent = post.title;
     document.getElementById("post-meta").textContent =
       `${post.author} • ${post.date} • ${post.readTime}`;
 
-    // Category badge & color
+    // Update category badge
     const badgeEl = document.getElementById("post-category-badge");
-    badgeEl.textContent = post.category;
-    const badgeColorClasses = {
-      Laptop: "bg-sky-500/10 text-sky-400",
-      Hosting: "bg-indigo-500/10 text-indigo-400",
-      Tool: "bg-violet-500/10 text-violet-400",
-      Tutorial: "bg-sky-500/10 text-sky-400",
-      AI: "bg-indigo-500/10 text-indigo-400",
-      Money: "bg-violet-500/10 text-violet-400"
-    };
-    badgeEl.className =
-      "inline-flex items-center rounded-full px-3 py-1 text-[11px] font-medium " +
-      (badgeColorClasses[post.category] || "bg-slate-500/10 text-slate-400");
+    badgeEl.textContent = post.category.toUpperCase();
 
-    // Sections filling funcs
+    // Fill sections
     function fillSection(id, lines) {
       const el = document.getElementById(id);
       if (!el || !lines) return;
       if (Array.isArray(lines)) {
-        el.innerHTML = lines.map(line => `<p class="text-slate-300 mb-3">${line}</p>`).join("");
+        el.innerHTML = lines.map(line => `<p class="section-content">${line}</p>`).join("");
       } else if (typeof lines === "string") {
-        el.innerHTML = `<p class="text-slate-300 mb-3">${lines}</p>`;
-      } else {
-        el.innerHTML = "";
+        el.innerHTML = `<p class="section-content">${lines}</p>`;
       }
+    }
+
+    function fillList(id, items) {
+      const el = document.getElementById(id);
+      if (!el || !items) return;
+      el.innerHTML = items.map(item => `<li>${item}</li>`).join("");
     }
 
     fillSection("intro-content", post.sections?.intro);
     fillSection("features-content", post.sections?.layout);
-    fillSection("pros-content", post.sections?.pros || []);
-    fillSection("cons-content", post.sections?.cons || []);
+    fillList("pros-content", post.sections?.pros);
+    fillList("cons-content", post.sections?.cons);
     fillSection("conclusion-content", post.sections?.conclusion);
 
-    // Affiliate CTA
+    // Update CTA button
     const cta = post.cta || {};
     const ctaBtn = document.getElementById("affiliate-cta");
     if (cta.url) {
       ctaBtn.href = cta.url;
-      ctaBtn.textContent = cta.text || "Check Best Price & Buy Now →";
+      ctaBtn.textContent = cta.text || "Check Best Price & Buy Now";
       ctaBtn.style.display = "inline-block";
     } else {
       ctaBtn.style.display = "none";
     }
   </script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-G-2984BWSZDG"></script>
 </body>
 </html>

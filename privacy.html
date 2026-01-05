@@ -2,73 +2,618 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Privacy Policy - Shopify</title>
+  <title>Privacy Policy — Aurelius Atelier</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="output.css" />
-</head>
-<body class="bg-slate-950 text-slate-100 min-h-screen">
+  <meta name="description" content="Privacy Policy for Shopify">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   
-  <!-- Navbar (same as shopping.html) -->
-  <header class="sticky top-0 z-50 border-b border-slate-800 bg-slate-950/80 backdrop-blur-xl">
-    <!-- Copy navbar from shopping.html -->
-    <div class="max-w-6xl mx-auto px-3 sm:px-4 lg:px-6 py-3 flex items-center justify-between gap-3">
-      <div class="flex items-center gap-2">
-        <div class="h-8 w-8 rounded-xl bg-gradient-to-tr from-indigo-500 via-sky-400 to-violet-500"></div>
-        <span class="font-semibold text-base sm:text-lg tracking-tight">Shopify</span>
-      </div>
-      <nav class="hidden md:flex items-center gap-6 text-slate-300">
-        <a href="index.html" class="hover:text-white">Home</a>
-        <a href="shopping.html" class="hover:text-white">Shopping</a>
-        <a href="about.html" class="hover:text-white">About</a>
-        <a href="privacy.html" class="text-white font-semibold">Privacy</a>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --black: #000000;
+      --charcoal: #1a1a1a;
+      --dark-gray: #2a2a2a;
+      --gray: #4a4a4a;
+      --light-gray: #9a9a9a;
+      --white: #ffffff;
+      --off-white: #f5f5f5;
+      --gold: #c9a961;
+      --gold-dark: #b8944d;
+    }
+
+    html {
+      scroll-behavior: smooth;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, system-ui, sans-serif;
+      background: var(--white);
+      color: var(--black);
+      line-height: 1.6;
+      overflow-x: hidden;
+      min-height: 100vh;
+    }
+
+    /* Background Line */
+    .background-line {
+      position: fixed;
+      top: 0;
+      left: 50%;
+      width: 1px;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.05);
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    /* Header */
+    .header {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 1000;
+      background: var(--white);
+      border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+      transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .header.scrolled {
+      background: rgba(255, 255, 255, 0.98);
+      backdrop-filter: blur(20px);
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    }
+
+    .header-top {
+      background: var(--black);
+      color: var(--white);
+      padding: 0.6rem 0;
+      text-align: center;
+      font-size: 0.8125rem;
+      letter-spacing: 0.05em;
+      font-weight: 500;
+    }
+
+    .header-top a {
+      color: var(--gold);
+      text-decoration: none;
+      border-bottom: 1px solid var(--gold);
+      transition: opacity 0.2s;
+    }
+
+    .header-top a:hover {
+      opacity: 0.7;
+    }
+
+    .header-main {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 1.5rem 3rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 3rem;
+      min-height: 73px;
+    }
+
+    .logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.75rem;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-decoration: none;
+      color: var(--black);
+      transition: opacity 0.3s;
+    }
+
+    .logo:hover {
+      opacity: 0.6;
+    }
+
+    .nav {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      gap: 3rem;
+    }
+
+    .nav-link {
+      color: var(--black);
+      text-decoration: none;
+      font-size: 0.875rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      position: relative;
+      transition: opacity 0.3s;
+    }
+
+    .nav-link::after {
+      content: '';
+      position: absolute;
+      bottom: -5px;
+      left: 0;
+      width: 0;
+      height: 1px;
+      background: var(--black);
+      transition: width 0.3s;
+    }
+
+    .nav-link:hover::after,
+    .nav-link.active::after {
+      width: 100%;
+    }
+
+    .nav-link.active {
+      font-weight: 600;
+    }
+
+    /* Privacy Hero */
+    .privacy-hero {
+      position: relative;
+      z-index: 10;
+      padding: 12rem 3rem 4rem;
+      text-align: center;
+      max-width: 1600px;
+      margin: 0 auto;
+    }
+
+    .privacy-label {
+      font-size: 0.75rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--gray);
+      margin-bottom: 2rem;
+      font-weight: 600;
+    }
+
+    .privacy-hero h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2.5rem, 5vw, 4.5rem);
+      font-weight: 300;
+      line-height: 1.1;
+      margin-bottom: 1.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    .privacy-date {
+      font-size: 0.875rem;
+      color: var(--gray);
+      font-weight: 500;
+    }
+
+    .privacy-divider {
+      width: 60px;
+      height: 1px;
+      background: var(--black);
+      margin: 3rem auto;
+    }
+
+    /* Privacy Content */
+    .privacy-content {
+      position: relative;
+      z-index: 10;
+      max-width: 900px;
+      margin: 0 auto 8rem;
+      padding: 0 3rem;
+    }
+
+    .content-section {
+      margin-bottom: 3.5rem;
+    }
+
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.375rem;
+      font-weight: 500;
+      margin-bottom: 1.25rem;
+      color: var(--black);
+    }
+
+    .section-text {
+      font-size: 1rem;
+      color: var(--gray);
+      line-height: 1.8;
+      margin-bottom: 1rem;
+    }
+
+    .content-list {
+      list-style: none;
+      padding-left: 0;
+      margin-top: 1rem;
+    }
+
+    .content-list li {
+      font-size: 1rem;
+      color: var(--gray);
+      line-height: 1.8;
+      margin-bottom: 0.75rem;
+      padding-left: 1.5rem;
+      position: relative;
+    }
+
+    .content-list li::before {
+      content: '—';
+      position: absolute;
+      left: 0;
+      color: var(--black);
+    }
+
+    .content-link {
+      color: var(--black);
+      text-decoration: none;
+      border-bottom: 1px solid var(--black);
+      transition: opacity 0.3s;
+    }
+
+    .content-link:hover {
+      opacity: 0.6;
+    }
+
+    .highlight-box {
+      background: var(--off-white);
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      padding: 1.75rem;
+      margin: 2rem 0;
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--black);
+      color: var(--white);
+      padding: 3rem 3rem 2rem;
+      margin-top: 8rem;
+    }
+
+    .footer-content {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+    }
+
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+
+    .footer-text {
+      font-size: 0.8125rem;
+      color: var(--light-gray);
+      letter-spacing: 0.03em;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 1.5rem;
+      font-size: 0.8125rem;
+    }
+
+    .footer-link {
+      color: var(--light-gray);
+      text-decoration: none;
+      transition: color 0.3s;
+    }
+
+    .footer-link:hover {
+      color: var(--white);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .header-top {
+        font-size: 0.7rem;
+        padding: 0.5rem 1rem;
+      }
+
+      .header-main {
+        padding: 1rem 1.5rem;
+        gap: 1rem;
+      }
+
+      .logo {
+        font-size: 1.3rem;
+      }
+
+      .nav {
+        display: none;
+      }
+
+      .privacy-hero {
+        padding: 8rem 1.5rem 3rem;
+      }
+
+      .privacy-label {
+        font-size: 0.65rem;
+        margin-bottom: 1rem;
+      }
+
+      .privacy-hero h1 {
+        font-size: 2.5rem;
+        margin-bottom: 1.5rem;
+      }
+
+      .privacy-date {
+        font-size: 0.8125rem;
+      }
+
+      .privacy-divider {
+        width: 40px;
+        margin: 2rem auto;
+      }
+
+      .privacy-content {
+        padding: 0 1.5rem;
+        margin-bottom: 4rem;
+      }
+
+      .content-section {
+        margin-bottom: 2.5rem;
+      }
+
+      .section-title {
+        font-size: 1.2rem;
+        margin-bottom: 1rem;
+      }
+
+      .section-text,
+      .content-list li {
+        font-size: 0.9375rem;
+      }
+
+      .highlight-box {
+        padding: 1.25rem;
+      }
+
+      .footer {
+        padding: 2rem 1.5rem 1.5rem;
+        margin-top: 4rem;
+      }
+
+      .footer-content {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .footer-logo {
+        font-size: 1.2rem;
+      }
+
+      .footer-text {
+        font-size: 0.75rem;
+      }
+
+      .footer-links {
+        font-size: 0.75rem;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Background Line -->
+  <div class="background-line"></div>
+
+  <!-- Header -->
+  <header class="header" id="header">
+    <div class="header-top">
+      FREE SHIPPING ON ORDERS OVER ₹2,999 — <a href="index.html">SHOP NOW</a>
+    </div>
+    <div class="header-main">
+      <a href="index.html" class="logo">Aurelius Atelier</a>
+
+      <nav class="nav">
+        <a href="index.html" class="nav-link">Collections</a>
+        <a href="about.html" class="nav-link">About</a>
+        <a href="contact.html" class="nav-link">Contact</a>
       </nav>
-      <button id="mobile-menu-button" class="md:hidden h-9 w-9 rounded-full border border-slate-700 text-slate-200">☰</button>
+
+      <!-- Invisible placeholder for layout consistency -->
+      <div style="min-width: 40px; visibility: hidden;">⌕</div>
     </div>
   </header>
 
-  <main class="max-w-4xl mx-auto px-4 py-16">
-    <div class="bg-slate-900/60 rounded-2xl border border-slate-800 p-8 mb-8">
-      <h1 class="text-3xl font-bold mb-6">Privacy Policy</h1>
-      <div class="space-y-6 text-sm leading-relaxed">
-        <p><strong>Last Updated:</strong> December 2025</p>
-        
-        <section>
-          <h2 class="text-xl font-semibold mb-3 text-sky-400">1. Information We Collect</h2>
-          <p>We collect minimal information including IP addresses, browser type, and pages visited for analytics and improving user experience.</p>
-        </section>
+  <!-- Privacy Hero -->
+  <section class="privacy-hero">
+    <div class="privacy-label">YOUR PRIVACY MATTERS</div>
+    <h1>Privacy Policy</h1>
+    <p class="privacy-date">Last Updated: January 5, 2026</p>
+    <div class="privacy-divider"></div>
+  </section>
 
-        <section>
-          <h2 class="text-xl font-semibold mb-3 text-sky-400">2. Cookies & Tracking</h2>
-          <p>This website uses Amazon affiliate cookies to track purchases you make after clicking our links. These cookies expire within 24 hours (or 90 days if purchase completed).</p>
-        </section>
+  <!-- Privacy Content -->
+  <section class="privacy-content">
+    <div class="content-section">
+      <h2 class="section-title">Introduction</h2>
+      <p class="section-text">
+        At Aurelius Atelier, we are committed to protecting your privacy and ensuring transparency 
+        in how we collect, use, and safeguard your information. This Privacy Policy explains 
+        our practices regarding data collection and usage when you visit our website.
+      </p>
+    </div>
 
-        <section>
-          <h2 class="text-xl font-semibold mb-3 text-sky-400">3. Amazon Affiliate Disclosure</h2>
-          <p>Shopify participates in the Amazon Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.in.</p>
-        </section>
+    <div class="content-section">
+      <h2 class="section-title">1. Information We Collect</h2>
+      <p class="section-text">
+        We collect minimal information to improve user experience and provide better services:
+      </p>
+      <ul class="content-list">
+        <li>IP addresses for analytics and security purposes</li>
+        <li>Browser type and version</li>
+        <li>Pages visited and time spent on our website</li>
+        <li>Referral sources (how you found our website)</li>
+        <li>Device information (desktop, mobile, tablet)</li>
+      </ul>
+      <p class="section-text">
+        We do not collect personally identifiable information such as names, email addresses, 
+        or phone numbers unless you voluntarily provide them through our contact form.
+      </p>
+    </div>
 
-        <section>
-          <h2 class="text-xl font-semibold mb-3 text-sky-400">4. Your Rights</h2>
-          <p>You can opt-out of cookies through your browser settings. We do not sell or share personal data with third parties.</p>
-        </section>
+    <div class="content-section">
+      <h2 class="section-title">2. Cookies & Tracking Technologies</h2>
+      <p class="section-text">
+        This website uses cookies to enhance your browsing experience and track affiliate 
+        purchases. Here's what you need to know:
+      </p>
+      <ul class="content-list">
+        <li>Amazon affiliate cookies track purchases made after clicking our links</li>
+        <li>Session cookies expire within 24 hours</li>
+        <li>Purchase attribution cookies may last up to 90 days if a purchase is completed</li>
+        <li>Analytics cookies help us understand user behavior and improve our content</li>
+      </ul>
+      <p class="section-text">
+        You can disable cookies through your browser settings, though this may affect 
+        your experience on our website and prevent us from earning affiliate commissions 
+        on your purchases.
+      </p>
+    </div>
 
-        
+    <div class="content-section">
+      <h2 class="section-title">3. Amazon Affiliate Disclosure</h2>
+      <div class="highlight-box">
+        <p class="section-text">
+          Aurelius Atelier participates in the Amazon Associates Program, an affiliate advertising 
+          program designed to provide a means for websites to earn advertising fees by 
+          advertising and linking to Amazon.in and other Amazon marketplaces. When you 
+          click on an Amazon link and make a purchase, we may earn a small commission 
+          at no additional cost to you. This commission helps support our website operations 
+          and allows us to continue providing free content.
+        </p>
       </div>
     </div>
-  </main>
 
-  <!-- Footer (same as shopping.html) -->
-  <footer class="border-t border-slate-800 bg-slate-950/80 py-8 px-4">
-    <div class="max-w-6xl mx-auto text-center text-sm text-slate-400">
-      <p>© 2025 Shopify. <a href="privacy.html" class="hover:text-white">Privacy Policy</a></p>
+    <div class="content-section">
+      <h2 class="section-title">4. How We Use Your Information</h2>
+      <p class="section-text">
+        The information we collect is used for the following purposes:
+      </p>
+      <ul class="content-list">
+        <li>Analyzing website traffic and user behavior patterns</li>
+        <li>Improving website content and user experience</li>
+        <li>Tracking affiliate sales and commissions</li>
+        <li>Ensuring website security and preventing fraud</li>
+        <li>Responding to contact form inquiries</li>
+      </ul>
+    </div>
+
+    <div class="content-section">
+      <h2 class="section-title">5. Third-Party Services</h2>
+      <p class="section-text">
+        We may use third-party services that collect, monitor, and analyze data:
+      </p>
+      <ul class="content-list">
+        <li>Google Analytics for website traffic analysis</li>
+        <li>Amazon Associates for affiliate tracking</li>
+        <li>Hosting providers for website infrastructure</li>
+      </ul>
+      <p class="section-text">
+        These third parties have their own privacy policies and we encourage you to 
+        review them. We are not responsible for the privacy practices of external websites.
+      </p>
+    </div>
+
+    <div class="content-section">
+      <h2 class="section-title">6. Data Security</h2>
+      <p class="section-text">
+        We implement reasonable security measures to protect your information from 
+        unauthorized access, alteration, disclosure, or destruction. However, no method 
+        of transmission over the internet is 100% secure, and we cannot guarantee 
+        absolute security.
+      </p>
+    </div>
+
+    <div class="content-section">
+      <h2 class="section-title">7. Your Rights & Choices</h2>
+      <p class="section-text">
+        You have the following rights regarding your data:
+      </p>
+      <ul class="content-list">
+        <li>Opt-out of cookies through browser settings</li>
+        <li>Request information about data we collect</li>
+        <li>Request deletion of your data (where applicable)</li>
+        <li>Choose not to provide personal information</li>
+      </ul>
+      <p class="section-text">
+        We do not sell, rent, or share your personal data with third parties for 
+        marketing purposes.
+      </p>
+    </div>
+
+    <div class="content-section">
+      <h2 class="section-title">8. Children's Privacy</h2>
+      <p class="section-text">
+        Our website is not directed to children under the age of 13. We do not knowingly 
+        collect personal information from children. If you are a parent or guardian and 
+        believe your child has provided us with personal information, please contact us.
+      </p>
+    </div>
+
+    <div class="content-section">
+      <h2 class="section-title">9. Changes to This Privacy Policy</h2>
+      <p class="section-text">
+        We may update this Privacy Policy from time to time. Changes will be posted on 
+        this page with an updated "Last Updated" date. We encourage you to review this 
+        policy periodically to stay informed about how we protect your information.
+      </p>
+    </div>
+
+    <div class="content-section">
+      <h2 class="section-title">10. Contact Us</h2>
+      <p class="section-text">
+        If you have any questions, concerns, or requests regarding this Privacy Policy 
+        or our data practices, please contact us at: 
+        <a href="mailto:tyagivarshit262@gmail.com" class="content-link">tyagivarshit262@gmail.com</a>
+      </p>
+    </div>
+
+    <div style="border-top: 1px solid rgba(0, 0, 0, 0.08); padding-top: 2rem; margin-top: 3rem;">
+      <p style="font-size: 0.875rem; color: var(--light-gray); text-align: center;">
+        Last Updated: January 5, 2026
+      </p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-logo">Aurelius Atelier</div>
+      <p class="footer-text">© 2026 Aurelius Atelier. All rights reserved.</p>
+      <div class="footer-links">
+        <a href="privacy.html" class="footer-link" style="color: var(--white); font-weight: 600;">Privacy Policy</a>
+        <span style="color: var(--gray);">•</span>
+        <a href="terms.html" class="footer-link">Terms of Service</a>
+        <span style="color: var(--gray);">•</span>
+        <a href="about.html" class="footer-link">About</a>
+        <span style="color: var(--gray);">•</span>
+        <a href="contact.html" class="footer-link">Contact</a>
+      </div>
     </div>
   </footer>
 
   <script>
-    // Mobile menu toggle
-    document.getElementById('mobile-menu-button')?.addEventListener('click', () => {
-      document.getElementById('mobile-menu')?.classList.toggle('hidden');
-    });
+    window.addEventListener('scroll', () => {
+      const header = document.getElementById('header');
+      if (window.pageYOffset > 100) {
+        header.classList.add('scrolled');
+      } else {
+        header.classList.remove('scrolled');
+      }
+    }, { passive: true });
   </script>
 </body>
 </html>
