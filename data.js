@@ -7027,6 +7027,325 @@ const posts = [
     "url": "https://amzn.to/4qx9kLw",
     "text": "Check Latest Price on Amazon →"
   }
+},
+{
+  "slug": "sotrue-pink-strobe-cream-review",
+  "category": "Skincare",
+  "readTime": "3 min read",
+  "badgeColor": "pink",
+  "title": "Sotrue Pink Strobe Cream Review – Dewy Glazed Glow & Hydration for All Skin Types",
+  "excerpt": "Instant dewy, glazed glow chahiye without chunky shimmer? Sotrue Pink Strobe Cream 3-in-1 formula hai jo moisturizer + primer + subtle highlighter ka kaam karta hai, skin ko hydrate karke soft, rosy radiance deta hai – daily use ke liye perfect.",
+  "date": "Jan 2026",
+  "author": "You",
+  "image": "./images/Sotrue Strobe Cream Pink for Face Radiance.jpg",
+  "price": "₹295",
+  "rating": 4.4,
+  "ctaLabel": "Buy Sotrue Pink Strobe Cream",
+  "ctaUrl": "https://amzn.to/3L1aNuz",
+
+  "sections": {
+    "introduction": [
+      "Agar tumko ‘no-makeup, glow-from-within’ look pasand hai ya foundation ko dewy banana chahte ho, to Sotrue Pink Strobe Cream ek kaafi versatile option hai.",
+      "Ye multipurpose strobe cream face radiance, hydration aur subtle highlighting ke liye bana hai – dry, normal, oily sab skin types par lightweight, dewy finish deta hai."
+    ],
+
+    "features": [
+      "3-in-1 formula – moisturizer + primer + liquid highlighter; ek hi step me skin ko hydrate, smooth aur glow deta hai.",
+      "Pink illuminating tone – soft rosy sheen deta hai jo dull skin ko instantly bright aur fresh dikhata hai.",
+      "Dewy glazed finish – chunky glitter ke bina, fine light-reflecting particles se natural “wet skin” type glow.",
+      "Hydration-boosting actives – formula skin ko moisturize karta hai, isliye dry patches par bhi glow evenly dikhta hai.",
+      "Lightweight & non-sticky texture – skin me jaldi absorb ho jata hai, heavy ya greasy feel nahi aata.",
+      "For all skin types – oily, combination, dry skin sab par kaam karne ke liye design kiya gaya hai (thin layer best)."
+    ],
+
+    "pros": [
+      "Instant glow – dull/tired skin ko turant healthy, lit-from-within finish deta hai.",
+      "Multi-use product – as moisturizer + glow base, as liquid highlighter, ya foundation/BB cream ke saath mix karke.",
+      "No chunky shimmer – everyday office/college ke liye subtle, skin-like radiance.",
+      "Hydrating – makeup ke neeche dryness ko better handle karta hai, especially winters me.",
+      "Good for no-makeup days – sirf ye + kajal/mascara + lip balm se fresh, dewy look mil jata hai."
+    ],
+
+    "cons": [
+      "Very oily skin par T-zone thodi zyada shiny lag sakti hai, isliye mattifying powder ya matte primer sath rakhna better hai.",
+      "Pink undertone medium–dusky skin par thoda zyada bright lag sakta hai agar overapply karo; thin layer ya sirf high points par use karna best hai.",
+      "Full coverage foundation lovers ko ye zyada subtle lag sakta hai – ye more “skin glow” hai, not blinding highlighter."
+    ],
+
+    "bestFor": [
+      "College/office girls jo quick 5-minute glow routine chahte hain.",
+      "Dry ya dull skin jise hydration + radiance dono chahiye.",
+      "No-makeup makeup look, brunch, date, daily wear ya soft glam ke liye.",
+      "Beginners jo powder highlighter ki jagah easy, blendable cream glow chahte hain."
+    ],
+
+    "conclusion": [
+      "Sotrue Pink Strobe Cream un logon ke liye ideal hai jo subtle, dewy, glazed glow chahte hain bina heavy foundation ya chunky highlighter ke.",
+      "Agar tumko hydrated, soft-focus, rosy radiance wali skin pasand hai – especially daily wear ya soft glam looks ke liye – to ye strobe cream price, performance aur versatility ke hisaab se ek strong value-for-money choice hai."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/3L1aNuz",
+    "text": "Check Latest Price on Amazon →"
+  }
+},
+{
+  "slug": "mars-makeup-remover-wet-wipes-review",
+  "category": "Skincare",
+  "readTime": "3 min read",
+  "badgeColor": "green",
+  "title": "MARS Makeup Remover Wet Wipes Review – Green Tea & Aloe Based Hydrating Cleansing Wipes",
+  "excerpt": "Quick makeup remove karna hai without stripping your skin? MARS Makeup Remover Wet Wipes 30 soft cotton wipes ke pack me aate hain, jo green tea & aloe vera extract se skin ko cleanse, soothe aur hydrate karte hain while maintaining pH balance.",
+  "date": "Jan 2026",
+  "author": "You",
+  "image": "./images/MARS Makeup Remover Wet Wipes for Face.jpg",
+  "price": "₹99",
+  "rating": 4.3,
+  "ctaLabel": "Buy MARS Makeup Remover Wipes",
+  "ctaUrl": "https://amzn.to/4snLzr7",
+
+  "sections": {
+    "introduction": [
+      "Agar tum daily makeup pehnte ho ya sirf sunscreen, dust aur sweat ko jaldi remove karna chahte ho, to MARS Makeup Remover Wet Wipes ek convenient on-the-go option hai.",
+      "Ye wipes cotton-soft fabric, hydrating formula, green tea & aloe vera extracts ke saath aate hain, jo skin ko cleanse karte hue soothe aur fresh feel dete hain."
+    ],
+
+    "features": [
+      "30 cotton soft wipes – ek pack me 30 pre-moistened wipes, travel aur daily use ke liye perfect count.",
+      "Makeup remover + cleanser – base makeup, light eye makeup aur daily dirt/sweat ko gently dissolve karne ke liye formulate kiye gaye.",
+      "Green tea extract – antioxidant benefit ke saath skin ko calm aur refresh feel deta hai.",
+      "Aloe vera extract – hydration aur soothing effect, especially after makeup removal ya sun exposure.",
+      "pH balanced formula – skin barrier ko respect karta hai, over-drying ya tightness kam hoti hai.",
+      "Soft, non-abrasive texture – cottony feel face par gentle lagta hai, harsh rubbing ki need kam hoti hai.",
+      "Travel-friendly pack – flip-top / resealable lid moisture lock karta hai, wipes jaldi dry nahi hote."
+    ],
+
+    "pros": [
+      "Quick & convenient – late nights, travel, office, gym ya emergencies ke liye perfect ‘grab & wipe’ solution.",
+      "Hydrating feel – cleansing ke baad skin zyada tight ya stripped nahi lagti, basic moisture maintained rehta hai.",
+      "Gentle formula – daily light makeup, BB cream, compact, sunscreen removals ke liye kaafi gentle.",
+      "Cotton-soft wipes – texture soft hai, sensitive areas (eyes, around nose) par relatively comfortable.",
+      "Budget-friendly – under ₹120 me 30 wipes, per-wipe cost kaafi affordable."
+    ],
+
+    "cons": [
+      "Heavy waterproof mascara / long-wear matte liquid lipstick ke liye multiple wipes ya separate remover ki zarurat pad sakti hai.",
+      "Very sensitive skin par kabhi-kabhi mild tingling / burning feel ho sakta hai, especially agar already irritation ya active acne ho.",
+      "Wipes eco-friendly option nahi hote – daily use ke liye long term me reusable cloth + cleanser better rahega; wipes ko flush nahi karna chahiye."
+    ],
+
+    "bestFor": [
+      "College & office users jo din bhar ke makeup/sunscreen ko jaldi remove karna chahte hain.",
+      "Travel, road trips, flights, gym bag ya handbag me quick freshen-up ke liye.",
+      "Beginners ya minimal routine lovers jo micellar water + cotton pad ka extra step avoid karna chahte hain.",
+      "Light to medium coverage makeup, BB cream, compact, kajal & lipstick ko daily basis par remove karne ke liye."
+    ],
+
+    "conclusion": [
+      "MARS Makeup Remover Wet Wipes daily ya on-the-go cleansing ke liye ek affordable, hydrating aur convenient option hain – especially un logon ke liye jo green tea & aloe based gentle formula prefer karte hain.",
+      "Best results ke liye heavy makeup days par in wipes ke baad ek mild face wash use karna ideal hoga, taaki skin completely clean rahe aur pores me residue na rahe."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/4snLzr7",
+    "text": "Check Latest Price on Amazon →"
+  }
+},
+{
+  "slug": "air-tight-plastic-storage-containers-review",
+  "category": "Home Needs",
+  "readTime": "3 min read",
+  "badgeColor": "blue",
+  "title": "Air Tight Plastic Storage Containers Review – 1200ml x 6 Pantry & Fridge Organizers",
+  "excerpt": "Kitchen ka mess khatam karna chahte ho? Ye Air Tight Plastic Storage Containers Set (1200ml x 6) leak-proof lids, stackable design aur durable plastic ke saath aata hai – perfect for dal, rice, spices, snacks aur fridge organization.",
+  "date": "Jan 2026",
+  "author": "You",
+  "image": "./images/Air Tight Plastic Storage Containers Set for Kitchen.jpg",
+  "price": "₹394",
+  "rating": 4.3,
+  "ctaLabel": "Buy Storage Containers Set",
+  "ctaUrl": "https://amzn.to/45HWge5",
+
+  "sections": {
+    "introduction": [
+      "Agar tumhare kitchen shelves, fridge ya pantry me dal, rice, masale, snacks aur leftovers bikhre rehte hain, to ye Air Tight Plastic Storage Containers ek complete organization solution hai.",
+      "1200ml capacity x 6 containers ka set stackable design, leak-proof lids aur BPA-free plastic ke saath aata hai – perfect for Indian households jahan food storage ka proper system chahiye."
+    ],
+
+    "features": [
+      "1200ml capacity – dal, rice, atta, besan, poha, poori dal, namkeen, dry fruits ke liye perfect size.",
+      "Set of 6 containers – family ke liye sufficient quantity, different food items ke liye alag-alag containers.",
+      "Air tight leak-proof lids – silicone gasket wale lids moisture aur air ko andar nahi aane dete, food fresh rehta hai.",
+      "Stackable design – kitchen shelf ya fridge me space saving, neatly organized dikhta hai.",
+      "BPA-free durable plastic – food-grade material, long-lasting aur safe.",
+      "Transparent body – andar ka food easily dikhta hai, label ki zarurat nahi.",
+      "Microwave & dishwasher safe – heating aur cleaning dono easy."
+    ],
+
+    "pros": [
+      "Food fresh rehta hai – airtight seal ki wajah se moisture, insects aur badboo se protection.",
+      "Space saving – stackable design ki wajah se shelf aur fridge me organized storage.",
+      "1200ml perfect size – na zyada chhota, na zyada bada, daily Indian kitchen ke liye ideal.",
+      "Transparent containers – content easily visible, searching ki tension nahi.",
+      "Value for money – 6 containers ek saath, individual kharidne se sasta padta hai.",
+      "Easy maintenance – microwave safe aur dishwasher safe, cleaning hassle-free."
+    ],
+
+    "cons": [
+      "Lids ka lock system thoda tight ho sakta hai, opening me practice chahiye.",
+      "Very heavy items (rice sacks) ke liye suitable nahi, daily grocery ke liye best.",
+      "Color options limited ho sakte hain, mostly transparent hi available."
+    ],
+
+    "bestFor": [
+      "Indian households jahan dal, rice, masale, snacks organize karne hain.",
+      "Small families (4-6 log) jinke liye 1200ml size perfect hai.",
+      "Kitchen organizers jo shelf aur fridge ka mess khatam karna chahte hain.",
+      "Users jo airtight, stackable aur budget-friendly storage solution chahte hain."
+    ],
+
+    "conclusion": [
+      "Air Tight Plastic Storage Containers 1200ml x 6 set kitchen organization ka complete solution hai jo food freshness, space saving aur easy maintenance sab provide karta hai.",
+      "Agar tumhare kitchen me food storage ka proper system chahiye aur tum dal, rice, masale, snacks ko neatly organize karna chahte ho, to ye containers under ₹600 me ek smart, value-for-money choice hain."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/45HWge5",
+    "text": "Check Latest Price on Amazon →"
+  }
+},
+{
+  "slug": "go-store-bamboo-cutting-board-review",
+  "category": "Home Needs",
+  "readTime": "3 min read",
+  "badgeColor": "green",
+  "title": "Go Store Bamboo Cutting Board Review – Large Non-Slip Antibacterial Wooden Board with Steel Handle",
+  "excerpt": "Premium quality bamboo cutting board chahiye jo hygienic aur durable ho? Go Store Large Non-Slip Bamboo Cutting Board antibacterial surface, stainless steel handle aur non-slip base ke saath aata hai – perfect for daily chopping, veggies, meat aur presentation.",
+  "date": "Jan 2026",
+  "author": "You",
+  "image": "./images/Go Store Large Non-Slip.jpg",
+  "price": "₹264",
+  "rating": 4.4,
+  "ctaLabel": "Buy Go Store Bamboo Cutting Board",
+  "ctaUrl": "https://amzn.to/3YXhNMa",
+
+  "sections": {
+    "introduction": [
+      "Agar tumhare kitchen me ek premium quality, hygienic aur stylish cutting board chahiye jo daily chopping ke liye durable ho, to Go Store Large Bamboo Cutting Board ek solid choice hai.",
+      "Ye bamboo wood ka cutting board antibacterial surface, stainless steel handle aur non-slip base ke saath aata hai – perfect for veggies, meat, herbs aur even serving ke liye."
+    ],
+
+    "features": [
+      "Material: 100% Natural Bamboo – eco-friendly, naturally antibacterial aur knife-friendly.",
+      "Size: Large (30x20 cm approx) – ample space for chopping veggies, meat, fruits aur herbs.",
+      "Non-slip base – rubberized bottom counter par stable rakhta hai, safety badhata hai.",
+      "Antibacterial surface – bamboo naturally bacteria resist karta hai, hygienic rehta hai.",
+      "Stainless steel handle – premium feel, easy grip aur durable.",
+      "Juice groove design – meat juices ko collect karta hai, counter par spread nahi hone deta.",
+      "Lightweight yet sturdy – easy to handle aur store karne me convenient."
+    ],
+
+    "pros": [
+      "Natural antibacterial properties – bamboo wood bacteria aur odor absorb kam karta hai.",
+      "Knife-friendly surface – sharp knives ko dull nahi karta, long-lasting cutting performance.",
+      "Non-slip stability – wet counter par bhi stable rehta hai, accidents se bachata hai.",
+      "Stainless steel handle – premium look aur feel, easy to grip even with wet hands.",
+      "Juice groove – meat juices collect hote hain, counter clean rehta hai.",
+      "Eco-friendly – sustainable bamboo material, plastic boards se better choice."
+    ],
+
+    "cons": [
+      "Regular oiling/maintenance ki zarurat padti hai (coconut/vegetable oil) taaki dry na ho.",
+      "Dishwasher safe nahi – hand wash only, warm water + mild soap se clean karna better.",
+      "Heavy use ke baad thoda knife marks dikh sakte hain, normal bamboo boards jaisa."
+    ],
+
+    "bestFor": [
+      "Daily cooking lovers jo veggies, herbs, meat chop karte hain.",
+      "Health-conscious users jo plastic boards se bacteria exposure avoid karna chahte hain.",
+      "Kitchen organizers jo stylish, functional cutting board chahte hain.",
+      "Users jo eco-friendly, durable aur knife-friendly surface prefer karte hain."
+    ],
+
+    "conclusion": [
+      "Go Store Bamboo Cutting Board kitchen ka must-have tool hai jo hygiene, durability aur style ka perfect balance offer karta hai.",
+      "Agar tum daily cooking karte ho aur ek premium quality, naturally antibacterial, non-slip cutting board chahte ho jo counter par stable rahe aur knife-friendly ho, to ye board under ₹500 me ek smart investment hai."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/3YXhNMa",
+    "text": "Check Latest Price on Amazon →"
+  }
+},
+{
+  "slug": "leawall-3-in-1-soap-dispenser-review",
+  "category": "Home Needs",
+  "readTime": "3 min read",
+  "badgeColor": "blue",
+  "title": "Leawall 3-in-1 Soap Dispenser Review – Soap Pump + Sponge Holder for Kitchen & Bathroom",
+  "excerpt": "Kitchen sink ya bathroom basin ke paas soap bottle, sponge aur scrubber ka mess khatam! Leawall 3-in-1 Soap Dispenser liquid soap pump, sponge holder aur scrubber rack ke saath aata hai – space-saving aur stylish kitchen accessory.",
+  "date": "Jan 2026",
+  "author": "You",
+  "image": "./images/Leawall 3-in-1 Soap Dispenser with Sponge Holder.jpg",
+  "price": "₹148",
+  "rating": 4.3,
+  "ctaLabel": "Buy Leawall 3-in-1 Soap Dispenser",
+  "ctaUrl": "https://amzn.to/4bjlT8H",
+
+  "sections": {
+    "introduction": [
+      "Agar tumhare kitchen sink ya bathroom basin ke paas soap bottle, sponge aur scrubber alag-alag rakhe rehte hain aur counter messy lagta hai, to Leawall 3-in-1 Soap Dispenser ek smart space-saving solution hai.",
+      "Ye single unit me liquid soap dispenser, sponge holder aur scrubber rack offer karta hai – perfect for small kitchens, bathrooms aur organized households."
+    ],
+
+    "features": [
+      "3-in-1 functionality – liquid soap pump + sponge holder + scrubber rack ek hi unit me.",
+      "300ml soap capacity – family ke liye sufficient, frequent refill ki zarurat nahi.",
+      "Non-slip base – counter par stable rehta hai, slip hone ka risk kam.",
+      "Transparent soap chamber – soap level easily dikhta hai, refill time ka pata chal jata hai.",
+      "Sponge holder – sponge ko dry aur hygienic rakhta hai, pani drip nahi hota.",
+      "Scrubber rack – scrubber ko organize karta hai, counter par bikhra nahi rehta.",
+      "Multicolor options – kitchen/bathroom decor ke saath match kar sakte ho.",
+      "Durable plastic construction – long-lasting aur easy to clean."
+    ],
+
+    "pros": [
+      "Space saving – 3 items ki jagah sirf ek unit, counter clutter dramatically kam hota hai.",
+      "Organized look – soap, sponge aur scrubber sab ek jagah, professional kitchen feel.",
+      "Easy to use – soap pump one-hand operation, sponge/scubber easily accessible.",
+      "Hygienic sponge storage – sponge holder pani absorb nahi karta, bacteria growth kam.",
+      "Transparent soap level – kab refill karna hai easily pata chal jata hai.",
+      "Budget-friendly – under ₹350 me high utility kitchen accessory."
+    ],
+
+    "cons": [
+      "Soap chamber size thoda chhota ho sakta hai large families ke liye.",
+      "Plastic quality average hai, premium ceramic/metal dispensers se kam sturdy feel.",
+      "Refill karte time thoda spill ho sakta hai, careful pouring chahiye."
+    ],
+
+    "bestFor": [
+      "Small kitchen owners jo counter space save karna chahte hain.",
+      "Working professionals jo quick, mess-free handwashing setup chahte hain.",
+      "Small families (2-4 log) jahan daily moderate soap usage hota hai.",
+      "Bathroom users jo basin ke paas organized soap + sponge setup chahte hain.",
+      "Budget buyers jo multifunctional kitchen accessories prefer karte hain."
+    ],
+
+    "conclusion": [
+      "Leawall 3-in-1 Soap Dispenser kitchen aur bathroom counter ka mess organize karne ka perfect solution hai jo space saving, hygiene aur convenience sab deta hai.",
+      "Agar tum small kitchen ya bathroom me organized, clutter-free soap station chahte ho, to ye dispenser under ₹350 me ek practical, value-for-money kitchen accessory hai."
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/4bjlT8H",
+    "text": "Check Latest Price on Amazon →"
+  }
 }
 ]
 
