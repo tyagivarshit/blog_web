@@ -7600,6 +7600,67 @@ const posts = [
     "url": "https://amzn.to/45BCbpR",
     "text": "Check Latest Price on Amazon →"
   }
+},
+  {
+  "slug": "huda-girl-rose-gold-nude-eyeshadow-combo-review",
+  "category": "Skincare",
+  "readTime": "3 min read",
+  "badgeColor": "pink",
+  "title": "HUDA GIRL Rose Gold Remastered + Nude Edition Eyeshadow Combo Review – 36 Matte & Shimmer Shades",
+  "excerpt": "Budget me high-end inspired eye looks? HUDA GIRL Beauty Rose Gold Remastered + Nude Edition Eyeshadow Palette Combo 36 richly-pigmented matte & shimmer shades ke saath aata hai, jisme black eyeshadow bhi included hai – everyday nude se full glam bridal looks tak sab cover ho jate hain.[web:129][web:130][web:132]",
+  "date": "Jan 2026",
+  "author": "You",
+  "image": "./images/HUDA GIRL Beauty Rose Gold Remastered.jpg",
+  "price": "₹289",
+  "rating": 4.2,
+  "ctaLabel": "Buy HUDA GIRL Rose Gold + Nude Combo",
+  "ctaUrl": "https://amzn.to/4qhyRsm",
+
+  "sections": {
+    "introduction": [
+      "Ye combo do palettes ke saath aata hai – ek Rose Gold Remastered inspired palette aur ek Nude/New Nude inspired palette, dono milkar total 36 matte & shimmer eye shadows provide karte hain.[web:129][web:133]",
+      "Combo ka focus versatile looks hai: soft nude office makeup, warm brown smokey eyes, rose gold party looks aur intense black ke saath dramatic glam sab possible hai.[web:129][web:132]"
+    ],
+
+    "features": [
+      "Total 36 shades – mix of matte, shimmer & metallic finishes, jisme ek deep black shade bhi included hai for smokey looks & eyeliner effect.[web:129][web:132]",
+      "Rose Gold palette – warm browns, rose, copper, champagne aur gold tones jo Indian skintones par kaafi flattering lagte hain.[web:129][web:133]",
+      "Nude palette – soft beige, mauve, pink nude, brown nudes aur highlight shades jo daily natural looks ke liye perfect hain.[web:130][web:133]",
+      "Finish – mattes blendable, shimmers foil-like glow ke saath; payoff decent to good with primer.[web:132][web:135]",
+      "Packaging – slim plastic/cardboard palettes with clear top / printed design, travel-friendly & kit-friendly size.[web:129][web:132]",
+      "Use – bridal, party, festive, office, college sab ke liye versatile color story; beginners aur budget makeup lovers ke liye targeted.[web:130][web:133]"
+    ],
+
+    "pros": [
+      "Shade range – 2 palettes me nude, brown, rose gold, gold, copper, black… almost har type ka eye look possible ho jata hai.[web:129][web:132]",
+      "Value for money – Myntra/other sites par combo ₹250–₹350 ke around mil jata hai, jo per shade cost ko bahut affordable bana deta hai.[web:128][web:130]",
+      "Pigmentation – user reviews ke hisaab se color payoff 8/10 rated hai, especially shimmers & deeper mattes (primer ke saath best result).[web:131][web:135]",
+      "Beginner friendly – shades easily blend ho jate hain, bahut harsh ya patchy nahi lagte when applied with basic brushes.[web:132][web:133]",
+      "Looks-wise premium – palettes ka overall look & shade layout high-end inspired lagta hai, isliye gifting ke liye bhi accha option hai.[web:131][web:133]"
+    ],
+
+    "cons": [
+      "Not original Huda Beauty – ye HUDA GIRL inspired/combo brand hai, to quality exact high-end jaisi expect nahi karni chahiye.[web:129][web:132]",
+      "Fallout – kuch shimmer & darker matte shades me pan se uthate waqt fallout aa sakta hai, isliye pehle eyes, baad me base karna better.[web:132][web:135]",
+      "Staying power medium – oily eyelids par bina primer 4–5 ghante baad fading ho sakti hai; primer use karna recommended hai.[web:132][web:135]"
+    ],
+
+    "bestFor": [
+      "Beginners jo low-budget me large shade range aur experiment-friendly palette combo chahte hain.[web:130][web:132]",
+      "College & office users jinko nude + occasional glam dono type looks chahiye without spending on high-end palettes.[web:129][web:133]",
+      "Content creators / learners jo practice ke liye multiple colors chahte hain but affordable range nahi cross karna chahte.[web:131][web:132]"
+    ],
+
+    "conclusion": [
+      "HUDA GIRL Beauty Rose Gold Remastered + Nude Edition Combo un users ke liye ideal hai jo budget me high-end inspired shade range, decent pigmentation aur versatile matte + shimmer collection chahte hain.[web:129][web:132][web:133]",
+      "Agar tum affordable price par daily nude se leke full glam smokey & bridal looks tak cover karne wala eye shadow set dhundh rahe ho, to ye 36-shade combo value-for-money choice hai, especially primer ke saath use karne par.[web:130][web:131][web:135]"
+    ]
+  },
+
+  "cta": {
+    "url": "https://amzn.to/4qhyRsm",
+    "text": "Check Latest Price & Shades →"
+  }
 }
 ]
 
